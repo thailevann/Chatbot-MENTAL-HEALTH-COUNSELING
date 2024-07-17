@@ -61,8 +61,8 @@ def vector_storage(pdf_folder):
       embed_model=embed_model
   )
   return index
-
-def retrival_reraking(pdf_folder, query):
+index = vector_storage("./data")
+def retrival_reraking(pdf_folder, query, index):
   #https://console.groq.com/keys
   from llama_index.llms.groq import Groq
 
@@ -77,7 +77,7 @@ def retrival_reraking(pdf_folder, query):
       top_n=2, # number of nodes after re-ranking,
       keep_retrieval_score=True,
   )
-  index = vector_storage(pdf_folder)
+  #index = vector_storage(pdf_folder)
   query_engine = index.as_query_engine(
       similarity_top_k=2,  # Number of nodes before re-ranking
       node_postprocessors=[rerank_postprocessor],
@@ -126,7 +126,7 @@ def new_response(prompt, response1, summarize):
               Hãy đưa ra lời khuyên bằng tiếng việt dài 150 từ, không được hơn
               """
               # Get next response based on updated query
-              response2 = retrival_reraking("./data", query2)
+              response2 = retrival_reraking("./data", query2, index)
               return summarize, response2
 
 def simulate_conversation():
@@ -172,7 +172,7 @@ def simulate_conversation():
       if "messages" not in st.session_state:
           st.session_state.messages = []
 
-      response = retrival_reraking("./data", query2)
+      response = retrival_reraking("./data", query2, index)
       with st.chat_message("assistant"):
               st.markdown(response)
               st.session_state.messages.append({"role": "assistant", "content": response})
