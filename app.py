@@ -34,7 +34,7 @@ def semantic_splitter(pdf_folder, embed_model, device_type):
   return nodes
 
 def vector_storage(pdf_folder):
-  device_type = torch.device("cuda" if torch.cuda.is_available else "cpu")
+  device_type =  torch.device("cpu")
   embed_model = HuggingFaceEmbedding(model_name="BAAI/bge-small-en-v1.5", device=device_type) # must be the same as the previous stage
   client = weaviate.Client(embedded_options=EmbeddedOptions())
   index_name = "RAG_Doc"
