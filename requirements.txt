@@ -1,0 +1,13 @@
+llama-index
+pypdf
+llama-index-llms-huggingface
+llama-index-embeddings-huggingface
+bitsandbytes
+accelerate
+weaviate-client==3.*
+llama-index-vector-stores-weaviate==0.1.4
+groq
+torch
+sentence-transformers
+llama-index-llms-groq
+streamlit
