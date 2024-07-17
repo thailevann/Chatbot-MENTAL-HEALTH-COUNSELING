@@ -1,6 +1,9 @@
 from llama_index.core import SimpleDirectoryReader
 from llama_index.core.node_parser import SentenceSplitter
 from llama_index.core import Settings, VectorStoreIndex
+from llama_index.llms.huggingface import HuggingFaceLLM
+import torch
+from transformers import BitsAndBytesConfig, AutoModelForCausalLM, AutoTokenizer
 
 from llama_index.core.node_parser import (
     SentenceSplitter,
@@ -66,8 +69,14 @@ def retrival_reraking(pdf_folder, query, index):
   #https://console.groq.com/keys
   from llama_index.llms.groq import Groq
 
-  llm = Groq(model="llama3-8b-8192", api_key="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")
-  Settings.llm = llm
+  #llm = Groq(model="llama3-8b-8192", api_key="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")
+  nf4_config = BitsAndBytesConfig(load_in_4bit=True,bnb_4bit_quant_type="nf4",bnb_4bit_use_double_quant=True,bnb_4bit_compute_dtype=torch.bfloat16)
+  model_id = "Viet-Mistral/Vistral-7B-Chat"
+  hf_token = "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"
+  model = AutoModelForCausalLM.from_pretrained(model_id, quantization_config=nf4_config, token=hf_token)
+  hf_llm = HuggingFaceLLM(model=model, tokenizer=tokenizer)
+  Settings.llm = hf_llm
+    
 
   hyde = HyDEQueryTransform(include_original=True)
 
@@ -103,7 +112,7 @@ def list_of_symptoms(history_chat, summarize ):
                 "content": prompt,
             }
         ],
-        model="llama3-70b-8192",  # Chọn model phù hợp
+        model="llama3-8b-8192",  # Chọn model phù hợp
     )
 
   return chat_completion.choices[0].message.content
