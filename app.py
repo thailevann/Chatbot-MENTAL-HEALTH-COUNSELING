@@ -69,13 +69,9 @@ def retrival_reraking(pdf_folder, query, index):
   #https://console.groq.com/keys
   from llama_index.llms.groq import Groq
 
-  #llm = Groq(model="llama3-8b-8192", api_key="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")
-  nf4_config = BitsAndBytesConfig(load_in_4bit=True,bnb_4bit_quant_type="nf4",bnb_4bit_use_double_quant=True,bnb_4bit_compute_dtype=torch.bfloat16)
-  model_id = "Viet-Mistral/Vistral-7B-Chat"
-  hf_token = "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"
-  model = AutoModelForCausalLM.from_pretrained(model_id, quantization_config=nf4_config, token=hf_token)
-  hf_llm = HuggingFaceLLM(model=model, tokenizer=tokenizer)
-  Settings.llm = hf_llm
+  llm = Groq(model="llama3-8b-8192", api_key="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")
+
+  Settings.llm = llm
     
 
   hyde = HyDEQueryTransform(include_original=True)
@@ -182,6 +178,12 @@ def simulate_conversation():
           st.session_state.messages = []
 
       response = retrival_reraking("./data", query2, index)
+      nf4_config = BitsAndBytesConfig(load_in_4bit=True,bnb_4bit_quant_type="nf4",bnb_4bit_use_double_quant=True,bnb_4bit_compute_dtype=torch.bfloat16)
+      model_id = "Viet-Mistral/Vistral-7B-Chat"
+      hf_token = "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"
+      model = AutoModelForCausalLM.from_pretrained(model_id, quantization_config=nf4_config, token=hf_token)
+      hf_llm = HuggingFaceLLM(model=model, tokenizer=tokenizer)
+      
       with st.chat_message("assistant"):
               st.markdown(response)
               st.session_state.messages.append({"role": "assistant", "content": response})
