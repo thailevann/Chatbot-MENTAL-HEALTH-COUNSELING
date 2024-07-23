@@ -198,6 +198,6 @@ if __name__ == "__main__":
   pdf_folder = "./data"
   index = vector_storage(pdf_folder)
   if "index" not in st.session_state:
-      st.session_state.index1 1 = []
-      st.session_state.index1 1.append(index)
+      st.session_state.index1  = []
+      st.session_state.index1.append(index)
   simulate_conversation()
