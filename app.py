@@ -79,12 +79,12 @@ def retrival_reraking(pdf_folder, query, index):
   query_bundle = hyde.run(query)
   rerank_postprocessor = SentenceTransformerRerank(
       model='mixedbread-ai/mxbai-rerank-xsmall-v1',
-      top_n=2, # number of nodes after re-ranking,
+      top_n=1, # number of nodes after re-ranking,
       keep_retrieval_score=True,
   )
   #index = vector_storage(pdf_folder)
   query_engine = index.as_query_engine(
-      similarity_top_k=2,  # Number of nodes before re-ranking
+      similarity_top_k=3,  # Number of nodes before re-ranking
       node_postprocessors=[rerank_postprocessor],
   )
   return query_engine.query(query).response
@@ -97,7 +97,7 @@ def list_of_symptoms(history_chat, summarize ):
     summarize = "Không có hồ sơ trước đó"
   prompt = f"""
   Hồ sơ bệnh nhân trước đó: {summarize}
-  Bạn đang đóng vai là một nhà tư vấn sức khỏe tâm thần, người dùng tìm đến bạn là người cần tham vấn sức khỏe tâm thần, bạn hãy tóm tắt thành các thông tin cần thiết bằng tiếng việt dựa vào hồ sơ bệnh nhân trước đó và cuộc hội thoại sau:
+  Bạn là một nhà tư vấn sức khỏe tâm thần, dưới góc độ là người tư vấn sức khỏe tâm thần bạn hãy tóm tắt đoạn hội thoại sau bằng tiếng việt:
   {history_chat}
   """
     # Gọi API của Groq để sinh ra câu trả lời
@@ -128,7 +128,7 @@ def new_response(prompt, response1, summarize):
               {summarize}
               Đoạn hội thoại tiếp theo:
               {history_chat}
-              Hãy đưa ra lời khuyên bằng tiếng việt dài 150 từ, không được hơn
+              Hãy đưa ra lời khuyên, chẩn đoán mới bằng tiếng việt dài tối đa 150 từ. 
               """
               # Get next response based on updated query
               response2 = retrival_reraking("./data", query2, index)
