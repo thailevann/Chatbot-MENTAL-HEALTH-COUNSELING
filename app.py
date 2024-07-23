@@ -127,7 +127,7 @@ def new_response(prompt, response1, summarize):
               Hãy đưa ra lời khuyên bằng tiếng việt dài 150 từ, không được hơn
               """
               # Get next response based on updated query
-              response2 = retrival_reraking(query2, index)
+              response2 = retrival_reraking(query2, st.session_state.index )
               return summarize, response2
 
 def simulate_conversation():
@@ -172,8 +172,8 @@ def simulate_conversation():
       """
       if "messages" not in st.session_state:
           st.session_state.messages = []
-
-      response = retrival_reraking( query2, index)
+        
+      response = retrival_reraking( query2,st.session_state.index )
       with st.chat_message("assistant"):
               st.markdown(response)
               st.session_state.messages.append({"role": "assistant", "content": response})
