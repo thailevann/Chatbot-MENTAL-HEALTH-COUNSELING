@@ -195,7 +195,7 @@ def simulate_conversation():
         # Add assistant response to chat history
         st.session_state.messages.append({"role": "assistant", "content": response})
 if __name__ == "__main__":
-  pdf_folder = "/content/Chatbot-MENTAL-HEALTH-COUNSELING/data"
+  pdf_folder = "./data"
   index = vector_storage(pdf_folder)
   if "index" not in st.session_state:
     st.session_state.index = index
