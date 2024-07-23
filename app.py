@@ -112,11 +112,12 @@ def simulate_conversation():
     for idx, question in enumerate(questions):
         answers[idx] = st.text_input(f"Người tư vấn: {question}")
         history_chat1 += f"Người tư vấn: {question}\nNgười dùng: {answers[idx]}\n"
-
-    # Wait until all questions have been answered
-    while any(answer == "" for answer in answers):
+    # Kiểm tra xem tất cả các câu hỏi đã được trả lời chưa
+    if all(answer != "" for answer in answers):
+        st.write("Tất cả các câu hỏi đã được trả lời.")
+    else:
         st.warning("Vui lòng trả lời đầy đủ các câu hỏi trước khi tiếp tục.")
-        st.stop()  # Stop execution until all questions are answered
+        st.stop()  # Dừng thực thi cho đến khi tất cả các câu hỏi được trả lời
     if "summarize1" not in st.session_state:
       st.session_state.summarize1 = []
       # Process the conversation history to get initial summary
