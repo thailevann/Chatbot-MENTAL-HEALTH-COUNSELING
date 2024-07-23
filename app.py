@@ -127,7 +127,7 @@ def new_response(prompt, response1, summarize):
               Hãy đưa ra lời khuyên bằng tiếng việt dài 150 từ, không được hơn
               """
               # Get next response based on updated query
-              response2 = retrival_reraking(query2, st.session_state.index )
+              response2 = retrival_reraking(query2, st.session_state.index1  )
               return summarize, response2
 
 def simulate_conversation():
@@ -173,7 +173,7 @@ def simulate_conversation():
       if "messages" not in st.session_state:
           st.session_state.messages = []
         
-      response = retrival_reraking( query2,st.session_state.index )
+      response = retrival_reraking( query2,st.session_state.index1  )
       with st.chat_message("assistant"):
               st.markdown(response)
               st.session_state.messages.append({"role": "assistant", "content": response})
@@ -198,5 +198,6 @@ if __name__ == "__main__":
   pdf_folder = "./data"
   index = vector_storage(pdf_folder)
   if "index" not in st.session_state:
-    st.session_state.index = index
+      st.session_state.index1 1 = []
+      st.session_state.index1 1.append(index)
   simulate_conversation()
