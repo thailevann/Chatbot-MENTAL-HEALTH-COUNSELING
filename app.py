@@ -196,8 +196,8 @@ def simulate_conversation():
         st.session_state.messages.append({"role": "assistant", "content": response})
 if __name__ == "__main__":
   pdf_folder = "./data"
-  index = vector_storage(pdf_folder)
   if "index" not in st.session_state:
+      index = vector_storage(pdf_folder)
       st.session_state.index1  = []
       st.session_state.index1.append(index)
   simulate_conversation()
