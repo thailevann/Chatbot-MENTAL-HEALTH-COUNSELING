@@ -1,9 +1,8 @@
+%%writefile app.py
+
 from llama_index.core import SimpleDirectoryReader
 from llama_index.core.node_parser import SentenceSplitter
 from llama_index.core import Settings, VectorStoreIndex
-from llama_index.llms.huggingface import HuggingFaceLLM
-import torch
-from transformers import BitsAndBytesConfig, AutoModelForCausalLM, AutoTokenizer
 
 from llama_index.core.node_parser import (
     SentenceSplitter,
@@ -64,27 +63,25 @@ def vector_storage(pdf_folder):
       embed_model=embed_model
   )
   return index
-index = vector_storage("./data")
-def retrival_reraking(pdf_folder, query, index):
+
+def retrival_reraking( query, index):
   #https://console.groq.com/keys
   from llama_index.llms.groq import Groq
 
   llm = Groq(model="llama3-8b-8192", api_key="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")
-
   Settings.llm = llm
-    
 
   hyde = HyDEQueryTransform(include_original=True)
 
   query_bundle = hyde.run(query)
   rerank_postprocessor = SentenceTransformerRerank(
       model='mixedbread-ai/mxbai-rerank-xsmall-v1',
-      top_n=1, # number of nodes after re-ranking,
+      top_n=2, # number of nodes after re-ranking,
       keep_retrieval_score=True,
   )
-  #index = vector_storage(pdf_folder)
+  
   query_engine = index.as_query_engine(
-      similarity_top_k=3,  # Number of nodes before re-ranking
+      similarity_top_k=2,  # Number of nodes before re-ranking
       node_postprocessors=[rerank_postprocessor],
   )
   return query_engine.query(query).response
@@ -95,11 +92,11 @@ def list_of_symptoms(history_chat, summarize ):
   client = Groq(api_key= "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",)
   if summarize == None:
     summarize = "Không có hồ sơ trước đó"
-  prompt = f"""
-  Hồ sơ bệnh nhân trước đó: {summarize}
-  Bạn là một nhà tư vấn sức khỏe tâm thần, dưới góc độ là người tư vấn sức khỏe tâm thần bạn hãy tóm tắt đoạn hội thoại sau bằng tiếng việt:
-  {history_chat}
-  """
+    prompt = f"""
+    Hồ sơ bệnh nhân trước đó: {summarize}
+    Bạn là một nhà tư vấn sức khỏe tâm thần, dưới góc độ là người tư vấn sức khỏe tâm thần bạn hãy tóm tắt đoạn hội thoại sau bằng tiếng việt:
+    {history_chat}
+    """
     # Gọi API của Groq để sinh ra câu trả lời
   chat_completion = client.chat.completions.create(
         messages=[
@@ -108,7 +105,7 @@ def list_of_symptoms(history_chat, summarize ):
                 "content": prompt,
             }
         ],
-        model="llama3-8b-8192",  # Chọn model phù hợp
+        model="llama3-70b-8192",  # Chọn model phù hợp
     )
 
   return chat_completion.choices[0].message.content
@@ -128,10 +125,10 @@ def new_response(prompt, response1, summarize):
               {summarize}
               Đoạn hội thoại tiếp theo:
               {history_chat}
-              Hãy đưa ra lời khuyên, chẩn đoán mới bằng tiếng việt dài tối đa 150 từ. 
+              Hãy đưa ra lời khuyên bằng tiếng việt dài 150 từ, không được hơn
               """
               # Get next response based on updated query
-              response2 = retrival_reraking("./data", query2, index)
+              response2 = retrival_reraking(query2, index)
               return summarize, response2
 
 def simulate_conversation():
@@ -177,8 +174,7 @@ def simulate_conversation():
       if "messages" not in st.session_state:
           st.session_state.messages = []
 
-      response = retrival_reraking("./data", query2, index)
-      
+      response = retrival_reraking( query2, index)
       with st.chat_message("assistant"):
               st.markdown(response)
               st.session_state.messages.append({"role": "assistant", "content": response})
@@ -200,4 +196,8 @@ def simulate_conversation():
         # Add assistant response to chat history
         st.session_state.messages.append({"role": "assistant", "content": response})
 if __name__ == "__main__":
+  pdf_folder = "/content/Chatbot-MENTAL-HEALTH-COUNSELING/data"
+  index = vector_storage(pdf_folder)
+  if "index" not in st.session_state:
+    st.session_state.index = index
   simulate_conversation()
