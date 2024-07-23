@@ -13,7 +13,7 @@ from llama_index.embeddings.huggingface import HuggingFaceEmbedding
 
 import os
 import torch
-import os
+
 
 from llama_index.core import VectorStoreIndex, StorageContext
 from llama_index.vector_stores.weaviate import WeaviateVectorStore
@@ -23,45 +23,7 @@ from weaviate.embedded import EmbeddedOptions
 from llama_index.core.postprocessor import SentenceTransformerRerank
 
 from llama_index.core.indices.query.query_transform import HyDEQueryTransform
-import os
 import streamlit as st
-
-def semantic_splitter(pdf_folder, embed_model, device_type):
-  documents = SimpleDirectoryReader(pdf_folder).load_data()
-  splitter = SemanticSplitterNodeParser(
-      buffer_size=1, breakpoint_percentile_threshold=95, embed_model=embed_model
-  )
-  nodes = splitter.get_nodes_from_documents(documents)
-  return nodes
-
-def vector_storage(pdf_folder):
-  device_type =  torch.device("cpu")
-  embed_model = HuggingFaceEmbedding(model_name="BAAI/bge-small-en-v1.5", device=device_type) # must be the same as the previous stage
-  client = weaviate.Client(embedded_options=EmbeddedOptions())
-  index_name = "RAG_Doc"
-
-  # Construct vector store
-  vector_store = WeaviateVectorStore(
-      weaviate_client = client,
-      index_name = index_name,
-  )
-  # Set up the storage for the embeddings
-  storage_context = StorageContext.from_defaults(vector_store=vector_store)
-
-  # If an index with the same index name already exists within Weaviate, delete it
-  if client.schema.exists(index_name):
-      client.schema.delete_class(index_name)
-
-  # Setup the index
-  # build VectorStoreIndex that takes care of chunking documents
-  # and encoding chunks to embeddings for future retrieval
-  nodes = semantic_splitter(pdf_folder, embed_model, device_type)
-  index = VectorStoreIndex(
-      nodes,
-      storage_context = storage_context,
-      embed_model=embed_model
-  )
-  return index
 
 def retrival_reraking( query, index):
   #https://console.groq.com/keys
@@ -173,7 +135,7 @@ def simulate_conversation():
       if "messages" not in st.session_state:
           st.session_state.messages = []
         
-      response = retrival_reraking( query2,st.session_state.index1  )
+      response = retrival_reraking( query2,st.session_state.index1 )
       with st.chat_message("assistant"):
               st.markdown(response)
               st.session_state.messages.append({"role": "assistant", "content": response})
@@ -197,6 +159,42 @@ def simulate_conversation():
 if __name__ == "__main__":
   pdf_folder = "./data"
   if "index" not in st.session_state:
+      def semantic_splitter(pdf_folder, embed_model, device_type):
+          documents = SimpleDirectoryReader(pdf_folder).load_data()
+          splitter = SemanticSplitterNodeParser(
+              buffer_size=1, breakpoint_percentile_threshold=95, embed_model=embed_model
+          )
+          nodes = splitter.get_nodes_from_documents(documents)
+          return nodes
+      def vector_storage(pdf_folder):
+          device_type =  torch.device("cpu")
+          embed_model = HuggingFaceEmbedding(model_name="BAAI/bge-small-en-v1.5", device=device_type) # must be the same as the previous stage
+          client = weaviate.Client(embedded_options=EmbeddedOptions())
+          index_name = "RAG_Doc"
+        
+          # Construct vector store
+          vector_store = WeaviateVectorStore(
+              weaviate_client = client,
+              index_name = index_name,
+          )
+          # Set up the storage for the embeddings
+          storage_context = StorageContext.from_defaults(vector_store=vector_store)
+        
+          # If an index with the same index name already exists within Weaviate, delete it
+          if client.schema.exists(index_name):
+              client.schema.delete_class(index_name)
+        
+          # Setup the index
+          # build VectorStoreIndex that takes care of chunking documents
+          # and encoding chunks to embeddings for future retrieval
+          nodes = semantic_splitter(pdf_folder, embed_model, device_type)
+          index = VectorStoreIndex(
+              nodes,
+              storage_context = storage_context,
+              embed_model=embed_model
+          )
+          return index
+
       index = vector_storage(pdf_folder)
       st.session_state.index1  = []
       st.session_state.index1.append(index)
