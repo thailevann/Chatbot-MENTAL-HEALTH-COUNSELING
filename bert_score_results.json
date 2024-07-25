@@ -1,0 +1,1430 @@
+[
+    {
+        "questionText": "Tôi bị bệnh ung thư vú và mất ngủ cả đời. tôi có quá nhiều tiền sử trầm cảm và bắt đầu có vấn đề.",
+        "predictedAnswer": "\n    Cảm giác buồn bã và lo lắng khi đối mặt với căn bệnh ung bướu như vậy là hoàn toàn bình thường. Việc mất ngủ do trầm cảm có thể làm cho việc đối phó trở nên khó khăn hơn. Tôi khuyên bạn nên tìm kiếm sự giúp đỡ chuyên nghiệp từ một nhà tâm lý học hoặc tư vấn viên có thể hướng dẫn bạn qua những cảm xúc phức tạp này. Họ có thể cung cấp cho bạn các chiến lược để đối phó với căn bản của nỗi buồn bã của bạn và giúp bạn tìm ra các phương pháp đối phó để kiểm soát lo lắng của bạn. Ngoài ra, việc tham gia vào các hoạt động mà bạn thích hoặc tìm kiếm các nhóm hỗ trợ có thể mang lại sự an ủi và sự hiểu biết. Hãy nhớ rằng, cảm xúc của bạn là hoàn hảo, và việc tìm kiếm hỗ trợ là điều bình thường trong những thời điểm khó khăn như vậy.",
+        "actualAnswer": "Nó là rất phổ biến cho người dân để có nhiều vấn đề mà họ muốn để (và cần phải) địa chỉ trong tư liệu. tôi đã có khách hàng yêu cầu cùng một câu hỏi và thông qua sự khám phá, có thường là một nỗi sợ tiềm ẩn rằng họ không thể được giúp đỡ\" hoặc rằng họ sẽ \"quá nhiều cho bác sĩ tâm lý của họ\" tôi không biết nếu bất kỳ của vòng này đúng cho bạn. nhưng, hầu hết mọi người có nhiều hơn một vấn đề trong cuộc sống của họ và nhiều hơn nhiều hơn nữa, nhiều người có nhiều người có nhiều áp lực trong cuộc sống của họ. hoặc rằng họ sẽ phải đối mặt với cuộc sống, nó có thể được phức tạp! cuộc sống có thể được hoàn toàn sẵn sàng để xử lý các vấn đề lớn hoặc nhỏ trong một số vấn đề mà bạn sẽ giúp đỡ nhiều trong các vấn đề mà bạn có nhiều vấn đề mà bạn sẽ không bao giờ phải đối mặt trước tiên.",
+        "bert_score": {
+            "precision": 0.6982024312019348,
+            "recall": 0.6877400875091553,
+            "f1": 0.6929318308830261
+        },
+        "bleu_score": 2.168378499020085,
+        "rouge_score": {
+            "rouge1": 0.7262773722627737,
+            "rouge2": 0.28205128205128205,
+            "rougeL": 0.3248175182481752
+        },
+        "predictedSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "actualSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "questionText": "Tôi bị bệnh ung thư vú và mất ngủ cả đời. tôi có quá nhiều tiền sử trầm cảm và bắt đầu có vấn đề.",
+        "predictedAnswer": "\n    Cảm giác bị quá tải và lo lắng là điều tự nhiên trong thời gian khó khăn như vậy. Quan trọng là ưu tiên sức khỏe của bạn và tìm kiếm sự hỗ trợ từ bạn bè, gia đình và bác sĩ chuyên khoa. Hãy nhớ rằng, việc tìm kiếm tư vấn từ một chuyên viên tâm lý có thể giúp bạn đối mặt với những cảm xúc này và cung cấp các chiến lược để đối phó với chúng. Hãy chăm sóc bản thân bằng cách tham gia vào các hoạt động mang lại niềm vui và sự an ủi, như dành thời gian với người thân yêu, tập thể dục và tham gia các hoạt động sáng tạo. Hãy mạnh mẽ và nhớ rằng bạn không đơn độc trong hành trình này.",
+        "actualAnswer": "Tôi chưa bao giờ nghe nói về một người nào có vấn đề nào đó để trị liệu có hiệu quả. một chuyên gia trị liệu sẽ giúp đỡ bạn trong việc xác định nguyên nhân gốc của vấn đề của bạn và điều trị đầu tiên. những vấn đề nằm ở đầu tiên. những vấn đề nằm ở đây. những vấn đề nằm ở đây là những triệu chứng khác nhau của bạn nên được cải thiện. ví dụ, một quá khứ của chấn thương tình dục có thể gây ra rối loạn giấc ngủ, sự lo lắng, và tự mãn. tôi sẽ bắt đầu với những tổn thương tâm lý bằng cách sử dụng phương pháp chăm sóc y tế y tế và cho phép người thân thể xử lý các mối quan hệ và các mối quan hệ bị tổn thương cơ thể phát triển trong việc phản ứng với các tổn thương. bởi những điều này chúng ta có thể cải thiện cảm giác về bản thân và cảm giác của chính mình.",
+        "bert_score": {
+            "precision": 0.7158949375152588,
+            "recall": 0.7031470537185669,
+            "f1": 0.7094637155532837
+        },
+        "bleu_score": 2.1897508169205313,
+        "rouge_score": {
+            "rouge1": 0.74321503131524,
+            "rouge2": 0.33542976939203356,
+            "rougeL": 0.3423799582463466
+        },
+        "predictedSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "actualSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "questionText": "Tôi bị bệnh ung thư vú và mất ngủ cả đời. tôi có quá nhiều tiền sử trầm cảm và bắt đầu có vấn đề.",
+        "predictedAnswer": "\n    Cảm giác lo lắng và buồn bã là điều tự nhiên khi đối mặt với căn bệnh ung bướu như vậy. Việc mất ngủ có thể làm trầm trọng thêm cảm giác lo âu và tạo ra một chu kỳ khó khăn. Bạn có thể thử một số chiến lược để giúp quản lý lo âu của bạn:\n    \n     1. Tập trung vào hiện tại: Cố gắng tập trung vào khoảnh khắc hiện tại và tránh suy nghĩ về quá khứ hoặc tương lai. Điều này có thể giúp giảm bớt cảm giác áp đảo.\n    2. Thực hành các kỹ thuật thư giãn: Các bài tập hít thở sâu, thiền, hoặc yoga có thể hỗ trợ trong việc làm dịu tâm trí và cơ thể.\n    3. Tham gia hoạt động thể chất: Tập thể dục đều đặn có thể cải thiện tâm trạng và giảm mức độ lo âu.\n     \n    4. Tìm kiếm sự hỗ trợ: Nói chuyện với một người bạn tin cậy, thành viên trong gia đình, hoặc một chuyên viên sức khỏe tinh thần có thể cung cấp sự hỗ giúp và sự hiểu biết.\n      \n    5. Đặt mục tiêu nhỏ: Chia nhỏ công việc hàng ngày thành các nhiệm vụ nhỏ, dễ quản lý và ăn mừng sự tiến bộ của bạn.\n       \n    6. Xem xét thuốc: Nếu lo âu vẫn tồn tại dai dẳng, hãy thảo luận với bác sĩ về việc xem xét các loại thuốc để giúp kiểm soát triệu chứng.\n        \nHãy nhớ, quan trọng là ưu tiên sức khỏe và tìm kiếm sự giúp đỡ khi cần thiết.",
+        "actualAnswer": "Tôi chỉ muốn làm việc với một vấn đề và một thời điểm trong liệu pháp điều trị bạn sẽ đặt những mục tiêu và mục tiêu mà sẽ giúp bạn đạt được mục tiêu của bạn tôi thấy bạn là một người duy nhất và không phải là một người bạn muốn tốt nhất cho bạn.",
+        "bert_score": {
+            "precision": 0.6042726039886475,
+            "recall": 0.6911345720291138,
+            "f1": 0.6447913646697998
+        },
+        "bleu_score": 0.9921317599414461,
+        "rouge_score": {
+            "rouge1": 0.356,
+            "rouge2": 0.18473895582329317,
+            "rougeL": 0.23199999999999996
+        },
+        "predictedSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "actualSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "questionText": "Tôi bị bệnh ung thư vú và mất ngủ cả đời. tôi có quá nhiều tiền sử trầm cảm và bắt đầu có vấn đề.",
+        "predictedAnswer": "\n    Cảm giác bị quá tải và lo lắng khi đối mặt với căn bệnh ung bướu và tiền sử bệnh trầm cảm là điều tự nhiên. Quan trọng là phải nhớ rằng bạn không đơn độc trong trải nghiệm này. Hãy liên lạc với một nhóm hỗ trợ hoặc tìm kiếm sự giúp đỡ chuyên nghiệp từ một nhà tâm lý học hoặc bác sĩ tâm thần để thảo luận về cảm xúc của bạn và phát triển các chiến lược đối phó. Hãy nhớ ưu tiên chăm sóc bản thân và thiết lập sự cân bằng giữa cuộc chiến sức khỏe và cuộc sống hàng ngày. Hãy kiên nhẫn với bản thân trong quá trình này, và nhớ rằng cảm xúc sẽ thay đổi theo thời gian.",
+        "actualAnswer": "Hãy để tôi bắt đầu bằng cách nói rằng không bao giờ có quá nhiều mối quan tâm mà bạn có thể mang lại cho tư vấn, thực tế, hầu hết những người đến để nhìn thấy tôi cho tư vấn có nhiều hơn một vấn đề họ muốn làm việc trong tâm lý và hầu hết thời gian những điều này là tất cả. trong tư vấn, chúng tôi làm cùng nhau, để tìm ra những vấn đề mà bạn muốn giải quyết đầu tiên và sau đó chúng tôi phát triển một kế hoạch cá nhân có nhiều hơn một vấn đề họ muốn làm thế nào, bạn có thể làm như thế nào để có được sự giúp đỡ để có thể làm cho một số vấn đề của bạn có thể vượt qua, dù bạn có thể không cần thiết, nhưng sau đó bạn cũng có thể thay đổi bất cứ điều gì bạn có thể làm điều gì để kiểm soát và có thể làm được những điều đó.",
+        "bert_score": {
+            "precision": 0.6669420599937439,
+            "recall": 0.6613260507583618,
+            "f1": 0.6641221642494202
+        },
+        "bleu_score": 1.766273077929637,
+        "rouge_score": {
+            "rouge1": 0.7316017316017316,
+            "rouge2": 0.27391304347826084,
+            "rougeL": 0.35064935064935066
+        },
+        "predictedSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "actualSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "questionText": "Tôi bị bệnh ung thư vú và mất ngủ cả đời. tôi có quá nhiều tiền sử trầm cảm và bắt đầu có vấn đề.",
+        "predictedAnswer": "\n    Cảm giác bị quá tải và buồn bã khi đối mặt với tình trạng sức khỏe của bạn là điều tự nhiên. Điều quan trọng là bạn phải ưu tiên chăm sóc bản thân trong thời gian khó khăn này. Dưới đây là một số gợi ý để giúp bạn đối phó với những thách thức về sức khỏe tinh thần:\n    \n    1. Tìm kiếm sự hỗ trợ: Kết nối với bạn bè, gia đình, hoặc một nhóm hỗ trợ để chia sẻ cảm xúc và trải nghiệm của bạn. Nói chuyện với một chuyên viên tư vấn hoặc bác sĩ tâm lý có thể cung cấp cho bạn những chiến lược và kỹ thuật để đối phó.\n    2. Thiết lập thói quen: Tạo ra một lịch trình hàng ngày bao gồm thời gian nghỉ ngơi, tập thể dục, và ăn uống lành mạnh. Sự nhất quán có thể giúp giảm lo âu và cải thiện sức khỏe tổng thể.\n    3. Thực hành tự chăm sóc: Tham gia vào các hoạt động mang lại niềm vui và sự thư giãn cho bạn, như vẽ tranh, nghe nhạc, hoặc tắm thư giãn.\n     \n    4. Duy trì hoạt động: Tham dự các buổi tập thể thao hoặc các hoạt động xã hội để duy trì kết nối và tạo ra những trải nghiệm mới.\n      \n    5. Đặt mục tiêu: Đặt ra những mục tiêu nhỏ, có thể đạt được cho bản thân, cả về sức mạnh khỏe vật lý và tinh thần. Đạt được những mục đích này có thể tăng cường lòng tự trọng và tạo động lực.\n       \n    6. Tìm kiếm ý nghĩa: Tham vấn với một người hướng dẫn tinh thần hoặc tham gia vào một chương trình hướng dẫn để khám phá các chủ đề như mục đích, ý nghĩa, và sự chấp nhận.\n        \n    7. Thực hành lòng từ bi: Chấp nhận cảm xúc của bạn mà không đánh giá, và thực hành lòng trắc ẩn với bản thân.\n         \n    8. Nghỉ ngơi: Nghỉ ngơi khi bạn cần, và đừng ngần ngại hỏi giúp đỡ. Hãy nhớ rằng, việc tìm kiếm sự giúp đỡ là một dấu hiệu của sức mạnh, không phải là sự yếu đuối.\n          \n    9. Theo dõi tiến triển: Theo dõi những chiến thắng nhỏ và tiến triển trong hành trình sức khỏe, điều này có lợi cho việc duy trì sự lạc quan.\n           \n    10. Cuối cùng, hãy nhớ rằng quá trình này có vẻ khó khăn, nhưng bạn không đơn độc. Hãy tin tưởng vào sự hỗ đỡ và sự kiên cường của bản thân khi bạn vượt qua",
+        "actualAnswer": "Tôi thực sự tin rằng một trong những lợi thế lớn nhất để làm việc với một phương pháp trị liệu là một bác sĩ có thể giúp bạn và làm việc với những vấn đề cần phải được giải quyết đầu tiên và. a sẽ giúp bạn đối phó với các khía cạnh khác nhau mà đến. một số vấn đề thậm chí có thể là liên quan đến một. một số khách hàng với một ví dụ, một số khách hàng với lo lắng cũng có thể cảm thấy lo lắng về sức khỏe của họ.",
+        "bert_score": {
+            "precision": 0.6257258653640747,
+            "recall": 0.7002252340316772,
+            "f1": 0.6608826518058777
+        },
+        "bleu_score": 2.2240253301772475,
+        "rouge_score": {
+            "rouge1": 0.3614163614163614,
+            "rouge2": 0.2178702570379437,
+            "rougeL": 0.23443223443223443
+        },
+        "predictedSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "actualSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "questionText": "Tôi bị bệnh ung thư vú và mất ngủ cả đời. tôi có quá nhiều tiền sử trầm cảm và bắt đầu có vấn đề.",
+        "predictedAnswer": "\n    Cảm giác lo lắng và buồn bã là điều tự nhiên trong tình huống khó khăn như vậy. Việc mất ngủ có thể làm trầm trọng thêm những cảm xúc này. Hãy thử các chiến lược sau để giúp bạn đối phó với những cảm giác này:\n    \n     1. Nuôi dưỡng tư duy tích cực: Tập trung vào những điều tích cực trong cuộc sống của bạn và cố gắng không đắm chìm trong nỗi sợ hãi. Viết nhật ký hoặc nói chuyện với một người bạn đáng tin cậy hoặc chuyên gia có thể giúp bạn duy trì một cái nhìn cân bằng.\n    2. Thực hành các kỹ thuật thư giãn: Các bài tập hít thở sâu, thiền, hoặc yoga có thể giảm căng thẳng và lo lắng.\n  \n     3. Tham gia vào các hoạt động mang lại niềm vui: Tham gia các sở thích hoặc hoạt động mà bạn yêu thích, như đọc sách, vẽ tranh, hoặc dành thời gian với những người thân yêu.\n     \n     4. Duy trì lối sống lành mạnh: Chế độ ăn uống cân đối, tập thể dục đều đặn, và ngủ đủ giấc có thể góp phần vào sức khỏe tổng thể và giúp bạn kiểm soát cảm xúc tốt hơn.\n      \n     5. Tìm kiếm sự giúp đỡ chuyên nghiệp: Nếu những cảm cảm xúc của bạn trở nên quá áp đảo, hãy xem xét việc tìm kiếm sự trợ giúp từ một chuyên viên tư vấn hoặc bác sĩ tâm thần có thể hướng dẫn bạn qua những thách thức này.\n       \n     Hãy nhớ, quan trọng là phải ưu tiên sức khỏe của bạn. Đừng ngần ngại liên lạc với người khác nếu bạn cần hỗ trợ.",
+        "actualAnswer": "Nó không thực sự là một câu hỏi cụ thể về việc bạn có quá nhiều vấn đề cho việc khuyên bảo nhưng nhiều hơn bạn muốn làm việc trong lĩnh vực này? bạn điều khiển hướng của các đối tượng và phụ thuộc vào làm thế nào bạn cảm thấy trong một ngày có thể dự đoán trong một ngày có thể dự đoán những gì điều đó hướng đi. nếu bạn muốn làm việc trên tất cả các vấn đề bạn đã liệt kê nó sẽ chỉ cần một phần của bạn để nhìn thấy một trong số dài để tìm thấy một số vấn đề mà bạn đang cảm thấy trong một ngày có thể dự đoán trong tư vấn và nó có vẻ như bạn có thể bị choáng ngợp với danh sách bao giờ hết. nhưng có thể chỉ cần cải thiện một điều tốt hơn mà bạn có thể cần phải tìm thấy một số vấn đề của bạn có thể cần phải làm việc để có một trong quá khứ của chính xác và có thể có một trong quá trình tư vấn đề mà bạn có thể có thể có một trong quá trình tư vấn tốt nhất của bạn có thể có một trong quá trình tư vấn đề của bạn có sự cố vấn đề đó và có thể có thể có thể có một trong quá trình tư vấn đề của bạn có thể làm tốt hơn và có thể giảm hiệu quả tốt nhất của bạn có một trong quá trình tư vấn đề của bạn có một trong quá trình tư vấn của bạn có thể có thể giảm và có thể có thể có thể có thể có thể có thể có thể giảm và có thể có một trong quá trình kiểm soát của bạn có một trong cả nội dung tốt hơn và giảm và giảm của bạn có thể cần có thể cần phải có một trong quá khứ của bạn có một trong cả nội dung tốt nhất của bạn có một trong quá trình tư vấn đề của bạn có một trong quá khứ của bạn có một trong quá trình tư vấn và có một trong quá trình tư vấn tốt nhất của bạn có một trong quá trình tư vấn tốt hơn và có một trong quá trình tư vấn tốt hơn và có thể có thể có thể có thể có thể có thể cần phải có thể cần phải làm việc tốt hơn một trong quá trình tư vấn tốt hơn và có thể có thể có thể cần có thể cần phải có thể có thể cần phải làm việc tốt hơn và có một trong quá trình kiểm tra tốt hơn.",
+        "bert_score": {
+            "precision": 0.6084293723106384,
+            "recall": 0.644192099571228,
+            "f1": 0.6258002519607544
+        },
+        "bleu_score": 1.2684436677859046,
+        "rouge_score": {
+            "rouge1": 0.6151142355008787,
+            "rouge2": 0.272887323943662,
+            "rougeL": 0.3339191564147628
+        },
+        "predictedSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "actualSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "questionText": "Tôi bị bệnh ung thư vú và mất ngủ cả đời. tôi có quá nhiều tiền sử trầm cảm và bắt đầu có vấn đề.",
+        "predictedAnswer": "\n    Ôi, tôi rất tiếc khi nghe bạn đang phải trải qua những điều này. Bệnh ung thư và trầm cảm có thể là những trải nghiệm rất khó khăn. Hãy nhớ rằng bạn không cô đơn trong cuộc chiến này, và có những người yêu thương và chuyên gia có thể giúp bạn. Bạn có muốn nói về cách quản lý những cảm xúc này và tìm kiếm sự hỗ trợ không?",
+        "actualAnswer": "Bắt đầu từ nơi bạn đang ở hôm nay và di chuyển về phía trước để tìm ra phần còn lại bạn không cần phải là thứ gì ít hơn hay nhiều hơn bạn bây giờ nó có thể là một cuộc hành trình lâu hơn nhưng nó là một trong những người có khả năng phục hồi tôi hy vọng điều đó sẽ xảy ra với bạn",
+        "bert_score": {
+            "precision": 0.6949841976165771,
+            "recall": 0.706183135509491,
+            "f1": 0.7005388736724854
+        },
+        "bleu_score": 3.432087539530957,
+        "rouge_score": {
+            "rouge1": 0.7123287671232875,
+            "rouge2": 0.2672811059907834,
+            "rougeL": 0.3378995433789954
+        },
+        "predictedSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "actualSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "questionText": "Tôi bị bệnh ung thư vú và mất ngủ cả đời. tôi có quá nhiều tiền sử trầm cảm và bắt đầu có vấn đề.",
+        "predictedAnswer": "\n    Ôi, tôi rất tiếc khi nghe bạn đang trải qua những điều này. Bệnh ung thư và trầm cảm có thể là những trải nghiệm đầy thách thức, và tôi hiểu rằng bạn đang đối mặt với cả hai. Có một số chiến lược bạn có thể thử để giúp bạn đối phó với những thách thức này:\n    \n    1. Tìm kiếm sự giúp đỡ chuyên nghiệp: Hãy tìm kiếm một nhà tâm lý học hoặc tư vấn viên có thể cung cấp cho bạn sự hỗ trợ và hướng dẫn. Họ có thể giúp bạn làm việc qua những cảm xúc của bạn và phát triển các chiến lược để đối phó.\n    2. Tham gia nhóm hỗ trợ: Kết nối với những người khác đã từng trải qua tình huống tương tự có thể mang lại sự an ủi và sự hiểu biết.\n     \n    3. Thực hành tự chăm sóc: Hãy đảm bảo chăm sóc bản thân về mặt thể chất và tinh thần. Điều này bao gồm việc ăn uống lành mạnh, tập thể dục đều đặn, và dành thời gian cho những hoạt động mang lại niềm vui cho bạn.\n      \n    4. Đặt mục tiêu nhỏ, có thể đạt được: Chia nhỏ những nhiệm vụ lớn thành những bước nhỏ, dễ quản lý hơn. Điều chỉnh kỳ vọng của bạn để bạn có cơ hội thành công cao hơn.\n       \n    5. Tìm kiếm những hoạt động mà bạn thích: Tham gia vào những hoạt nguyện mà bạn yêu thích, dù là đọc sách, vẽ tranh, hoặc dành thời giờ ngoài trời. Những hoạt nguyện này có thể đóng vai trò như một nguồn an ủi.\n   \n    6. Duy trì mạng lưới hỗ trợ của bạn: Giữ liên lạc với bạn bè và gia đình. Họ cũng có thể trở thành nguồn hỗ trợ quý giá trong thời gian khó khăn này.\n        \nHãy nhớ, quan trọng là phải kiên nhẫn với bản thân và tìm kiếm sự hỗ giúp khi bạn cần. Hãy nhớ rằng bạn không đơn độc trong cuộc chiến này, và nhiều người đang ủng hộ bạn.",
+        "actualAnswer": "Câu trả lời trực tiếp nhất là không. Tôi nghĩ rằng một số điều bạn cảm thấy (sytoms) có liên hệ với nhau. Tôi khuyên bạn nên tìm một số thông tin liên quan. Bạn có một số thông tin về sức mạnh (res) mà bạn có khả năng rút ra từ và tôi sẽ khuyến khích bạn tập trung vào chúng khi bạn đối phó với những vấn đề mà bạn đã đặt trên lưng cho rất lâu. những người sợ hãi để giải quyết mọi việc bởi vì họ cảm thấy hoặc tin rằng họ sẽ không thể xử lý nó. Hãy so sánh nó với một cơn bão.",
+        "bert_score": {
+            "precision": 0.6504992246627808,
+            "recall": 0.6917548179626465,
+            "f1": 0.6704930067062378
+        },
+        "bleu_score": 2.0724574499772923,
+        "rouge_score": {
+            "rouge1": 0.4497878359264497,
+            "rouge2": 0.26099290780141843,
+            "rougeL": 0.27157001414427157
+        },
+        "predictedSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "actualSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "questionText": "Tôi bị bệnh ung thư vú và mất ngủ cả đời. tôi có quá nhiều tiền sử trầm cảm và bắt đầu có vấn đề.",
+        "predictedAnswer": "\n    Cảm giác buồn bã và lo lắng khi nghe tin mắc bệnh ung sát vú là điều bình thường. Việc mất ngủ do bệnh tật và tiền sử bệnh trầm cảm có thể làm tình hình trở nên khó khăn hơn. \n\n    Quan trọng là phải tìm kiếm sự hỗ trợ từ những người thân yêu, bạn bè hoặc một nhóm hỗ trợ. Hãy mở lòng với họ về cảm xúc của bạn, vì họ có thể cung cấp sự hỗ giúp và sự hiểu biết.\n    \n    ",
+        "actualAnswer": "Nó không bao giờ quá muộn để có được sự giúp đỡ và bắt đầu tạo ra những thay đổi quan trọng và sự cải thiện trong cuộc sống của bạn. thời điểm thích hợp là khi bạn cảm thấy sẵn sàng và cởi mở để thay đổi. khi chúng ta có một lịch sử chấn thương, như lạm dụng tình dục, tác động của chấn thương đó có thể ảnh hưởng đến nhiều lĩnh vực của cuộc sống của chúng ta như người lớn. làm việc với một bác sĩ chuyên gia về chấn thương là một cách tuyệt vời để bắt đầu phát triển những kỹ năng để kiểm soát cuộc sống hiện tại, học cách điều khiển cảm xúc và hệ thống thần kinh khi bạn trở thành, và sau đó trong môi trường an toàn có cơ hội để vượt qua quá trình để bạn có thể sống với cuộc sống của bạn và những người có thể làm giảm bớt niềm vui của bạn và những người có thể làm giảm bớt bất cứ ảnh hưởng nào trong cuộc sống của họ.",
+        "bert_score": {
+            "precision": 0.7089351415634155,
+            "recall": 0.6985635161399841,
+            "f1": 0.7037111520767212
+        },
+        "bleu_score": 1.2101444527510548,
+        "rouge_score": {
+            "rouge1": 0.5592417061611373,
+            "rouge2": 0.20952380952380953,
+            "rougeL": 0.29383886255924174
+        },
+        "predictedSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "actualSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "questionText": "Tôi bị bệnh ung thư vú và mất ngủ cả đời. tôi có quá nhiều tiền sử trầm cảm và bắt đầu có vấn đề.",
+        "predictedAnswer": "\n    Cảm giác buồn bã và lo lắng sau khi chẩn đoán ung thư là điều tự nhiên. Việc mất ngủ có thể làm tình hình trở nên khó khăn hơn. \n\n    Một chiến lược để đối phó với lo lắng là tìm kiếm sự hỗ trợ từ những người thân yêu, như bạn bè và thành viên trong gia đình. Trò chuyện với bác sĩ tâm lý hoặc bác sĩ chuyên khoa ung thư về cảm xúc của bạn cũng có thể hữu ích. Ưu tiên chăm sóc bản thân và tham gia vào các hoạt động mang lại niềm vui và sự an ủi. Ăn uống lành mạnh, tập thể dục đều đặn, và đảm bảo ngủ đủ giấc cũng có lợi. 🌟 Cũng quan trọng là nhớ rằng cảm xúc thay đổi, và việc trải qua những cảm giác buồn phiền và lo âu là bình thường.",
+        "actualAnswer": "Bạn đã trải qua rất nhiều và nó có vẻ như bạn có rất nhiều điều mà đã có khó khăn trong năm. bất kể cuộc đấu tranh bạn đã trải qua, bạn không có quá nhiều vấn đề cho tư vấn. nhiều lần khi một ai đó bắt đầu ra khỏi cuộc sống của họ và chữa bệnh, có nhiều điều họ muốn để giải quyết và làm việc trên. nếu bạn quyết định bắt đầu, bạn và bạn có thể quyết định những gì bạn muốn để xử lý và làm việc trên đầu tiên. đảm bảo với tư vấn viên tư vấn của bạn nếu bất cứ ai đó bắt đầu ra khỏi cuộc sống của họ và cuộc sống của bạn đang có nhiều kinh nghiệm tuyệt vời của bạn có thể nhận được thông qua rất nhiều đau khổ của nhiều lần đầu tiên những điều mà bạn đang có hoặc cuộc sống của bạn có thể quyết định những gì bạn sẽ quyết định những gì bạn muốn để làm cho quá trình và công việc trên đầu tiên.",
+        "bert_score": {
+            "precision": 0.6536194682121277,
+            "recall": 0.6716548204421997,
+            "f1": 0.6625144481658936
+        },
+        "bleu_score": 1.277107820783541,
+        "rouge_score": {
+            "rouge1": 0.6586826347305388,
+            "rouge2": 0.23246492985971942,
+            "rougeL": 0.32335329341317365
+        },
+        "predictedSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "actualSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "questionText": "Tôi bị bệnh ung thư vú và mất ngủ cả đời. tôi có quá nhiều tiền sử trầm cảm và bắt đầu có vấn đề.",
+        "predictedAnswer": "\n    Đầu tiên, tôi xin lỗi vì những khó khăn mà bạn đang trải qua. Mất ngủ do bệnh ung thu có thể gây ra nhiều thách thức, bao gồm cả tác động tâm lý. Điều quan trọng là phải tìm kiếm sự hỗ trợ và hướng dẫn từ một chuyên viên sức khỏe tinh thần, như một nhà tâm lý học hoặc bác sĩ tâm thần, người có thể giúp bạn đối phó với các triệu chứng trầm cảm của bạn.\n    \n    ",
+        "actualAnswer": "Không hẳn! thực tế, hầu hết mọi người có nhiều vấn đề, rất nhiều vấn đề mà bạn đang đi bàn tay trong bàn tay (trong bàn tay) (nói chuyện) chúng tôi gọi nó là co-morly điều kiện) tôi sẽ rằng hầu hết các cảm xúc bạn đang vật lộn với từ cơn chấn thương sớm của bạn. bạn sẽ được miễn phí từ! một bác sĩ tâm lý tốt sẽ phát triển một kế hoạch mà tất cả các nhu cầu của bạn. với giúp bạn chắc chắn có thể sống một cuộc sống hạnh phúc mà không có tất cả những lo lắng của bạn và đi theo cách của bạn!",
+        "bert_score": {
+            "precision": 0.7143995761871338,
+            "recall": 0.6870812177658081,
+            "f1": 0.7004741430282593
+        },
+        "bleu_score": 3.5260001286480622,
+        "rouge_score": {
+            "rouge1": 0.6412698412698413,
+            "rouge2": 0.2747603833865815,
+            "rougeL": 0.34285714285714286
+        },
+        "predictedSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "actualSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "questionText": "Tôi bị bệnh ung thư vú và mất ngủ cả đời. tôi có quá nhiều tiền sử trầm cảm và bắt đầu có vấn đề.",
+        "predictedAnswer": "\n    Đầu tiên, tôi xin lỗi vì những khó khăn bạn đang trải qua với căn bệnh ungũyên vú và những thách thức liên quan đến nó. Mất ngủ do bệnh ung chuyên có thể làm trầm trọng thêm tình trạng trầm cảm của bạn. Dưới đây là một số chiến lược bạn có thể thử để giúp bạn đối phó với cả hai vấn đề này:\n    \n    1. Tìm kiếm sự hỗ trợ: Kết nối với những người có cùng trải nghiệm có thể mang lại sự an ủi và cảm giác thuộc về. Bạn có thể tham gia nhóm hỗ trợ ung chuên hoặc tìm đến một nhóm hỗ Trợ ung thư.\n    2. Tập trung vào chăm sóc bản thân: Tham gia các hoạt động mang lại niềm vui và sự thư giãn, như tập thể dục, thiền, hoặc dành thời gian trong thiên nhiên.\n    3. Tìm kiếm phương pháp điều trị: Nếu bạn chưa thử, hãy xem xét tìm kiếm liệu pháp trò chuyện hoặc liệu pháp nhận thức-hành vi để giúp mình đối phó.\n     \n    4. Liên lạc với bác sĩ của bạn: Hãy mở cửa với bác sỹ về những khó chịu của bạn và hỏi xem họ có thể giúp bạn tìm ra phương pháp giảm nhẹ nào không.\n      \n    5. Duy trì một lối sống lành mạnh: Ăn uống cân đối, tập thể lực đều đặn, và đảm bảo ngủ đủ giấc có thể góp phần vào sức khỏe tổng thể và có thể giảm bớt triệu chứng của bạn một cách nhẹ nhàng.\n       \n    6. Cân nhắc tìm kiếm sự giúp đỡ chuyên nghiệp: Nếu triệu chứng trầm cảm vẫn tồn tại, có thể bạn cần sự trợ giúp chuyên nghiệp. Hãy tìm kiếm một nhà tâm lý học hoặc tư vấn viên có thể cung cấp sự hỗ Trợ và hướng dẫn cá nhân.\n        \nHãy nhớ, quan trọng là phải kiên nhẫn với bản thân và tìm kiếm những phương pháp phù hợp với bạn. Hãy nhớ rằng bạn không đơn độc trong cuộc chiến này, và có rất nhiều nguồn lực có sẵn để giúp đỡ bạn.",
+        "actualAnswer": "Đây là một câu hỏi tuyệt vời! tôi cá nhân không tin rằng bất kỳ khách hàng có thể có quá nhiều vấn đề cho tư vấn. trong thực tế, đó là loại suy nghĩ có thể ngăn chặn bạn ra khỏi tìm kiếm vấn đề tư vấn, vì vậy nó có thể là cản trở bạn từ nhận được sự giúp đỡ bạn cần. trong thực tế, tất cả những gì bạn nhận được chỉ đến tầm quan trọng của bạn tìm kiếm sự giúp đỡ để đối phó với nhiều trong cuộc sống của bạn. nếu bạn tìm kiếm, nó sẽ là quan trọng cho bạn hiểu rằng bạn có thể cần để duy trì trong một thời gian duy trì thời gian nhất để làm việc thông qua mỗi vấn đề của các vấn đề này. tất cả các vấn đề này sẽ có thể giải quyết được trong một thời gian ngắn hơn và có thể làm việc chăm sóc sức khỏe, nhưng bạn sẽ nhận được nhiều hơn nữa.",
+        "bert_score": {
+            "precision": 0.6543478965759277,
+            "recall": 0.7114537954330444,
+            "f1": 0.6817070245742798
+        },
+        "bleu_score": 4.208823878718103,
+        "rouge_score": {
+            "rouge1": 0.5892420537897312,
+            "rouge2": 0.3651960784313726,
+            "rougeL": 0.3276283618581907
+        },
+        "predictedSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "actualSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "questionText": "Tôi bị bệnh ung thư vú và mất ngủ cả đời. tôi có quá nhiều tiền sử trầm cảm và bắt đầu có vấn đề.",
+        "predictedAnswer": "\n    Cảm giác buồn bã và đau buồn sau khi chẩn đoán mắc bệnh ung thuyên là điều tự nhiên. Cuộc chiến với căn bệnh này có thể gây ra những cảm xúc phức tạp, bao gồm nỗi sợ hãi, lo lắng và buồn bã. Tuy nhiên, quan trọng là phải nhớ rằng bạn không cô đơn trong trải nghiệm này.\n    \n    ",
+        "actualAnswer": "Tôi không nghĩ là có quá nhiều vấn đề, chỉ cần có thời gian để vượt qua tất cả các vấn đề.",
+        "bert_score": {
+            "precision": 0.6423377394676208,
+            "recall": 0.6971189975738525,
+            "f1": 0.6686081290245056
+        },
+        "bleu_score": 0.8197908254648182,
+        "rouge_score": {
+            "rouge1": 0.36507936507936506,
+            "rouge2": 0.04838709677419354,
+            "rougeL": 0.20634920634920634
+        },
+        "predictedSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "actualSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "questionText": "Tôi bị bệnh ung thư vú và mất ngủ cả đời. tôi có quá nhiều tiền sử trầm cảm và bắt đầu có vấn đề.",
+        "predictedAnswer": "\n    Cảm giác buồn bã và đau buồn sau khi nhận được chẩn đoán ung thư là điều tự nhiên. Sự kết hợp của việc mất ngủ và tiền sử bệnh trầm cảm có thể làm cho việc đối phó trở nên khó khăn hơn. Dưới đây là một số chiến lược để giúp bạn đối phó với cảm xúc của mình:\n    \n    1. Tìm kiếm sự hỗ trợ: Nói chuyện với bạn bè, gia đình, hoặc một nhóm hỗ trợ ung thư để chia sẻ trải nghiệm và cảm xúc. Họ có thể cung cấp sự hỗ giúp, sự hiểu biết, và sự khích lệ.\n    2. Phát triển thói quen chăm sóc bản thân: Tham gia vào các hoạt động mang lại niềm vui và sự thư giãn cho bạn, như đọc sách, tập yoga, hoặc dành thời gian ngoài trời.\n    3. Tham gia trị liệu: Một nhà trị liệu có thể giúp bạn xử lý cảm xúc và phát triển chiến lược đối phó để đối phó.\n     \n    4. Duy trì lối sống lành mạnh: Ăn uống cân đối, tập thể dục đều đặn, và ngủ đủ giấc có thể góp phần cải thiện tâm trạng và sức khỏe tổng thể của bạn.\n      \n    5. Theo dõi triệu chứng của bạn: Thường xuyên theo dõi sức khỏe và triệu chứng có thể mang lại sự bình yên và đảm bảo bạn nhận được sự chăm sóc đúng cách.\n       \n    6. Tìm kiếm các phương pháp điều trị bổ trợ: Cân nhắc kết hợp các phương thuốc bổ trợ như thảo dược, liệu pháp hương thơm, hoặc thiền để bổ trợ cho điều trị ung thư của bạn và giảm bớt triệu chứng trầm cảm.\n        \nHãy nhớ, cảm xúc là tự nhiên và việc đối mặt với chúng là một phần của quá trình. Hãy kiên nhẫn với bản thân và tập trung vào việc chăm sóc sức khỏe tinh thần và thể chất của bạn trong thời gian này.",
+        "actualAnswer": "Không, bạn không có quá nhiều vấn đề để giải quyết trong tư vấn. rất nhiều người có mặt với nhiều vấn đề họ muốn giải quyết, và điều đó cho thấy rõ ràng. trong điều trị bạn thấy rằng tất cả mọi thứ được kết nối với nhau, và các vấn đề là nhiều hơn so với suy nghĩ trước đó.",
+        "bert_score": {
+            "precision": 0.5992062091827393,
+            "recall": 0.6773599982261658,
+            "f1": 0.6358907222747803
+        },
+        "bleu_score": 0.5365730160616274,
+        "rouge_score": {
+            "rouge1": 0.26043405676126874,
+            "rouge2": 0.11055276381909547,
+            "rougeL": 0.18030050083472454
+        },
+        "predictedSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "actualSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "questionText": "Tôi bị bệnh ung thư vú và mất ngủ cả đời. tôi có quá nhiều tiền sử trầm cảm và bắt đầu có vấn đề.",
+        "predictedAnswer": "\n    Cảm giác buồn bã và lo lắng khi đối mặt với căn bệnh ung bướu như ung thư là điều tự nhiên. Tuy nhiên, việc mất ngủ lâu dài có thể làm trầm trọng thêm cảm giác buồn phiền và lo âu của bạn. Dưới đây là một số chiến lược bạn có thể thử để giúp bạn đối phó với những cảm xúc này và cải thiện chất lượng cuộc sống của bạn:\n    \n    1. Tìm kiếm sự hỗ trợ: Kết nối với bạn bè, gia đình, hoặc một nhóm hỗ trợ để chia sẻ cảm xúc và trải nghiệm của bạn với người khác đang đối mặt hoặc đã vượt qua tình trạng tương tự.\n    2. Thực hành tự chăm sóc: Tham gia vào các hoạt động mang lại niềm vui và sự thư giãn cho bạn, như thiền, yoga, hoặc dành thời gian trong thiên nhiên.\n    3. Làm việc với một nhà tâm lý học: Một nhà tâm tâm lý có thể giúp bạn phát triển các chiến lược đối phó và cung cấp hỗ trợ tinh thần trong hành trình của bạn đối với căn chiến.\n     \n    4. Đặt mục tiêu nhỏ, có thể đạt được: Chia nhỏ các mục tiêu lớn thành các bước nhỏ, dễ quản lý hơn. Điều này có thể cung cấp cảm giác kiểm soát và tiến triển, từ đó cải thiện tâm trạng của bạn và giảm cảm giác quá tải.\n      \n    5. Duy trì một thói quen: Thiết lập một lịch trình hàng ngày bao gồm thời gian cho việc ăn uống, tập thể dục, và nghỉ ngơi. Một thói quen đều đặn có thể mang lại cảm giác ổn định và kiểm soát trong cuộc sống hàng ngày của bạn, từ đây giúp giảm bớt lo âu và cải cải tâm trạng.\n       \n    6. Tập trung vào những điều tích cực: Tập trung tâm trí của bạn vào những trải nghiệm và cảm xúc tích cực. Điều chỉnh suy nghĩ của bạn để tập trung vào hiện tại, thay vì đắm chìm trong những suy nghĩ tiêu cực hoặc đau buồn.\n        \n    7. Tìm kiếm tư vấn y tế: Nếu triệu chứng mất ngủ của bạn vẫn tồn tại, hãy thảo luận về việc tìm kiếm sự tư vấn từ một chuyên viên y tế. Họ có thể đề xuất các phương pháp điều trị hoặc chiến lược để giúp cải thiện giấc ngủ của người bạn.\n         \nHãy nhớ, quan trọng là phải kiên nhẫn với bản thân khi đối phó một căn bệnh như ung bướu và mất sleep. Thời gian và sự kiên trì là chìa khóa để tìm ra phương pháp phù hợp nhất với bạn",
+        "actualAnswer": "Họ có thể hướng dẫn bạn bắt đầu từ đâu và bắt đầu như thế nào. thủ tục của họ sẽ hỏi bạn về lịch sử cuộc sống của bạn để họ có thể giúp bạn đi qua mỗi lĩnh vực. đừng ngại chia sẻ những điều này với bác sĩ để họ có thể đặt mục tiêu và giúp bạn cảm thấy thoải mái khi bạn bắt đầu. nhưng đó là điều bình thường!)",
+        "bert_score": {
+            "precision": 0.6214420795440674,
+            "recall": 0.7079414129257202,
+            "f1": 0.6618776321411133
+        },
+        "bleu_score": 1.9311582545703379,
+        "rouge_score": {
+            "rouge1": 0.27040194884287455,
+            "rouge2": 0.1807081807081807,
+            "rougeL": 0.194884287454324
+        },
+        "predictedSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "actualSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "questionText": "Tôi bị bệnh ung thư vú và mất ngủ cả đời. tôi có quá nhiều tiền sử trầm cảm và bắt đầu có vấn đề.",
+        "predictedAnswer": "\n    Cảm giác buồn bã và đau buồn là điều tự nhiên khi đối mặt với một căn bệnh như vậy, và việc trải qua những cảm xúc này là bình thường. Quan trọng là phải nhớ rằng việc cảm thấy những cảm giác này không có nghĩa là bạn yếu đuối hoặc không mạnh mẽ. Hãy nhớ rằng, bạn đang dũng cảm khi đối diện với tình huống khó khăn này.\n    \n    ",
+        "actualAnswer": "Bạn không có quá nhiều vấn đề để khuyên bảo, mỗi mối quan tâm có thể được thực hiện tùy theo mức độ thích hợp cho bạn với một bác sĩ tư vấn, bác sĩ tâm lý, và những mối quan tâm của bạn là hợp lý.",
+        "bert_score": {
+            "precision": 0.6834567785263062,
+            "recall": 0.6957162618637085,
+            "f1": 0.6895320415496826
+        },
+        "bleu_score": 1.9552206238383956,
+        "rouge_score": {
+            "rouge1": 0.5729166666666666,
+            "rouge2": 0.15789473684210525,
+            "rougeL": 0.30208333333333337
+        },
+        "predictedSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "actualSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "questionText": "Tôi bị bệnh ung thư vú và mất ngủ cả đời. tôi có quá nhiều tiền sử trầm cảm và bắt đầu có vấn đề.",
+        "predictedAnswer": "\n    Cảm giác buồn bã và lo lắng khi đối mặt với căn bệnh ung bướu như vậy là điều tự nhiên. Tuy nhiên, việc duy trì một lối sống lành mạnh, bao gồm tập thể dục đều đặn, chế độ ăn uống cân đối và tham gia vào các hoạt động mang lại niềm vui có thể giúp cải thiện sức khỏe tổng thể và giảm bớt triệu chứng trầm cảm. Ngoài ra, việc tham khảo ý kiến của một chuyên viên sức khỏe tinh thần như một nhà tâm lý học có thể cung cấp hỗ trợ và chiến lược để đối phó với cảm xúc của bạn. Hãy nhớ rằng, quan trọng là phải ưu tiên sức khỏe của bạn và tìm kiếm sự giúp đỡ khi cần thiết.",
+        "actualAnswer": "Tôi khen ngợi bạn đã bước một bước can đảm để nói về tất cả những gì bạn đã trải qua. và tôi sẵn sàng đặt cược rằng rất nhiều trong số những mối quan tâm này là may mắn được thực hiện. chúc may mắn trên cuộc hành trình của bạn để chữa lành. lần đầu tiên những vết thương của chúng ta dẫn chúng ta đến những phần tốt nhất của bản thân chúng ta.",
+        "bert_score": {
+            "precision": 0.6447815895080566,
+            "recall": 0.6737353205680847,
+            "f1": 0.6589404940605164
+        },
+        "bleu_score": 0.8843211401173928,
+        "rouge_score": {
+            "rouge1": 0.6382978723404256,
+            "rouge2": 0.2079510703363914,
+            "rougeL": 0.31003039513677816
+        },
+        "predictedSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "actualSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "questionText": "Tôi bị bệnh ung thư vú và mất ngủ cả đời. tôi có quá nhiều tiền sử trầm cảm và bắt đầu có vấn đề.",
+        "predictedAnswer": "\n    Cảm giác buồn bã và đau buồn là điều tự nhiên khi đối mặt với một căn bệnh như ung thư và những thách thức đi kèm, như mất ngủ và tiền sử bệnh trầm cảm. Quan trọng là phải nhớ rằng cảm xúc của bạn là hoàn toàn hợp lệ và cần phải đối mặt trực tiếp với chúng.\n    \n   Để giúp bạn đối phó với những cảm xúc này, hãy xem xét các bước sau:\n   1. Tìm kiếm sự hỗ trợ: Kết nối với bạn bè, gia đình, hoặc một nhóm hỗ trợ để chia sẻ trải nghiệm và cảm xúc. Nói chuyện với bác sĩ trị liệu hoặc chuyên gia sức khỏe tinh thần cũng có thể giúp bạn xử lý cảm xúc và phát triển các chiến lược đối phó.\n   2. Thực hành tự chăm sóc: Tham gia vào các hoạt động mang lại niềm vui và sự thư giãn cho bạn, như tập thể dục, thiền, hoặc các sở thích sáng tạo.\n   \n   3. Theo dõi tình hình sức khỏe của bạn: Thường xuyên theo dõi sức khỏe và triệu chứng của bạn, và liên hệ với đội ngũ chăm sóc sức khỏe nếu bạn lo lắng về bất kỳ điều gì.\n     \n   4. Đặt mục tiêu nhỏ, có thể đạt được: Chia nhỏ các nhiệm vụ và mục tiêu lớn thành các bước nhỏ hơn, có khả năng đạt được. Điều này có thể cung cấp cảm giác kiểm soát và tiến triển.\n      \n   5. Phát triển thói quen ngủ tốt: Thiết lập một lịch trình ngủ đều đặn, tạo ra một môi trường ngủ thoải mái, và tránh caffeine và thiết bị điện tử trước khi đi ngủ.\n       \n   6. Tập trung vào hiện tại: Thực hành sống trong hiện tại và chấp nhận cảm xúc mà không đánh giá. Hãy nhớ rằng đó là điều bình thường khi cảm thấy buồn bã, và việc đối mặt và giải quyết những cảm giác này là một phần của quá trình chữa lành.\n        \n   Hãy nhớ, việc tìm kiếm sự giúp đỡ và hỗ trợ từ các chuyên gia và nguồn lực sức khỏe là rất quan trọng trong việc quản lý những cảm nhận này. Hãy tiếp tục ưu tiên sức khỏe cả về thể chất lẫn tinh thần, và tin rằng bạn có khả dụng để đối phó và vượt qua những thách ảnh này.",
+        "actualAnswer": "Nó có vẻ như bạn đã trải qua rất nhiều, nhưng trong điều trị không có gì như quá nhiều vấn đề. đó là những gì nó có cho. và sức khỏe của chúng tôi ảnh hưởng đến sức khỏe của chúng tôi ảnh hưởng đến sức khỏe tinh thần của chúng tôi và của chúng tôi.",
+        "bert_score": {
+            "precision": 0.5864109396934509,
+            "recall": 0.683479905128479,
+            "f1": 0.6312355399131775
+        },
+        "bleu_score": 1.225570085883175,
+        "rouge_score": {
+            "rouge1": 0.23496503496503499,
+            "rouge2": 0.1458625525946704,
+            "rougeL": 0.17062937062937064
+        },
+        "predictedSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "actualSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "questionText": "Tôi bị bệnh ung thư vú và mất ngủ cả đời. tôi có quá nhiều tiền sử trầm cảm và bắt đầu có vấn đề.",
+        "predictedAnswer": "\n    Cảm giác bị quá tải và buồn bã là điều tự nhiên khi đối mặt với căn bệnh ungũa vú và tiền sử bệnh trầm cảm của bạn. Quan trọng là phải nhớ rằng việc cảm thấy buồn bã và choáng ngợp là hoàn toàn bình thường. Hãy nhớ rằng, bạn không cô đơn trong trải nghiệm này, và có những người sẵn lòng cung cấp sự hỗ trợ và hướng dẫn.\n    \n     Dưới đây là một số gợi ý để giúp bạn đối phó với những thách thức về cảm xúc này:\n    1. Tìm kiếm sự hỗ giúp từ chuyên gia sức khỏe tinh thần: Kết nối với một nhà tâm lý học hoặc bác sĩ tâm thần có thể cung cấp cho bạn một không gian an toàn để xử lý cảm xúc của bạn và phát triển chiến lược đối phó.\n     \n    2. Kết nối và tương tác với người khác: Chia sẻ trải nghiệm của bạn với gia đình, bạn bè và các nhóm hỗ trợ ung thư. Chia sẻ cảm xúc và câu chuyện có thể giúp bạn cảm thấy bớt cô đơn và cung cấp một cảm giác cộng đồng.\n      \n    3. Tham gia vào các hoạt động tự chăm sóc: Tham gia các hoạt động mà bạn thích hoặc khám phá những hoạt động mới. Điều này có thể bao gồm các sở thích như vẽ tranh, viết lách, hoặc tập thể dục.\n       \n    4. Đặt mục tiêu thực tế: Chia nhỏ các mục tiêu thành các bước nhỏ, có thể đạt được và ăn mừng sự tiến bộ của bạn trên con đường.\n        \n    5. Luyện tập tự chăm chút bản thân: Dành thời gian mỗi ngày để thực hành các kỹ thuật thư giãn như hít thở sâu, thiền, hoặc yoga. Những hoạt động này có lợi cho việc giảm căng thẳng và cải thiện sức khỏe tổng thể.\n         \n    6. Theo dõi tiến triển của bạn: Theo dõi những chiến thắng nhỏ và thành tựu của bạn, dù có vẻ nhỏ nhặt đến đâu. Điều quan trọng là nhận ra sự tiến triển và kiên cường.\n   \n     Hãy nhớ, đối mặt và vượt qua những thách đố cảm xúc có thể mất thời gian, nhưng với sự kiên nhẫn và sự hỗ đỡ, bạn có thể quản lý cảm giác buồn bã của mình và cải tạo sức khỏe của mình. Hãy mạnh mẽ và nhớ rằng bạn không đơn độc trong hành trình này.",
+        "actualAnswer": "Thường thì người ta cảm thấy họ không thể tiết kiệm, điều này thường không đúng. tìm đúng nhà trị liệu để làm việc về những vấn đề này với và nhờ họ giúp đỡ bạn có thể hưởng lợi từ việc gặp một chuyên gia ở Florida nếu bạn ở Florida chúng tôi đề nghị phương pháp cấp cứu hoặc trực tuyến",
+        "bert_score": {
+            "precision": 0.6102034449577332,
+            "recall": 0.692162811756134,
+            "f1": 0.6486042141914368
+        },
+        "bleu_score": 0.6383603176749121,
+        "rouge_score": {
+            "rouge1": 0.24151967435549526,
+            "rouge2": 0.16054421768707483,
+            "rougeL": 0.16553595658073272
+        },
+        "predictedSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "actualSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "questionText": "Tôi bị bệnh ung thư vú và mất ngủ cả đời. tôi có quá nhiều tiền sử trầm cảm và bắt đầu có vấn đề.",
+        "predictedAnswer": "\n    Cảm giác buồn bã và lo lắng sau khi chẩn đoán ung thư là điều tự nhiên. Việc mất ngủ có thể làm tình hình trở nên khó khăn hơn, nhưng có những bước bạn có thể thực hiện để đối phó với những cảm xúc này.\n    \n    1. Tìm kiếm sự hỗ trợ: Kết nối với bạn bè, gia đình, hoặc một nhóm hỗ trợ để chia sẻ cảm xúc và trải nghiệm của bạn. Đôi tai lắng nghe có thể cung cấp sự an ủi và giúp bạn cảm thấy ít cô đơn hơn.\n     \n    2. Thực hành tự chăm sóc: Tham gia vào các hoạt động mang lại niềm vui và sự thư giãn cho bạn, như tập thể dục, thiền, hoặc sở thích. Điều này có thể giúp giảm căng thẳng và cải thiện sức khỏe tổng thể của bạn, từ đó giảm bớt lo lắng và buồn bã.\n      \n    3. Đặt mục tiêu nhỏ: Chia nhỏ những nhiệm vụ lớn thành các bước nhỏ, có thể quản lý được. Đạt được những mục tiêu này có khả năng tạo ra cảm giác kiểm soát và tiến triển, điều này có lợi cho sức khỏe tinh thần của bạn và sự kiên nhẫn của bạn với tình hình.\n       \n    4. Tìm kiếm tư vấn hoặc trị liệu: Nếu bạn đang đối mặt với trầm cảm hoặc các vấn đề sức khỏe khác, việc tìm kiếm sự giúp đỡ chuyên nghiệp có thể mang lại lợi ích. Một nhà tâm lý học hoặc bác sĩ trị liệu có thể hướng dẫn bạn trong việc quản lý cảm xúc của bạn một cách lành mạnh và cung cấp các chiến lược để đối mặt trực tiếp với tình huống của bạn.\"\n\n    Hãy nhớ, việc đối mặt và vượt qua những thách thức này mất thời gian. Hãy kiên nhẫn với bản thân và tập trung vào việc tiến từng bước một. Hãy nhớ rằng, bạn không đơn độc trong hành trình này.",
+        "actualAnswer": "Bạn đã trải qua rất nhiều điều trị - có vẻ như bạn đang rất kiên nhẫn! và làm thế nào dũng cảm của bạn để xem xét tìm kiếm tư liệu cho lần đầu tiên. dựa trên những gì bạn đã chia sẻ, tôi sẽ khuyến khích bạn tìm kiếm ra một người trong tình trạng đau buồn, mà thường có thể hiển thị lên như tiềm năng và lo lắng, và giấc ngủ muộn trong cuộc sống. bạn không có quá nhiều để thời gian người đến với nhiều điều mà họ muốn tập trung vào. một người tốt sẽ có thời gian để giúp bạn thông qua các chủ đề bạn muốn địa chỉ, họ có thể nhìn thấy làm thế nào họ có thể kết nối các vấn đề của bạn, và giúp đỡ họ thông qua các vấn đề của bạn tốt hơn!",
+        "bert_score": {
+            "precision": 0.6650843620300293,
+            "recall": 0.699479341506958,
+            "f1": 0.6818483471870422
+        },
+        "bleu_score": 2.187802556347622,
+        "rouge_score": {
+            "rouge1": 0.559254327563249,
+            "rouge2": 0.3257676902536715,
+            "rougeL": 0.2876165113182424
+        },
+        "predictedSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "actualSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "questionText": "Tôi bị bệnh ung thư vú và mất ngủ cả đời. tôi có quá nhiều tiền sử trầm cảm và bắt đầu có vấn đề.",
+        "predictedAnswer": "\n    Đầu tiên, tôi xin lỗi vì những khó khăn mà bạn đang trải qua. Mất ngủ do bệnh ung thu và tiền sử bệnh trầm cảm có thể gây ra một thách thức đáng kể trong cuộc sống hàng ngày của bạn. Quan trọng là phải nhớ rằng bạn không cô đơn trong cuộc chiến này.\n    \n     Dưới đây là một số bước bạn có thể thực hiện để quản lý tình hình:\n    1. Tìm kiếm sự giúp đỡ chuyên nghiệp: Liên hệ với một chuyên viên sức khỏe tinh thần như một nhà tâm lý học hoặc bác sĩ tâm thần để thảo luận về những khó chịu của bạn và phát triển một kế hoạch quản lý căng thẳng toàn diện. Họ có thể cung cấp cho bạn các chiến lược và kỹ thuật để đối phó với mất ngủ và trầm cảm.\n     \n    2. Thiết lập một thói quen: Tạo ra một lịch trình hàng ngày bao gồm thời gian cho ăn uống, tập thể dục, nghỉ ngơi và các hoạt động thư giãn. Duy trì một lịch tập thể hình có thể giúp điều chỉnh tâm trạng và cải thiện chất lượng giấc ngủ của bạn, từ đó giảm bớt trầm cảm của bạn một cách hiệu quả.\n      \n    3. Thực hành các kỹ thuật thư giãn: Kết hợp các phương pháp thư giãn như hít thở sâu, thiền hoặc yoga vào thói quen hàng ngày để giúp làm dịu tâm trí và giảm lo âu.\n       \n    4. Tham gia các hoạt đông xã hội: Kết nối với bạn bè và gia đình để giảm bớt cảm giác cô đơn. Tham gia một nhóm hỗ trợ ung thư hoặc tìm kiếm các hoạt độ xã hội phù hợp với tình hình sức khỏe hiện tại của bạn để duy trì sự kết nối và giảm bớt sự cô đơn có thể góp phần vào trầm cảm hoặc mất ngủ.\n        \n    5. Theo dõi tiến độ của bạn: Thường xuyên theo dõi tiến triển của bạn bằng cách ghi chép cảm xúc và triệu chứng của bạn trong một nhật ký. Điều này có thể hỗ trợ trong việc xác định các mẫu và giúp bạn theo dõi bất kỳ thay đổi nào trong tình hình của bạn theo thời gian.\n   \n     Cuối cùng, quan trọng là nhớ rằng việc tìm kiếm sự hỗ trợ từ chuyên gia sức khỏe và duy trì một mạng lưới hỗ trợ mạnh mẽ là rất quan trọng trong việc vượt qua những thách thức này. Hãy nhớ rằng, bạn không đơn độc trong cuộc đấu tranh này.",
+        "actualAnswer": "Không phải tất cả! hoặc có thể biểu hiện bản thân bằng nhiều cách, chẳng hạn như bệnh trầm cảm và lo lắng. hoặc cũng có thể gây ra vấn đề giấc ngủ, là những gì tôi nghe nói về đa số nhưng nó cũng có thể gây ra. nhiều lần ngược đãi có thể có lòng tự trọng thấp cũng như tốt. tôi có thể gợi ý bạn bắt đầu điều trị với những gì là bạn đang gây ra hầu hết các vấn đề. làm thế nào để điều chỉnh cảm xúc của bạn và sẽ cung cấp cho bạn các tòa nhà để bắt đầu nhận được các nguyên nhân cơ bản mà một khi bạn tiến trình từ chấn thương và các vấn đề y tế, bạn nên bắt đầu cảm thấy tốt hơn về cơ thể và tốt hơn về bản thân mình.",
+        "bert_score": {
+            "precision": 0.6462076306343079,
+            "recall": 0.6962615251541138,
+            "f1": 0.6703014373779297
+        },
+        "bleu_score": 2.96969407989291,
+        "rouge_score": {
+            "rouge1": 0.48184818481848185,
+            "rouge2": 0.3065049614112459,
+            "rougeL": 0.27282728272827284
+        },
+        "predictedSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "actualSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "questionText": "Tôi bị bệnh ung thư vú và mất ngủ cả đời. tôi có quá nhiều tiền sử trầm cảm và bắt đầu có vấn đề.",
+        "predictedAnswer": "\n    Đầu tiên, tôi xin lỗi về những khó khăn mà bạn đang trải qua. Bệnh ung thư và các vấn đề sức khỏe liên quan có thể gây áp lực đáng kể và làm trầm trọng thêm các vấn nạn sức khỏe tinh thần. Dưới đây là một số gợi ý để giúp bạn đối phó với tình hình của mình:\n    \n    1. Tìm kiếm sự giúp đỡ chuyên nghiệp: Hãy liên hệ với một nhà tâm lý học hoặc tư vấn viên có kinh nghiệm trong việc xử lý các tình trạng sức khỏe như của bạn. Họ có thể cung cấp cho bạn sự hỗ trợ, hướng dẫn và chiến lược để đối phó.\n    2. Phát triển một thói quen ngủ đều đặn: Thiết lập một lịch trình ngủ đều đều đặn có thể giúp điều chỉnh chu kỳ ngủ-thức của bạn và cải thiện chất lượng giấc ngủ. Hãy thử đi ngủ và thức dậy cùng một thời điểm mỗi ngày, ngay cả vào cuối tuần.\n    3. Thực hành các kỹ thuật thư giãn: Các phương pháp như thiền, hít thở sâu, hoặc yoga có thể giảm căng thẳng và thúc đẩy sự thư giãn, giúp bạn thư giãn và ngủ ngon hơn.\n     \n    4. Duy trì hoạt động thể chất đều đặn nhưng tránh gắng sức: Tập thể dục đều đặn đã được chứng minh giúp giảm bớt các triệu chứng trầm cảm. Hãy tìm các hoạt động bạn thích và cố gắng dành ít nhất 30 phút cho việc tập luyện mỗi ngày.\n      \n    5. Kết nối với người khác: Tìm kiếm bạn bè, gia đình, hoặc nhóm hỗ trợ để chia sẻ trải nghiệm và cảm xúc của bạn với những người hiểu rõ những gì bạn đang đối mặt.\n       \n    6. Theo dõi tiến triển của bạn: Theo dõi các triệu triệu chứng của bạn, như tâm trạng, mức năng lượng, và chất lượng cuộc sống tổng thể. Ghi chép những điểm tiến triển và chia sẻ chúng với nhà cung cấp dịch vụ chăm sóc sức khỏe của bạn để theo dõi tình hình sức khỏe tổng thể của bạn tốt hơn.",
+        "actualAnswer": "Thực tế là một người rất bình thường khi nghĩ rằng bạn đang có vấn đề với cả một số vấn đề, nhưng thật ra, nếu có quá nhiều vấn đề cần phải giải quyết, bạn sẽ không còn cảm thấy thoải mái với mọi người và tôi thật sự muốn bạn bắt đầu suy nghĩ với một người có nhiều vấn đề, nhưng thật ra, bạn nên điều trị bằng cách điều trị nếu có nhiều việc để giải quyết.",
+        "bert_score": {
+            "precision": 0.603181004524231,
+            "recall": 0.6839144825935364,
+            "f1": 0.6410157084465027
+        },
+        "bleu_score": 0.5690060680960894,
+        "rouge_score": {
+            "rouge1": 0.329512893982808,
+            "rouge2": 0.17816091954022986,
+            "rougeL": 0.23209169054441262
+        },
+        "predictedSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "actualSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "questionText": "Tôi bị bệnh ung thư vú và mất ngủ cả đời. tôi có quá nhiều tiền sử trầm cảm và bắt đầu có vấn đề.",
+        "predictedAnswer": "\n    Đầu tiên, tôi xin lỗi về những khó khăn bạn đang trải qua với căn bệnh ung bướu và mất giấc ngủ liên tục. Điều quan trọng là bạn phải ưu tiên sức khỏe tinh thần của mình, vì vậy tôi khuyên bạn nên tìm kiếm sự giúp đỡ chuyên nghiệp từ một nhà tâm lý học hoặc tư vấn viên. Họ có thể cung cấp cho bạn các chiến lược và kỹ thuật để đối phó với bệnh trầm cảm, tiền sử của bạn, và tình hình hiện tại của bạn với căn án ung bướu.\n    \n    ",
+        "actualAnswer": "Đầu tiên bạn nói rằng tôi có rất nhiều vấn đề sau đó bạn nói rằng tôi đã hạnh phúc hôn nhân trong gần 35 năm (như đã qua rồi) hầu hết các cố vấn / nhân viên có giáo dục hoặc kinh nghiệm trong lĩnh vực. nó là về bạn. tìm kiếm về bản thân. bạn sẽ vui vẻ hơn về bản thân. bạn sẽ vui vẻ nó cho phép một đầu tư cho bản thân và một hướng dẫn. không phải đôi khi bạn nhìn vào tóc của bạn hoặc của mình hoặc của nó đã một thời gian dài kể từ khi bạn có họ chăm sóc chuyên nghiệp. bạn đã hạnh phúc với họ trong vòng 35 năm. nhưng nó có cảm giác như thế nào khi bạn có một người khác hướng dẫn tóc và một số tóc như một triệu bạn cảm thấy tuyệt vời và khi bạn nghĩ rằng một điều gì đó là một điều gì đó bạn đang đi ra ngoài?",
+        "bert_score": {
+            "precision": 0.6571264863014221,
+            "recall": 0.6423149108886719,
+            "f1": 0.6496362686157227
+        },
+        "bleu_score": 1.0995455919849555,
+        "rouge_score": {
+            "rouge1": 0.6540284360189573,
+            "rouge2": 0.33333333333333337,
+            "rougeL": 0.34123222748815163
+        },
+        "predictedSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "actualSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "questionText": "Tôi bị bệnh ung thư vú và mất ngủ cả đời. tôi có quá nhiều tiền sử trầm cảm và bắt đầu có vấn đề.",
+        "predictedAnswer": "\n    Ôi, tôi rất tiếc khi nghe bạn đang phải đối mặt với những thách thức này. Mất ngủ có thể là một trải nghiệm rất khó khăn, và kết hợp nó với các vấn đề sức khỏe khác chắc chắn có thể làm cho mọi thứ trở nên khó khăn hơn.\n    \n    ",
+        "actualAnswer": "Không thể được! nhà trị liệu của bạn sẽ giúp bạn ưu tiên các mục tiêu điều trị của bạn và thường xuyên, những \"ss\" đó là hiện tại và khi bạn giải quyết một vấn đề, một trong những có thể hoặc ít giải quyết vấn đề.",
+        "bert_score": {
+            "precision": 0.6744924783706665,
+            "recall": 0.6887156963348389,
+            "f1": 0.6815298795700073
+        },
+        "bleu_score": 2.6016501843847575,
+        "rouge_score": {
+            "rouge1": 0.6282051282051282,
+            "rouge2": 0.19480519480519481,
+            "rougeL": 0.2692307692307692
+        },
+        "predictedSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "actualSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "questionText": "Tôi bị bệnh ung thư vú và mất ngủ cả đời. tôi có quá nhiều tiền sử trầm cảm và bắt đầu có vấn đề.",
+        "predictedAnswer": "\n    Cảm giác lo lắng và lo lắng sau khi chẩn đoán ung thư là điều tự nhiên. Cuộc chiến chống ung thư và các vấn đề sức khỏe liên quan có thể gây căng thẳng đáng kể và góp phần vào sự lo lắng. Việc tham gia vào các chiến lược đối phó và tìm kiếm sự hỗ trợ từ bạn bè, gia đình và chuyên gia sức khỏe có thể giúp bạn kiểm soát lo lắng của mình.\n    \n    ",
+        "actualAnswer": "Không, không có quá nhiều vấn đề để điều trị. tôi là một người rất lớn để chọn ra những vấn đề cấp bách nhất và đặt năng lượng của chúng ta để đối phó và sau đó khi cảm thấy tốt hơn, chúng ta có thể tiếp tục những vấn đề tiếp theo chúng ta không thể giải quyết tất cả cùng một lúc chúng ta có thể thực hiện từng bước nhưng chúng ta sẽ đến đó",
+        "bert_score": {
+            "precision": 0.6637814044952393,
+            "recall": 0.6689498424530029,
+            "f1": 0.6663556098937988
+        },
+        "bleu_score": 3.1331450045445717,
+        "rouge_score": {
+            "rouge1": 0.6212765957446807,
+            "rouge2": 0.19742489270386268,
+            "rougeL": 0.29787234042553185
+        },
+        "predictedSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "actualSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "questionText": "Tôi bị bệnh ung thư vú và mất ngủ cả đời. tôi có quá nhiều tiền sử trầm cảm và bắt đầu có vấn đề.",
+        "predictedAnswer": "\n    Cảm giác lo lắng và buồn bã là điều tự nhiên trong tình huống này, nhưng có những bước bạn có thể thực hiện để đối phó với những cảm xúc này và quản lý chứng mất ngủ.\n    \n1. Liên hệ với bác sĩ hoặc chuyên gia sức khỏe: Chia sẻ cảm xúc của bạn với bác sỹ hoặc chuyên viên sức khỏe, họ có thể cung cấp sự hỗ trợ và hướng dẫn về cách đối phó.\n2. Phát triển thói quen đi ngủ: Thiết lập một lịch trình đi ngủ đều đặn có thể giúp điều chỉnh đồng hồ nội bộ của cơ thể và cải thiện chất lượng giấc ngủ. Tham gia các hoạt động thư giãn như đọc sách, tắm nước nóng, hoặc thực hành các kỹ thuật thư giãn trước khi đi ngủ. \n3. Tập thể dục đều đặn: Hoạt động thể chất đều đặn đã được chứng minh có lợi ích cho sức khỏe tinh thần và có thể hỗ trợ giấc ngủ tốt hơn. Hãy chắc chắn tham khảo ý kiến của bác sĩ trước khi bắt đầu bất kỳ chương trình tập thể dục nào.\n4. Hạn chế tiêu thụ caffeine và rượu: Tránh caffein và rượu gần giờ đi ngủ, vì chúng có thể làm gián đoạn mô hình ngủ của bạn.\n5. Tạo môi trường ngủ thoải mái: Đảm bảo phòng ngủ của các bạn có nhiệt độ dễ chịu, tối và yên tĩnh. Sử dụng một chiếc gối và nệm thoải mái.\n6. Cân nhắc liệu pháp nhận thức hành vi (CBT): CBT có thể hữu ích trong việc đối phó và quản ly chứng mất sleep liên quan đến lo âu và trầm cảm. Hãy tìm kiếm sự tư vấn từ một chuyên viên CBT đã được cấp phép.\n7. Cân nhắc sử dụng thuốc ngủ: Nếu chứng mất giấc ngủ vẫn tiếp tục, hãy tham khảo với bác học về việc sử dụng các loại thuốc ngủ được kê đơn.\n8. Tham gia vào các hoạtđộng trị liệu: Các hoạt động như trị liệu nhóm, thiền, hoặc làm tình nguyện có thể mang lại sự hỗ Trợ và giảm bớt cảm giác cô đơn. Ưu tiên chăm sóc bản thân và tham gia vào những hoạt động mang lại niềm vui và sự hài lòng.\n9. Tìm kiếm sự hỗ giúp: Liên hệ hoặc tham gia nhóm hỗ trợ ung thư hoặc mất ngủ để kết nối với những người có trải nghiệm tương tự. Chia sẻ trải nghiệm có thể là một nguồn hỗ trợ mạnh mẽ.\n10. Xem xét tìm kiếm tư vấn: Một nhà tư vấn có thể hướng dẫn bạn qua những",
+        "actualAnswer": "Không, bạn không có quá nhiều vấn đề để định hướng. con người là phức tạp, và chỉ dựa vào chút ít thông tin mà bạn đã chia sẻ, nó có vẻ như bạn đã trải nghiệm một chút chấn thương trong cuộc sống của bạn. khi chúng tôi trải nghiệm các sự kiện (như là bệnh nhân tình dục, sống sót) nó có một tác động lên tâm trạng của chúng tôi và tâm trạng của chúng tôi và về bản thân. như là một &DDR, tôi thường có nhiều người trải nghiệm nhiều điều khó khăn trong cuộc sống của họ và có thể trở thành điều trị cho lần đầu tiên. quá trình của bệnh nhân và quá trình học tập nhiều hơn và quá trễ nó sẽ không bao giờ mất thời gian để bắt đầu!",
+        "bert_score": {
+            "precision": 0.6195200681686401,
+            "recall": 0.6799154281616211,
+            "f1": 0.6483142375946045
+        },
+        "bleu_score": 1.0442445426725935,
+        "rouge_score": {
+            "rouge1": 0.4503311258278146,
+            "rouge2": 0.24778761061946908,
+            "rougeL": 0.2560706401766004
+        },
+        "predictedSentiment": {
+            "neg": 0.0,
+            "neu": 0.992,
+            "pos": 0.008,
+            "compound": 0.5574
+        },
+        "actualSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "questionText": "Tôi bị bệnh ung thư vú và mất ngủ cả đời. tôi có quá nhiều tiền sử trầm cảm và bắt đầu có vấn đề.",
+        "predictedAnswer": "\n    Cảm giác buồn bã và đau buồn là điều bình thường khi đối mặt với tình trạng sức khỏe nghiêm trọng như ung thư. Đó là phản ứng tự nhiên trước những thách thức và thay đổi trong cuộc sống. Việc bạn có tiền sử bị trầm cảm sẽ làm cho việc xử lý tình huống trở nên khó khăn hơn. Tuy nhiên, quan trọng là phải nhớ rằng cảm giác buồn phiền và lo âu là tạm thời. Theo thời gian, bạn sẽ bắt đầu cảm thấy tốt hơn và học cách đối phó với tình hình.\n    \n    ",
+        "actualAnswer": "Nó có thể cảm nhận vượt qua những lúc khi chúng ta đạt được một điểm trong cuộc sống của chúng ta khi chúng ta nói với bản thân mình, tôi nghĩ rằng tôi muốn và/hoặc cần hướng dẫn. điều này đặc biệt đúng nếu chúng ta cảm thấy chúng ta có rất nhiều \"các\" để làm việc thông qua và bao phủ với một mà chúng ta có thể cảm thấy rằng chúng ta sẽ không biết nơi nào để thậm chí bắt đầu chúng ta có thể cảm thấy rằng bởi vì của chúng ta trong quá khứ và các vấn đề của chúng ta, tuy nhiên, điều này không nên dừng lại bạn làm việc với một chuyên gia, đặc biệt là những trải nghiệm làm việc với những vấn đề cụ thể mà chúng ta cảm thấy rằng chúng ta sẽ không biết nơi nào mà chúng ta có thể làm việc trong một ít thời gian mà chúng ta có thể làm việc thông qua những buổi họp mặt của chúng ta trong quá trình chăm sóc, nhưng đôi khi chúng ta không dừng lại bạn làm việc với một cách giải quyết định này trong quá nhiều vấn đề của chúng ta có quá nhiều lần nữa để giải quyết định cho những vấn đề mà không có quá sức mạnh để giải quyết định cho những vấn đề của bạn có quá nhiều chúng ta có quá nhiều chúng ta có thể giải quyết định trong quá nhiều điều tốt chúng ta có những vấn đề mà chúng ta có thể làm cho chúng ta không có thể làm cho chúng ta có những điều tốt trong quá nhiều điều tốt chúng ta có những điều tốt trong quá nhiều điều tốt chúng ta có quá nhiều chúng ta có những điều tốt chúng ta không có thể làm cho chúng ta có những điều tốt trong quá nhiều điều tốt chúng ta có những điều tốt chúng ta có thể làm cho chúng ta có những điều tốt trong quá nhiều điều tốt chúng ta có những điều tốt trong quá nhiều điều tốt chúng ta có những điều tốt trong quá nhiều điều tốt chúng ta có những điều tốt chúng ta có thể có thể có thể có thể có những điều tốt trong quá nhiều điều tốt chúng ta có thể có thể làm cho chúng ta không có những điều tốt trong quá nhiều điều tốt chúng ta có thể có những điều tốt chúng ta không có những điều tốt trong quá nhiều chúng ta có những điều tốt trong quá nhiều điều tốt chúng ta không có những điều tốt chúng ta không có những điều tốt chúng ta không có những điều tốt trong quá nhiều chúng ta không có thể có thể làm cho chúng ta có thể có những điều tốt chúng ta có những điều mà chúng ta có những điều tốt",
+        "bert_score": {
+            "precision": 0.6332535147666931,
+            "recall": 0.5313736200332642,
+            "f1": 0.5778574347496033
+        },
+        "bleu_score": 0.07168198604155177,
+        "rouge_score": {
+            "rouge1": 0.28479657387580304,
+            "rouge2": 0.13090128755364808,
+            "rougeL": 0.1841541755888651
+        },
+        "predictedSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "actualSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "questionText": "Tôi bị bệnh ung thư vú và mất ngủ cả đời. tôi có quá nhiều tiền sử trầm cảm và bắt đầu có vấn đề.",
+        "predictedAnswer": "\n    Cảm giác buồn bã và đau buồn là điều bình thường khi đối mặt với một căn bệnh nghiêm trọng như vậy. Việc mất ngủ do bệnh ung tranh vú có thể làm tình hình trở nên tồi tệ hơn. \n\n    Đối với việc xử lý cảm xúc của bạn, tôi khuyên bạn nên tìm kiếm sự giúp đỡ chuyên nghiệp từ một nhà tâm lý học hoặc tư vấn viên. Họ có thể cung cấp cho bạn các chiến lược để đối phó với bệnh ung thẩm và những thách thức cảm xúc đi kèm.  Ngoài ra, tham gia vào các hoạt động tự chăm sóc như tập thể dục, thiền, hoặc viết nhật ký có thể giúp bạn đối phó và xử lý những cảm xúc này.  Hãy nhớ, việc tìm kiếm hỗ trợ từ bạn bè và gia đình cũng rất quan trọng. ",
+        "actualAnswer": "Nếu bạn cảm thấy mình quá nhiều, bạn cần một người không có cảm giác như bạn. hãy đoán xem? đó là những gì bác sĩ tâm lý là cho bạn không quá nhiều bạn không có quá nhiều để làm việc bạn đang ở trên bạn đang ở trên một nền tảng bên phải! tất cả chúng ta ở đây để giúp đỡ hãy tìm một ai đó và một người nào đó.R/B.R/B cho, và ít lo lắng vấn đề, v.v.v.v.",
+        "bert_score": {
+            "precision": 0.6512498259544373,
+            "recall": 0.6525561213493347,
+            "f1": 0.6519023180007935
+        },
+        "bleu_score": 1.2406987082939898,
+        "rouge_score": {
+            "rouge1": 0.576271186440678,
+            "rouge2": 0.2215909090909091,
+            "rougeL": 0.2994350282485876
+        },
+        "predictedSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "actualSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "questionText": "Tôi bị bệnh ung thư vú và mất ngủ cả đời. tôi có quá nhiều tiền sử trầm cảm và bắt đầu có vấn đề.",
+        "predictedAnswer": "\n    Cảm giác lo lắng và buồn bã sau khi chẩn đoán ung thư là điều tự nhiên. Việc mất ngủ do bệnh tật và tiền sử bệnh trầm cảm có thể làm tình hình trở nên khó khăn hơn. Quan trọng là phải tìm kiếm sự hỗ trợ và giúp đỡ từ chuyên gia sức khỏe tinh thần, như bác sĩ trị liệu hoặc tư vấn viên, những người có thể hướng dẫn bạn qua thời kỳ khó khăn này. Họ có thể cung cấp chiến lược để đối phó với lo lắng, đau buồn và các triệu chứng liên quan đến bệnh tật. Ngoài ra, việc tham gia vào các hoạt động tự chăm sóc, như tập thể dục, thiền, hoặc viết nhật ký, có thể giúp bạn đối phó và quản lý cảm xúc của mình. Hãy nhớ ưu tiên sức khỏe và tìm kiếm những người bạn có thể dựa vào trong thời gian khó khăn.",
+        "actualAnswer": "Thứ nhất, cảm ơn bạn đã cởi mở và dễ bị tổn thương bằng cách chia sẻ với chúng tôi trên mạng thứ hai, nhiều trong số những \"y\" mà bạn đã đề cập đến là tất cả các thông tin liên quan. thường thì thân chủ của tôi đã nhận thấy rằng những quá khứ đau thương giúp giảm đi trầm cảm của họ. điều mà lần đầu tiên có thể giảm thiểu sự lo lắng. bước đầu tiên để khỏe mạnh là nắm lấy cơ hội vào bản thân và tìm kiếm một chúng ta có thể kết nối với.",
+        "bert_score": {
+            "precision": 0.663834273815155,
+            "recall": 0.6798832416534424,
+            "f1": 0.6717628836631775
+        },
+        "bleu_score": 2.0057514436847144,
+        "rouge_score": {
+            "rouge1": 0.7082294264339152,
+            "rouge2": 0.25563909774436094,
+            "rougeL": 0.32917705735660846
+        },
+        "predictedSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "actualSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "questionText": "Tôi bị bệnh ung thư vú và mất ngủ cả đời. tôi có quá nhiều tiền sử trầm cảm và bắt đầu có vấn đề.",
+        "predictedAnswer": "\n    Đầu tiên, tôi xin lỗi về những khó khăn bạn đang trải qua với bệnh ungether vú và các vấn đề sức khỏe liên quan. Mất ngủ do ung thư là một thách thức đáng kể, và tôi hiểu rằng nó có thể làm trầm trọng thêm các triệu chứng trầm cảm của bạn.\n    \n    1. Tìm kiếm sự giúp đỡ chuyên nghiệp: Hãy tìm kiếm sự hỗ trợ từ một nhà tâm lý học hoặc tư vấn viên có kinh nghiệm trong việc quản lý trầm cảm ở những người có tiền sử bệnh ung bướu. Họ có thể cung cấp cho bạn những chiến lược và kỹ thuật để đối phó với căn bệnh và các triệu Chứng liên quan đến nó.\n   \n    2. Tham gia nhóm hỗ trợ: Tham gia một nhóm hỗ giúp ung bướu hoặc một nhóm trực tuyến có thể giúp bạn kết nối với những người đang trải nghiệm tình huống tương tự. Chia sẻ trải nghiệm và nhận được sự hỗ giúp từ những người hiểu biết có thể mang lại sự an ủi và cảm giác thuộc về.\n      \n    3. Tập trung vào tự chăm sóc bản thân: Kết hợp các hoạt động tự chăm chỉ vào thói quen hàng ngày của bạn, như tập thể dục, thiền, hoặc dành thời gian trong thiên nhiên. Những hoạt động này có thể góp phần giảm căng thẳng và cải thiện tâm trạng.\n       \n    4. Duy trì một lịch trình ngủ đều đặn: Thiết lập một lịch ngủ đều và tuân thủ nó càng nhiều càng tốt. Điều này có nghĩa là đi ngủ và thức dậy cùng một thời điểm mỗi ngày, ngay cả vào cuối tuần.\n        \n    5. Kết nối với bạn bè và gia đình: Giữ liên lạc với những thành viên hỗ trợ trong cuộc sống của bạn và mở lòng với họ về cảm xúc và khó khăn của bạn với căn án. Họ cũng có thể hỗ trợ tinh thần và giúp bạn cảm thấy kết nối hơn.\n         \n    6. Theo dõi tiến triển của bạn: Theo dõi các triệu Thể của bạn bằng cách viết ra hoặc sử dụng một công cụ theo dõi sức khỏe. Điều chỉnh này có lợi cho việc theo dõi tiến độ và có thể đóng góp vào việc duy trì sự lạc quan.\n          \n    7. Cân nhắc tìm kiếm thuốc chống trầm cảm: Nếu bạn đã thảo luận với nhà cung cấp dịch vụ y tế về trầm cảm, họ có thể đề xuất thuốc chống suy nhược. Những loại thuốc này có khả năng giúp làm giảm bớt triệu chứng của bạn một cách hiệu quả.\n     \n    8. Tự giáo dục bản thân về",
+        "actualAnswer": "Không hoàn toàn! rất nhiều các vấn đề mà đã được xác định được được nhấn mạnh với nhau. đôi khi khi khi bạn bắt đầu và 'N' vấn đề đầu tiên, nó giúp giảm số lượng các vấn đề khác.",
+        "bert_score": {
+            "precision": 0.5814458131790161,
+            "recall": 0.6568860411643982,
+            "f1": 0.6168680191040039
+        },
+        "bleu_score": 0.4778767458874749,
+        "rouge_score": {
+            "rouge1": 0.13802083333333334,
+            "rouge2": 0.09138381201044385,
+            "rougeL": 0.1171875
+        },
+        "predictedSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "actualSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "questionText": "Tôi bị bệnh ung thư vú và mất ngủ cả đời. tôi có quá nhiều tiền sử trầm cảm và bắt đầu có vấn đề.",
+        "predictedAnswer": "\n    Cảm giác bị quá tải và lo lắng khi đối mặt với căn bệnh ung bướu và tiền sử rối loạn trầm cảm của bạn là điều tự nhiên. Quan trọng là ưu tiên chăm sóc bản thân và tìm kiếm sự hỗ trợ từ những người thân yêu, bạn bè và chuyên gia sức khỏe.\n    \n     Tham vấn với một nhà tâm lý học có thể giúp bạn quản lý cảm xúc của mình và phát triển các chiến lược đối phó để đối phó với căn án ung bướu của bạn và các triệu chứng liên quan. Ngoài ra, tham gia vào các hoạt động tự chăm sóc như tập thể dục, thiền và ăn uống lành mạnh có thể góp phần cải thiện sức khỏe tổng thể của bạn.\n     \n     Đối với vấn đề mất ngủ, việc tham khảo ý kiến của một chuyên viên y tế hoặc một nhà cung cấp dịch vụ chăm sóc sức khỏe có thể là cần thiết. Họ có thể đề xuất các phương pháp điều trị như thuốc hoặc liệu pháp, hoặc đề xuất thay đổi lối sống để giúp bạn ngủ ngon hơn.\n      \n     Cuối cùng, hãy nhớ rằng việc đối mặt và vượt qua những thách thức này sẽ mất thời gian và sự kiên nhẫn. Hãy nhớ ưu tiên sức khỏe của bạn, và đừng ngần ngại liên lạc với những người hỗ trợ và chuyên nghiệp khi cần thiết để được hỗ trợ.",
+        "actualAnswer": "Khi quyết định tìm một bác sĩ trị liệu, hãy chắc chắn tìm một người nào đó trong mỗi lĩnh vực mà bạn đã đề cập đến.",
+        "bert_score": {
+            "precision": 0.6042979955673218,
+            "recall": 0.7007378339767456,
+            "f1": 0.6489545106887817
+        },
+        "bleu_score": 0.42053537577203726,
+        "rouge_score": {
+            "rouge1": 0.18266978922716628,
+            "rouge2": 0.08941176470588234,
+            "rougeL": 0.15925058548009366
+        },
+        "predictedSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "actualSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "questionText": "Tôi bị bệnh ung thư vú và mất ngủ cả đời. tôi có quá nhiều tiền sử trầm cảm và bắt đầu có vấn đề.",
+        "predictedAnswer": "\n    Cảm giác buồn bã và đau buồn là điều tự nhiên khi đối mặt với những thách thức như vậy. Điều quan trọng là bạn phải ưu tiên sức khỏe của mình và tìm kiếm sự hỗ trợ từ gia đình, bạn bè, hoặc một nhóm hỗ trợ. Cân nhắc tham khảo ý kiến của một nhà tâm lý học để giúp bạn đối phó với những cảm xúc này và phát triển các chiến lược đối phó. Hãy nhớ rằng, cảm giác buồn phiền là hoàn toàn bình thường và việc tìm kiếm hỗ trợ là rất quan trọng.",
+        "actualAnswer": "Không, bạn sẽ không bao giờ có nhiều vấn đề cho anyy cho rằng lý do tại sao chúng tôi đã xung quanh để chúng tôi có xung quanh để chúng tôi có thể giúp bạn với vấn đề của bạn",
+        "bert_score": {
+            "precision": 0.6295408010482788,
+            "recall": 0.6536917090415955,
+            "f1": 0.641389012336731
+        },
+        "bleu_score": 1.1919469641474452,
+        "rouge_score": {
+            "rouge1": 0.4,
+            "rouge2": 0.11267605633802816,
+            "rougeL": 0.2325581395348837
+        },
+        "predictedSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "actualSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "questionText": "Tôi bị bệnh ung thư vú và mất ngủ cả đời. tôi có quá nhiều tiền sử trầm cảm và bắt đầu có vấn đề.",
+        "predictedAnswer": "\n    Đầu tiên, tôi xin lỗi về những khó khăn bạn đang trải qua với căn bệnh ung bướu và mất giấc ngủ liên tục. Cảm giác bị mắc kẹt trong tâm trí của bạn và không thể nghỉ ngơi là hoàn toàn bình thường. Dưới đây là một số chiến lược để giúp bạn đối phó với những thách thức này:\n    \n    1. Tìm kiếm sự hỗ trợ: Kết nối với bạn bè, gia đình, hoặc một nhóm hỗ trợ để chia sẻ trải nghiệm và cảm xúc của bạn. Hãy nhớ rằng, bạn không cô đơn trong cuộc chiến này.\n    2. Tập trung vào hiện tại: Cố gắng sống trong khoảnh khắc và tránh suy nghĩ về quá khứ hoặc tương lai. Thực hành các kỹ thuật như hít thở sâu hoặc thiền để giúp làm dịu tâm trí.\n    3. Tham gia hoạt động thể chất: Tham gia các hoạt động như yoga, đi dạo, hoặc các bài tập nhẹ để giúp giảm căng thẳng và thúc đẩy sự thư giãn.\n     \n    4. Duy trì thói quen: Thiết lập một lịch trình hàng ngày bao gồm thời gian ngủ, ăn uống, và các hoạt đông hàng ngày. Sự nhất quán có thể mang lại cảm giác bình thường và giảm lo âu.\n      \n    5. Tìm kiếm phương pháp điều trị: Trao đổi với bác sĩ về việc xem xét các loại thuốc hoặc liệu pháp để giúp kiểm soát triệu chứng trầm cảm của bạn, như thuốc chống trầm cảm hoặc liệu trình trị liệu.\n       \n    6. Phát triển thói quen ngủ lành mạnh: Tuân theo một lịch ngủ đều đặn, tạo môi trường ngủ thoải mái, và tránh caffeine và màn hình trước khi đi ngủ.\n  \n    7. Theo dõi tiến triển của bạn: Thường xuyên theo dõi tiến trình của bạn bằng cách viết nhật ký hoặc sử dụng một ứng dụng theo dõi sức khỏe. Điều này có thể giúp bạn nhận thấy bất kỳ thay đổi hoặc cải thiện nào.\n \n    Cuối cùng, hãy nhớ rằng quá trình này có lẽ sẽ mất thời gian, và việc kiên nhẫn với bản thân là rất quan trọng. Hãy liên lạc với đội ngũ chăm sóc sức khỏe của bạn bất kỳ lúc nào để thảo luận về bất kỳ lo âu hoặc thách thức nào bạn đang đối mặt.",
+        "actualAnswer": "Nó có vẻ như bạn đã có rất nhiều chấn thương trong cuộc sống của bạn. nhưng thay vào đó rằng bạn có thể nhận được lợi ích từ nhiều hơn. nhiều vấn đề chỉ có nghĩa là bạn có thể cần phải được điều trị để có một chút điều trị để làm việc thông qua họ. một chuyên gia kinh nghiệm có thể giúp bạn vượt qua tất cả những gì bạn đã trải qua để tìm thấy những gì là bạn là tốt nhất. tốt nhất. tốt!",
+        "bert_score": {
+            "precision": 0.6116864681243896,
+            "recall": 0.6928343772888184,
+            "f1": 0.6497364640235901
+        },
+        "bleu_score": 1.4146014345748033,
+        "rouge_score": {
+            "rouge1": 0.33068783068783075,
+            "rouge2": 0.19098143236074272,
+            "rougeL": 0.208994708994709
+        },
+        "predictedSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "actualSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "questionText": "Tôi bị bệnh ung thư vú và mất ngủ cả đời. tôi có quá nhiều tiền sử trầm cảm và bắt đầu có vấn đề.",
+        "predictedAnswer": "\n    Đầu tiên, tôi xin lỗi vì những khó khăn mà bạn đang phải đối mặt với căn bệnh ung Thư vú và những triệu chứng liên quan. Mất ngủ có thể là một thách thức đáng kể, đặc biệt khi bạn cũng đang phải chiến đấu với trầm cảm. Dưới đây là một số gợi ý có thể giúp bạn quản lý cả hai tình trạng này:\n    \n    1. Tìm kiếm sự giúp đỡ chuyên nghiệp: Hãy nói chuyện với một chuyên viên sức khỏe tinh thần, như một bác sĩ tâm lý hoặc nhà tâm lý học, để thảo luận về những thách thức của bạn. Họ có thể cung cấp cho bạn các chiến lược và kỹ thuật để đối phó với mất ngủ và trầm cảm của bạn, cũng như hỗ trợ tinh thần.\n    2. Thiết lập thói quen ngủ đều đặn: Tuân theo một lịch trình đi ngủ và thức dậy đều đặn, ngay cả vào cuối tuần. Điều này có thể cải thiện chất lượng giấc ngủ của bạn và giúp bạn ngủ nhanh hơn và lâu hơn.\n    3. Tạo môi trường ngủ thoải mái: Đảm bảo phòng ngủ của cô đơn, tối và mát mẻ. Sử dụng tai nghe chống ồn hoặc máy tạo tiếng ồn trắng nếu cần thiết.\n     \n    4. Tham gia hoạt động thể chất đều đặn nhưng tránh tập luyện mạnh trong vòng một giờ trước khi đi ngủ.\n      \n    5. Hạn chế tiêu thụ caffeine và rượu: Cả hai đều có thể làm gián đoạn mô hình ngủ của chúng ta và làm cho việc ngủ hoặc duy trì giấc ngủ trở nên khó khăn hơn. Hãy cố gắng tránh hoặc hạn chế chúng trong suốt cả ngày.\n       \n    6. Thực hành các kỹ thuật thư giãn: Các hoạt động như thiền, hít thở sâu, hoặc yoga có thể giảm căng thẳng và thúc đẩy sự thư giãn, giúp bạn dễ ngủ hơn. \n    7. Theo dõi triệu chứng của bạn: Ghi chép bất kỳ triệu chứng nào liên quan đến mất ngủ hoặc trầm cảm, như tâm trạng thất thường, thay đổi khẩu phần, hoặc mất tập trung. Thông tin này có giá trị để thảo phán với chuyên viên của bạn về những phương pháp điều trị phù hợp nhất.\n  \n    8. Tìm kiếm hỗ trợ xã hội: Kết nối với bạn bè, gia đình, hoặc nhóm hỗ trợ để chia sẻ kinh nghiệm và cảm xúc của bạn với những người có thể hiểu rõ những thách đấu của bạn một cách sâu sắc.\n \n    Cuối cùng, hãy nhớ rằng đối mặt trực tiếp với những khó chịu",
+        "actualAnswer": "Tôi rất ấn tượng khi nghe rằng mặc dù bạn đã trải qua tất cả những gì bạn đã trải qua, bạn đang mở rộng và hỏi về điều trị! đó là điều không thể tin được. tôi không tin rằng có một người có \"nhiều\" đấu tranh hoặc là \"xa xa\" cho. thường, cuộc đấu tranh của chúng tôi rất nhiều giống như nguồn gốc từ một cây. chúng là rất nhiều, nhưng tất cả họ đều dẫn trở lại với bóng đèn. đó là, chúng tôi có thể có rất nhiều và đó thường được bắt nguồn từ một số ít các vấn đề sâu thẳm, rằng, một lần, có thể giải quyết nhiều hơn một hình ảnh bên dưới.",
+        "bert_score": {
+            "precision": 0.6121294498443604,
+            "recall": 0.6636282205581665,
+            "f1": 0.6368393898010254
+        },
+        "bleu_score": 0.5863310871716563,
+        "rouge_score": {
+            "rouge1": 0.3791907514450867,
+            "rouge2": 0.20162224797219003,
+            "rougeL": 0.24739884393063585
+        },
+        "predictedSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "actualSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "questionText": "Tôi bị bệnh ung thư vú và mất ngủ cả đời. tôi có quá nhiều tiền sử trầm cảm và bắt đầu có vấn đề.",
+        "predictedAnswer": "\n    Cảm giác buồn bã và lo lắng khi đối mặt với căn bệnh ung bướu như vậy là điều tự nhiên. Điều quan trọng là bạn phải ưu tiên sức khỏe tinh thần và tìm kiếm sự hỗ trợ từ các chuyên gia sức khỏe hoặc nhóm hỗ trợ. Hãy nhớ rằng, cảm giác buồn phiền và lo âu là trải nghiệm phổ biến trong số những người sống sót sau ung bướu.\n    \n    ",
+        "actualAnswer": "Cảm ơn vì đã chia sẻ kinh nghiệm và sự yếu đuối. câu trả lời cho câu hỏi của bạn là không, bạn không có quá nhiều vấn đề để giải quyết trong việc điều trị. phương pháp giải phẫu được thiết kế để cung cấp cho bạn với không gian an toàn và không đầu tư đó, nơi bạn có thể chia sẻ mọi thứ và bất cứ điều gì bạn muốn chia sẻ bạn và như nó cần phải được cởi mở và có thể mang lại cho bạn rất nhiều sức khỏe. tôi khuyến khích bạn bắt đầu và không sợ hãi chia sẻ với tốc độ của chính mình.",
+        "bert_score": {
+            "precision": 0.6722447276115417,
+            "recall": 0.6657166481018066,
+            "f1": 0.6689647436141968
+        },
+        "bleu_score": 0.9530785142454724,
+        "rouge_score": {
+            "rouge1": 0.6263345195729538,
+            "rouge2": 0.19354838709677416,
+            "rougeL": 0.3131672597864769
+        },
+        "predictedSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "actualSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "questionText": "Tôi bị bệnh ung thư vú và mất ngủ cả đời. tôi có quá nhiều tiền sử trầm cảm và bắt đầu có vấn đề.",
+        "predictedAnswer": "\n    Cảm giác buồn bã và đau buồn là điều tự nhiên khi đối mặt với tình trạng sức khỏe nghiêm trọng như vậy. Đó là phản ứng bình thường khi bạn cảm thấy buồn bã, lo lắng và thậm chí là giận dữ. Nhưng hãy nhớ rằng, những cảm xúc này là tạm thời và có thể được quản lý.\n  \n    Một chiến lược để đối phó với những cảm giác này có thể là tham gia vào các hoạt động mang lại cho bạn niềm vui và sự hài lòng. Điều này có nghĩa là thử những điều mới mẻ, như các sở thích, các phương pháp thiền hoặc tập thể dục. Hãy nhớ rằng bạn không cô đơn trong cuộc chiến này, và có những người hỗ trợ có thể giúp bạn vượt qua những thời kỳ khó khăn.\n    \n     Ngoài ra, việc tìm kiếm sự giúp đỡ chuyên nghiệp cũng có thể mang lại lợi ích. Một nhà tâm lý học hoặc tư vấn có thể cung cấp một không gian an toàn để bạn thể hiện cảm xúc của mình và phát triển các chiến lược đối phó. Đừng ngần ngại tìm kiếm họ, vì họ ở đó để giúp bạn đối mặt và vượt qua khó khăn này.\n   \n     Cuối cùng, hãy nhớ chăm sóc bản thân. Ăn uống lành mạnh, tập thể chất đều đặn và đảm bảo nghỉ ngơi đầy đủ có thể góp phần vào sức khỏe tổng thể và có lẽ giúp giảm bớt một số triệu chứng liên quan đến bệnh ungus.\n      \n     Hãy nhớ, bạn mạnh mẽ hơn bạn nghĩ, và bạn có thể vượt qua điều này. Hãy tiếp tục chiến đấu, và biết rằng bạn có sự hỗ trợ của những người xung quanh bạn.",
+        "actualAnswer": "Bạn không bao giờ có thể có quá nhiều vấn đề để giải quyết tôi không! thực tế, tôi mong rằng nhiều người sẽ đến sớm hơn muộn (hoặc không phải tất cả) nhưng tôi luôn luôn nói tốt hơn không bao giờ. tôi nghĩ rằng bạn sẽ khám phá làm thế nào tất cả mọi thứ bạn đang trải nghiệm có ý nghĩa khi bạn kết nối các điểm với bác sĩ tâm lý của bạn. lo lắng, lo lắng, lo lắng, lo lắng, lo lắng, và giảm giá trị có thể tất cả các bị tổn thương / tổn thương. Bạn sẽ làm và nói chuyện với bạn về mục tiêu của bạn để phát triển một phương pháp điều trị. Luôn luôn luôn chắc chắn rằng mọi điều trị của bạn cảm thấy phù hợp với một nghiên cứu phù hợp, bởi vì mối quan hệ đó là quan trọng nhất hoặc đối xử.",
+        "bert_score": {
+            "precision": 0.6687970161437988,
+            "recall": 0.688785195350647,
+            "f1": 0.6786439418792725
+        },
+        "bleu_score": 1.7298932780328868,
+        "rouge_score": {
+            "rouge1": 0.6591230551626591,
+            "rouge2": 0.29787234042553196,
+            "rougeL": 0.3026874115983027
+        },
+        "predictedSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "actualSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "questionText": "Tôi bị bệnh ung thư vú và mất ngủ cả đời. tôi có quá nhiều tiền sử trầm cảm và bắt đầu có vấn đề.",
+        "predictedAnswer": "\n    Cảm giác buồn bã và đau buồn là điều tự nhiên khi đối mặt với những thách thức như vậy. Hãy nhớ rằng, cảm xúc của bạn là hoàn toàn bình thường và việc chia sẻ cảm xúc với người khác có thể giúp bạn đối phó với tình huống khó khăn này.\n1. Tìm kiếm sự hỗ trợ: Hãy nói chuyện với bạn bè, gia đình, hoặc bác sĩ tâm lý về những khó khăn của bạn. Họ có thể cung cấp sự hỗ giúp, sự đồng cảm, và thậm chí có thể giới thiệu bạn đến các nhóm hỗ trợ.\n2. Tập trung vào những điều bạn có thể kiểm soát: Tập trung năng lượng của bạn vào những khía cạnh của cuộc sống mà bạn vẫn có thể ảnh hưởng, như chăm sóc bản thân, tham gia vào các hoạt động mang lại niềm vui, và đặt mục tiêu cá nhân nhỏ.\n3. Thực hành tự chăm sóc: Hãy ưu tiên chăm sóc cơ thể và tâm trí của bạn bằng cách tham gia các hoạtđộng tự chăm lo như thiền, tập thể dục, hoặc dành thời gian trong thiên nhiên.\n4. Phát triển một mạng lưới hỗ trợ mạnh mẽ: Bao quanh bản thân bằng những người tích cực, ủng hộ bạn, và khuyến khích sự phát triển cá nhân của bạn, cả về mặt cảm xúc lẫn tinh thần.\n5. Cân nhắc liệu pháp nhận thức hành vi (CBT): Liệu pháp CBT có thể hữu ích trong việc đối phó và giải quyết những suy nghĩ và cảm xúc tiêu cực có thể phát sinh từ việc mắc bệnh ungue vú và những tháches tiếp theo.\n6. Xem xét các phương pháp điều trị bổ trợ: Kết hợp các phương thuốc bổ trợ như thảo dược, châm cứu, hoặc mát-xa có thể hỗ trợ sức khỏe tổng thể của bạn và giúp bạn kiểm soát các triệu chứng trầm cảm.\n7. Giữ kỷ luật: Thiết lập một lịch trình hàng ngày bao gồm các hoạt đông có cấu trúc, dinh dưỡng tốt, và ngủ đủ giấc. Kỷ luật này có thể tạo ra một cảm giác bình thường, điều này có lợi cho sức khỏe tinh thần của bạn trong thời gian khó khăn.\n8. Nuôi dưỡng lòng trắc ẩn với bản thân: Hãy nhớ, việc mắc một căn bệnh như ungue là một trải nghiệm đầy thách thức. Hãy đối xử với bản mình sự lòng tốt, sự hiểu biết, và lòng trắc ái, và tránh tự trách mình.\n9. Đặt mục tiêu nhỏ: Đặt ra những mục tiêu có thể đạt được cho bản thân trong các lĩnh vực của cuộc",
+        "actualAnswer": "Đầu tư, và mang theo rất nhiều có thể cảm thấy áp lực; như bạn đã mang quá nhiều va-li và nó đáng sợ để nghĩ về việc mở tất cả. chiến lược của tôi sẽ giúp bạn lấy tất cả các lĩnh vực bạn muốn cuối cùng có thể làm việc trên và sau đó, những gì bạn muốn làm việc trên đầu tiên. chúng tôi sẽ chỉ tập trung vào những gì dường như phải làm việc, cho bây giờ (những gì bạn muốn mở, và bao nhiêu bạn muốn giải nén?) lần, các triệu chứng thường có các vấn đề tương tự, một khi bạn bắt đầu làm việc trên một khu vực và có thể tốt hơn.",
+        "bert_score": {
+            "precision": 0.618928849697113,
+            "recall": 0.6727994680404663,
+            "f1": 0.644740879535675
+        },
+        "bleu_score": 1.175078739845381,
+        "rouge_score": {
+            "rouge1": 0.38419319429198684,
+            "rouge2": 0.20902090209020904,
+            "rougeL": 0.24149286498353456
+        },
+        "predictedSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "actualSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "questionText": "Tôi bị bệnh ung thư vú và mất ngủ cả đời. tôi có quá nhiều tiền sử trầm cảm và bắt đầu có vấn đề.",
+        "predictedAnswer": "\n    Cảm giác bị quá tải và lo lắng là điều tự nhiên khi đối mặt với căn bệnh nghiêm trọng như ung thư và tiền sử bệnh trầm cảm. Điều quan trọng là phải nhận thức về cảm xúc của bạn và tìm kiếm sự hỗ trợ từ bạn bè, gia đình, hoặc một nhóm hỗ trợ. Hãy nhớ rằng, bạn không cô đơn trong trải nghiệm này.\n    \n    ",
+        "actualAnswer": "Con người rất phức tạp và câu chuyện cuộc sống của chúng ta tùy thuộc vào cá nhân. sự phức tạp của chúng ta có những mối quan hệ và trong lĩnh vực này, tìm kiếm sự giúp đỡ cho con người có thể có một tác động tích cực đến người khác. không bao giờ là quá muộn để giúp đỡ từ một người chuyên nghiệp chúng ta không bao giờ quá phức tạp để giúp đỡ.",
+        "bert_score": {
+            "precision": 0.6894379258155823,
+            "recall": 0.6911647319793701,
+            "f1": 0.6903002858161926
+        },
+        "bleu_score": 2.5502397765044633,
+        "rouge_score": {
+            "rouge1": 0.5624999999999999,
+            "rouge2": 0.18918918918918923,
+            "rougeL": 0.3125
+        },
+        "predictedSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "actualSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "questionText": "Tôi bị bệnh ung thư vú và mất ngủ cả đời. tôi có quá nhiều tiền sử trầm cảm và bắt đầu có vấn đề.",
+        "predictedAnswer": "\n    Cảm giác lo lắng và buồn bã sau khi chẩn đoán ung thư là điều tự nhiên. Việc mất ngủ do bệnh tật và tiền sử bệnh trầm cảm có thể làm tình hình trở nên khó khăn hơn.\n    \n   1. Tìm kiếm sự hỗ trợ: Kết nối với bạn bè, gia đình, hoặc một nhóm hỗ trợ để chia sẻ cảm xúc và trải nghiệm của bạn.\n   2. Tham gia các hoạt động thư giãn: Thực hành các kỹ thuật thư giãn như hít thở sâu, thiền, hoặc yoga để giúp làm dịu tâm trí và cơ thể.\n   \n   3. Tập trung vào sức khỏe của bạn: Tập thể dục đều đặn, chế độ ăn uống lành mạnh, và duy trì một lịch trình ngủ đều đặn có thể giúp cải thiện sức khỏe tổng thể và giảm lo lắng.\n     \n   4. Khám phá các phương pháp điều trị: Thảo luận với bác sĩ về các phương án điều trị phù hợp với bạn, như thuốc, liệu pháp, hoặc các phương tiện thay thế.\n      \n   5. Đặt mục tiêu nhỏ: Chia nhỏ công việc hàng ngày thành các nhiệm vụ nhỏ, dễ quản lý hơn. Chia nhỏ các nhiệm kỳ lớn có thể giảm cảm giác quá tải.\n       \n   6. Thực hành tự chăm sóc: Dành thời gian cho bản thân để làm những điều bạn thích, như đọc sách, nghe nhạc, hoặc dành thời gian trong thiên nhiên.\n        \n   7. Tìm kiếm tư vấn chuyên nghiệp: Một nhà tâm lý học hoặc tư vấn có thể cung cấp sự hỗ Trợ và chiến lược đối phó cá nhân để giúp bạn đối phó với cảm xúc của mình.\n         \nHãy nhớ, quan trọng là phải kiên nhẫn với bản thân trong quá trình này. Quá trình chữa lành mất thời gian, và việc tìm kiếm sự giúp đỡ và hỗ trợ là rất quan trọng.",
+        "actualAnswer": "Tôi nghĩ rằng khi bắt đầu cuộc sống theo cách này rất thông thường, chúng ta phải trải qua những khó khăn như thế. gánh nặng mà chúng ta phải gánh vác là gánh nặng, quá sức chịu và hoàn toàn mất kiểm soát hoặc ít nhất là nếu chúng ta bỏ qua nó chúng ta đã tìm ra cách để đối phó với những cảm xúc này và kiềm chế chúng ta, ngay cả nếu chúng ta có thể cảm thấy mình càng ngày càng xa hơn và xa hơn nữa.",
+        "bert_score": {
+            "precision": 0.6084153652191162,
+            "recall": 0.6558488011360168,
+            "f1": 0.6312422752380371
+        },
+        "bleu_score": 0.9410257499729807,
+        "rouge_score": {
+            "rouge1": 0.3801916932907349,
+            "rouge2": 0.16025641025641027,
+            "rougeL": 0.21725239616613415
+        },
+        "predictedSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "actualSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "questionText": "Tôi bị bệnh ung thư vú và mất ngủ cả đời. tôi có quá nhiều tiền sử trầm cảm và bắt đầu có vấn đề.",
+        "predictedAnswer": "\n    Đầu tiên, tôi xin lỗi vì những khó khăn mà bạn đang trải qua. Bị chẩn đoán mắc bệnh ungây vú và đối mặt với chứng mất ngủ suốt đời có thể gây ra những thách thức đáng kể trong cuộc sống hàng ngày của bạn. Ngoài ra, tiền sử bệnh trầm cảm của bạn làm tăng thêm sự phức tạp cho tình huống của bạn, và tôi hiểu rằng bạn có thể đang đối mặt hoặc đã đối mặt trước đây với những vấn đề sức khỏe tinh thần.\n    \n     Quan trọng là bạn phải ưu tiên chăm sóc bản thân trong thời gian này. Điều này bao gồm tìm kiếm sự hỗ trợ từ bạn bè, gia đình, hoặc một nhóm hỗ trợ, cũng như tìm kiếm lời khuyên chuyên môn từ một nhà tâm lý học hoặc bác sĩ tâm thần có kinh nghiệm. Họ có thể giúp bạn phát triển các chiến lược để đối phó với cảm xúc của bạn và cung cấp cho bạn các công cụ cần thiết để đối mặt trực tiếp với căn bệnh ung trầm cảm.\n     \n     Ngoài ra:\n      - Liên hệ với các tổ chức ung trầm mê như Quỹ Ung trầm mê (www.ungtranucmementfoundation.org) hoặc Mạng Ung trầm me Quốc tế (www.1ststepungtrucleandcancer.org), những nơi cung cấp tài nguyên, thông tin, và sự hỗ Trợ cho người mắc ung trầm.\n      \n     - Tham gia các hoạt động mang lại niềm vui và sự thư giãn cho bạn, như đọc sách, tập thể dục nhẹ nhàng, hoặc thực hành các kỹ thuật thư giãn như hít thở sâu hoặc thiền.\n       \n     Cuối cùng, hãy nhớ rằng bạn không đơn độc trong hành trình này. Có rất nhiều người, cả trực tuyến và ngoại tuyến, sẵn lòng cung cấp sự hỗ giúp và sự đồng cảm. Hãy nhớ ưu tiên sức khỏe của bạn trong thời kỳ khó khăn này và tìm kiếm các nguồn lực cần thiết và sự giúp đỡ để đối diện với căn chiến tranh ung trầm và những thách đấu mà nó mang lại.",
+        "actualAnswer": "Tôi tin rằng bạn không bao giờ có thể có quá nhiều vấn đề để tư vấn. nếu đó là trường hợp, những gì sẽ là lựa chọn thay thế? không tìm kiếm sự giúp đỡ ở tất cả? nó là quan trọng để hiểu rằng vấn đề là một cuộc hành trình. nói chuyện không phải là để nhận được \"bị lừa dối,\" nhưng thay vì về tự khám phá, tự khám phá, tự bảo vệ, và sự tiếp cận. tôi tìm kiếm sự hỗ trợ của tôi trong tất cả các lĩnh vực của tôi bằng cách giúp họ nhìn thấy vấn đề của họ từ một góc độ khác nhau và thách thức họ tốt hơn.",
+        "bert_score": {
+            "precision": 0.6317156553268433,
+            "recall": 0.6913293600082397,
+            "f1": 0.6601794958114624
+        },
+        "bleu_score": 2.8272132912725816,
+        "rouge_score": {
+            "rouge1": 0.4755244755244755,
+            "rouge2": 0.2356241234221599,
+            "rougeL": 0.2601398601398602
+        },
+        "predictedSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "actualSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "questionText": "Tôi bị bệnh ung thư vú và mất ngủ cả đời. tôi có quá nhiều tiền sử trầm cảm và bắt đầu có vấn đề.",
+        "predictedAnswer": "\n    Cảm giác buồn bã và đau buồn là điều tự nhiên khi đối mặt với tình trạng sức khỏe nghiêm trọng như vậy. Quan trọng là phải nhớ rằng cảm xúc của bạn là hoàn toàn hợp lý, và việc trải qua những cảm xúc này là bình thường. Khi bạn vượt qua giai đoạn đầy thách thức này, hãy nhớ rằng bạn không cô đơn. Hãy liên lạc với bạn bè, gia đình, hoặc một nhóm hỗ trợ để chia sẻ cảm xúc và tìm kiếm sự hỗ trợ.\n    \n    ",
+        "actualAnswer": "Đây là một số khách hàng lo lắng tình dục có liên quan về tư vấn. một cái gì đó có thể là hữu ích để nhớ là những gì chúng tôi đang nhìn thấy như những vấn đề khác nhau thường có một chủ đề hoặc kết nối theo một cách nào đó. ví dụ, sự lạm dụng tình dục và lịch sử bệnh ung thư bạn có có cùng một và hiệu ứng stress trên tâm trí và cơ thể, một cái gì đó có thể được giải quyết bởi những hiệu ứng lâu dài của những gì bạn đã trải qua., lo lắng và là những cách khác nhau của chúng tôi đau đớn và của chính nó nhưng đôi khi họ có kết nối với nhau - thậm chí đôi khi chúng tôi thậm chí còn kết nối với những tổn thương tương tự. hy vọng rằng bạn có thể giúp bạn có thể tìm hiểu được những khu vực này, và cũng như thế nào bạn có thể tìm thấy một vài vấn đề trong quá trình giải quyết trong quá trình giải cứu và giải pháp trong quá trình này trong khi bạn đã tìm ra một vài vấn đề.",
+        "bert_score": {
+            "precision": 0.6925568580627441,
+            "recall": 0.6663392782211304,
+            "f1": 0.6791951656341553
+        },
+        "bleu_score": 0.6682606221896815,
+        "rouge_score": {
+            "rouge1": 0.5523385300668151,
+            "rouge2": 0.1923937360178971,
+            "rougeL": 0.3028953229398664
+        },
+        "predictedSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "actualSentiment": {
+            "neg": 0.014,
+            "neu": 0.986,
+            "pos": 0.0,
+            "compound": -0.4215
+        }
+    },
+    {
+        "questionText": "Tôi bị bệnh ung thư vú và mất ngủ cả đời. tôi có quá nhiều tiền sử trầm cảm và bắt đầu có vấn đề.",
+        "predictedAnswer": "\n    Ôi, tôi rất tiếc khi nghe điều đó. Mất ngủ do ung thư có thể là một thách thức đáng kể. Bạn có thể thử một số phương pháp thư giãn như thiền, hít thở sâu, hoặc thậm chí là nghe nhạc êm dịu. Nếu bạn cảm thấy thoải mái, bạn cũng có thể nói chuyện với bác sĩ của bạn về việc thử một loại thuốc như melatonin hoặc một loại benzodiazepine. Điều quan trọng là phải nhớ rằng bạn không cô đơn trong cuộc chiến này, và tôi ở đây để hỗ trợ bạn.",
+        "actualAnswer": "Nó có thể làm điều đó đúng không? như nếu tôi có nhiều vấn đề và tôi không thể đối phó với họ, làm thế nào có thể có một số người khác chữa trị bằng phương pháp trị liệu tử tế, vấn đề của bạn hoàn toàn có thể làm được. vấn đề của bạn là hoàn toàn có thể làm được. nó sẽ mất thời gian, trị liệu không phải là một phương pháp chữa trị phép thuật, nhưng nếu bạn là bệnh nhân với chính mình, bạn có thể di chuyển thông qua mỗi vấn đề của tình dục một số các vấn đề như lạm dụng tình dục và một số của một số bệnh ung thư vú có thể được giải quyết với một chút nhanh chóng hơn bằng cách sử dụng một cách chăm sóc mắt như là phương pháp phương pháp y hay phương pháp y, nhưng nếu bạn là một số bạn có thể cảm thấy khó khăn một số người sẽ có cảm thấy đau đớn và bạn không biết rằng bạn đang mất một số người đó là một số người sẽ không phải chịu đựng được nhiều hơn và có nhiều hơn nữa, như bạn có thể cảm thấy khó khăn để có nhiều hơn và có thể nhận được sự giúp đỡ đỡ đỡ đỡ đỡ đỡ đỡ đỡ đỡ hơn và như một phần tinh thần kinh nghiệm và như bạn có thể nhận được nhiều hơn nữa.",
+        "bert_score": {
+            "precision": 0.6742621064186096,
+            "recall": 0.6436107158660889,
+            "f1": 0.6585800051689148
+        },
+        "bleu_score": 0.6579716300423494,
+        "rouge_score": {
+            "rouge1": 0.49034749034749037,
+            "rouge2": 0.24806201550387594,
+            "rougeL": 0.3088803088803089
+        },
+        "predictedSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "actualSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "questionText": "Tôi bị bệnh ung thư vú và mất ngủ cả đời. tôi có quá nhiều tiền sử trầm cảm và bắt đầu có vấn đề.",
+        "predictedAnswer": "\n    Cảm giác bị quá tải và lo lắng khi đối mặt với căn bệnh ung bướu và tiền sử bệnh trầm cảm của bạn là điều tự nhiên. Việc mất ngủ suốt đời có thể làm cho việc quản lý những cảm xúc này trở nên khó khăn hơn. Dưới đây là một số gợi ý để giúp bạn đối phó với tình hình:\n    \n    1. Tìm kiếm sự hỗ trợ: Kết nối với bạn bè, gia đình, hoặc nhóm hỗ trợ để chia sẻ cảm xúc và trải nghiệm của bạn. Họ có thể cung cấp sự hỗ giúp, sự hiểu biết, và sự khích lệ.\n    2. Tập trung vào hiện tại: Tập trung chú ý vào khoảnh khắc hiện tại và tránh suy nghĩ về quá khứ hoặc lo lắng về tương lai. Thực hành này có thể giúp giảm bớt cảm giác quá tải.\n    3. Phát triển thói quen: Thiết lập một lịch trình hàng ngày bao gồm các hoạt động như tập thể dục, ăn uống lành mạnh, và tham gia vào các sở thích để giúp duy trì sự ổn định và cấu trúc.\n     \n    4. Thực hành tự chăm sóc: Dành thời gian cho bản thân để làm những điều bạn thích và giúp bạn thư giãn, như đọc sách, tắm, hoặc thiền.\n      \n    5. Tìm kiếm tư vấn: Một nhà tư vấn có thể hỗ trợ bạn trong việc quản trị cảm xúc của bạn, cung cấp chiến lược đối phó, và giúp cải thiện sức khỏe tổng thể của bạn trong quá trình điều trị ung thư.\n       \n    6. Theo dõi tiến độ của bạn: Theo dõi các cột mốc và thành tựu, dù nhỏ đến đâu, để duy trì cảm giác tiến triển và kiểm soát.\n  \n    7. Duy trì lối sống lành mạnh: Chế độ ăn uống cân đối, tập thể chất đều đặn, và ngủ đủ giấc có thể góp phần vào sức khỏe tinh thần và thể chất tốt hơn.\n \n    8. Khám phá các phương pháp điều trị: Trao đổi với bác sĩ chăm sóc sức khỏe của bạn về các phương án điều trị bổ sung, như liệu pháp nhận thức hành vi hoặc thuốc chống trầm cảm, để giúp quản lý triệu chứng trầm cảm.\n        \nHãy nhớ, quan trọng là ưu tiên sức khỏe và tìm kiếm sự giúp đỡ khi cần thiết. Bạn không đơn độc trong hành trình này, và có nhiều nguồn lực sẵn có để hỗ trợ.",
+        "actualAnswer": "Bởi vì bạn đã không có dự định cho bất kỳ các triệu chứng cho bất kỳ các vấn đề này, tôi khuyến khích bạn làm như vậy. trong giai đoạn thăm viếng đầu tiên của bạn, một bác sĩ trị liệu sẽ thu thập dữ liệu về vấn đề của bạn và, lịch sử y tế, cũng như bất kỳ sự kiện quan trọng nào xảy ra trong cuộc sống của bạn như bị ngược đãi, cha mẹ ly dị hoặc v.v. trong các phiên tòa, một bác sĩ trị liệu sẽ hỏi bạn những gì bạn muốn địa chỉ đầu tiên. một phần của kế hoạch điều trị của bạn sẽ không chỉ bao gồm cả của bạn nhưng cũng như các lĩnh vực khác của cuộc sống mà cần thiết và có thể được xem xét thêm sự chăm sóc. trong nhiều trường hợp cha mẹ ly dị hoặc ly dị, bạn sẽ khám phá nhiều nhất của bạn có thể tìm hiểu về sự lo lắng của bạn và lo lắng của bạn cũng như là sự lo lắng của bạn không bao giờ có vấn đề đối với bất cứ ai, đặc biệt đối với bất cứ ai, bạn sẽ không bao giờ có vấn đề nào trong tình trạng an toàn tâm thần kinh tế.",
+        "bert_score": {
+            "precision": 0.6385551691055298,
+            "recall": 0.6693059206008911,
+            "f1": 0.6535690426826477
+        },
+        "bleu_score": 1.5120457998868433,
+        "rouge_score": {
+            "rouge1": 0.6177685950413224,
+            "rouge2": 0.32091097308488614,
+            "rougeL": 0.30991735537190085
+        },
+        "predictedSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "actualSentiment": {
+            "neg": 0.0,
+            "neu": 0.953,
+            "pos": 0.047,
+            "compound": 0.8957
+        }
+    },
+    {
+        "questionText": "Tôi bị bệnh ung thư vú và mất ngủ cả đời. tôi có quá nhiều tiền sử trầm cảm và bắt đầu có vấn đề.",
+        "predictedAnswer": "\n    Cảm giác buồn bã và đau buồn là điều tự nhiên khi đối mặt với những thách thức như vậy. Quan trọng là phải nhớ rằng cảm xúc của bạn là chính đáng và việc chia sẻ cảm xúc với người khác có thể giúp bạn vượt qua. Hãy thử tham gia vào các hoạt động mang lại niềm vui và sự an ủi, như dành thời gian với người thân yêu, tham gia các nhóm hỗ trợ, hoặc tìm kiếm sự giúp đỡ chuyên nghiệp. Hãy nhớ rằng, cảm giác buồn phiền là bình thường và việc có sự hỗ trợ từ bạn bè, gia đình, hoặc một chuyên viên sức khỏe tinh thần có thể làm cho sự khác biệt lớn.",
+        "actualAnswer": "Tôi hứa với các bạn rằng có những người khác ngoài kia đang đối mặt với những vấn đề tương tự và có thể giúp đỡ. bác sĩ tâm lý đang ở ngoài kia. điều gì làm bạn khó chịu nhất ngay tại đây và ngay bây giờ? rằng câu trả lời có thể thay đổi từ ngày này sang ngày khác và thời điểm khác và đó cũng không sao cũng không sao. trong khi bạn đi qua, bạn có thể tìm thấy rằng khi bạn làm việc trên một điều, những người khác dường như ít quan trọng hơn và ngay bây giờ? rằng câu trả lời có thể thay đổi từ ngày này sang ngày khác hay thời điểm khác và đó cũng không phải là ngay bây giờ và cũng không có gì dễ dàng hơn để đối phó với những người khác như bạn có thể cải thiện tình dục và thậm chí có thể cải thiện cả hai mối quan hệ tình dục của bạn, những người khác dường như ít quan hệ với ít quan trọng hơn. bạo lực, và không có vấn đề, ung thức gia đình, nhưng không quan trọng, nhưng mỗi người có thể dễ dàng hơn một trong một cách để đối phó với một trong một thời gian.",
+        "bert_score": {
+            "precision": 0.6811307668685913,
+            "recall": 0.6586062908172607,
+            "f1": 0.6696791648864746
+        },
+        "bleu_score": 2.5623867773562794,
+        "rouge_score": {
+            "rouge1": 0.5916030534351145,
+            "rouge2": 0.22222222222222224,
+            "rougeL": 0.30916030534351147
+        },
+        "predictedSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "actualSentiment": {
+            "neg": 0.039,
+            "neu": 0.961,
+            "pos": 0.0,
+            "compound": -0.8677
+        }
+    },
+    {
+        "questionText": "Tôi bị bệnh ung thư vú và mất ngủ cả đời. tôi có quá nhiều tiền sử trầm cảm và bắt đầu có vấn đề.",
+        "predictedAnswer": "\n    Cảm giác lo lắng và buồn bã là điều tự nhiên khi đối mặt với một căn bệnh như vậy. Việc mất ngủ do bệnh ung tranh vú có thể làm tình hình trở nên khó khăn hơn. Tuy nhiên, quan trọng là tìm cách để đối phó với những cảm xúc này. Bạn có thể thử các kỹ thuật thư giãn như thiền, hít thở sâu, hoặc thậm chí là viết nhật ký để giúp xử lý cảm xúc của bạn. Điều quan trọng cũng là tìm kiếm sự hỗ trợ từ gia đình, bạn bè, hoặc một nhóm hỗ trợ. Hãy nhớ rằng, cảm giác buồn bã và lo lắng là bình thường, và việc tìm kiếm người khác để chia sẻ trải nghiệm có thể mang lại sự an ủi.",
+        "actualAnswer": "Không có gì là quá nhiều vấn đề để tư vấn. nhiều người đến với một loạt các vấn đề và đôi khi chúng tôi khám phá ra các vấn đề khác. khi bạn có thể khám phá lịch sử của bạn với bác sĩ tâm lý của bạn và đi đến những gì bạn muốn tập trung vào điều trị đầu tiên hoặc những gì dường như quan trọng nhất. đây là của bạn và bạn có thể quyết định những gì đang tập trung vào nó.",
+        "bert_score": {
+            "precision": 0.6565582752227783,
+            "recall": 0.6863517165184021,
+            "f1": 0.6711244583129883
+        },
+        "bleu_score": 1.4635334468242138,
+        "rouge_score": {
+            "rouge1": 0.6283987915407854,
+            "rouge2": 0.1945288753799392,
+            "rougeL": 0.3141993957703927
+        },
+        "predictedSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "actualSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "questionText": "Tôi bị bệnh ung thư vú và mất ngủ cả đời. tôi có quá nhiều tiền sử trầm cảm và bắt đầu có vấn đề.",
+        "predictedAnswer": "\n    Ôi, tôi rất tiếc khi nghe điều đó. Mất ngủ có thể là một trải nghiệm rất khó khăn và làm trầm trọng thêm tình trạng trầm cảm của bạn. Có một số chiến lược bạn có thể thử để giúp bạn ngủ ngon hơn và đối phó với mất ngủ.\n    \n     1. Tập thể dục đều đặn: Hoạt động thể chất thường xuyên có thể giúp bạn cảm thấy thư giãn và giảm lo âu, điều này có thể làm cho việc ngủ dễ dàng hơn. Hãy thử tham gia các hoạt động như đi bộ, yoga, hoặc bơi lội.\n     \n     2. Thiết lập một lịch trình ngủ đều đặn.\n      \n     3. Tạo môi trường ngủ thoải mái. Đảm bảo phòng ngủ của bạn mát mẻ, tối và yên tĩnh. Sử dụng tai nghe chống ồn nếu cần thiết.\n       \n     4. Hạn chế sử dụng thiết bị điện tử trước khi đi ngủ. Ánh sáng xanh phát ra từ điện thoại, máy tính bảng và máy tính có thể gây trở ngại cho giấc ngủ của chúng ta.\n        \n     5. Thực hành các kỹ thuật thư giãn như hít thở sâu, thiền, hoặc viết nhật ký về những suy nghĩ của bạn trước khi ngủ. Những hoạt động này có lợi cho việc giảm căng thẳng và thúc đẩy sự thư giãn.\n         \n     6. Cân nhắc tìm kiếm sự giúp đỡ chuyên nghiệp. Một nhà tâm lý học hoặc tư vấn viên có thể cung cấp hỗ trợ và chiến lược thêm để đối phó và quản lý mất ngủ và trầm cảm.\n          \nHãy nhớ, quan trọng là ưu tiên sức khỏe và tìm kiếm hỗ trợ khi cần thiết, cả từ chuyên gia và người thân yêu.",
+        "actualAnswer": "Nói chung, bạn không có quá nhiều vấn đề để nói đến việc khuyên bảo, bạn và người khuyên bảo nên làm việc sát cánh với nhau để có thể làm quen với vấn đề.",
+        "bert_score": {
+            "precision": 0.5940706729888916,
+            "recall": 0.6746084690093994,
+            "f1": 0.6317832469940186
+        },
+        "bleu_score": 0.7346716976584119,
+        "rouge_score": {
+            "rouge1": 0.19341563786008228,
+            "rouge2": 0.0909090909090909,
+            "rougeL": 0.15637860082304528
+        },
+        "predictedSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "actualSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "questionText": "Tôi bị bệnh ung thư vú và mất ngủ cả đời. tôi có quá nhiều tiền sử trầm cảm và bắt đầu có vấn đề.",
+        "predictedAnswer": "\n    Ôi, tôi rất tiếc khi nghe điều đó. Bệnh ung thư và trầm cảm có thể là một gánh nặng lớn. Tôi khuyên bạn nên tìm kiếm sự giúp đỡ từ một chuyên viên sức khỏe tinh thần, như một nhà tâm lý học hoặc bác sĩ tâm thần, người có thể cung cấp hỗ trợ và hướng dẫn cho bạn. Họ có thể giúp bạn phát triển các chiến lược để đối phó với bệnh ungus và trầm bệnh, cũng như hỗ trợ về mặt cảm xúc. Ngoài ra, tham gia vào các hoạt động tự chăm sóc như tập thể dục, thiền, hoặc dành thời gian với những người thân yêu có thể góp phần cải thiện sức khỏe tổng thể của bạn.",
+        "actualAnswer": "Nó thực sự khá hiếm gặp cho một người nào đó để đi đến điều trị \"chỉ một điều.\" thường xuyên hơn không, thậm chí những người tìm kiếm điều trị \"chỉ cần lo lắng\" thường tìm thấy một hàng loạt của những điều liên quan khác khi họ bắt đầu rút ra các lớp trong điều trị. khách hàng đến với tôi với một danh sách của những điều như thế này, bước đầu tiên của chúng tôi là để đưa ra ngoài đó và để làm việc tìm kiếm \"sự hiểu biết\" tất cả những điều này kết hợp với nhau để có thể bắt đầu với một bức tranh đầy đủ của bạn và làm thế nào bạn đã có ảnh hưởng đến những kinh nghiệm khác.",
+        "bert_score": {
+            "precision": 0.6737910509109497,
+            "recall": 0.6807354092597961,
+            "f1": 0.6772453784942627
+        },
+        "bleu_score": 1.455484513588957,
+        "rouge_score": {
+            "rouge1": 0.7082294264339152,
+            "rouge2": 0.2556390977443609,
+            "rougeL": 0.3291770573566085
+        },
+        "predictedSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "actualSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "questionText": "Tôi bị bệnh ung thư vú và mất ngủ cả đời. tôi có quá nhiều tiền sử trầm cảm và bắt đầu có vấn đề.",
+        "predictedAnswer": "\n    Ôi, tôi rất tiếc khi nghe điều đó. Bệnh ung thư và trầm cảm có thể là một gánh nặng đáng kể. Bạn có muốn nói về cách bạn đang đối mặt với tình huống này không? Có những chiến lược nào bạn đã thử để đối phó với mất ngủ và các triệu chứng trầm cảm của bạn không?",
+        "actualAnswer": "Nó có vẻ như bạn sợ hãi rằng bạn có thể nặng gánh cho sự cố định của bạn hoặc bạn sẽ không quá nhiều cho họ để xử lý. nỗi sợ đó là rất bình thường, và đó không có nghĩa là nó là đúng. nó nói lên sự thật rằng bạn là rất con người với rất nhiều kinh nghiệm mà có lẽ không phù hợp với một trong và loại; tuy nhiên, nó có thể là đáng thời gian của bạn để khám phá nếu có một chủ đề mà liên kết với nhau (v.v., sợ chết, lo sợ, v.v.v.v. đầu tiên, tôi muốn biết làm thế nào họ nhìn thấy một sự lo sợ và có thể có lợi ích của bạn để tìm kiếm những điều đó thông qua những mối quan tâm của bạn, và cũng có thể giúp bạn cảm thấy rằng bạn đang có một số câu hỏi về một số câu hỏi về một số vấn đề đáng quan tâm, và quan tâm đến một số câu hỏi của bạn có vẻ như thế.",
+        "bert_score": {
+            "precision": 0.7053654789924622,
+            "recall": 0.6760356426239014,
+            "f1": 0.6903892159461975
+        },
+        "bleu_score": 0.5676981163310636,
+        "rouge_score": {
+            "rouge1": 0.47091412742382277,
+            "rouge2": 0.26740947075208915,
+            "rougeL": 0.29362880886426596
+        },
+        "predictedSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "actualSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "questionText": "Tôi bị bệnh ung thư vú và mất ngủ cả đời. tôi có quá nhiều tiền sử trầm cảm và bắt đầu có vấn đề.",
+        "predictedAnswer": "\n    Cảm giác buồn bã và lo lắng khi đối mặt với căn bệnh ung bướu như vậy là điều tự nhiên. Việc mất ngủ do bệnh ung vú cũng như tiền sử bệnh trầm cảm có thể làm cho việc đối phó trở nên khó khăn hơn. Hãy nhớ rằng, việc tìm kiếm sự hỗ trợ từ bạn bè, gia đình và bác sĩ chuyên khoa là rất quan trọng. Họ có thể cung cấp sự hướng dẫn và nguồn lực để giúp bạn đối phó với những cảm xúc này.\n    \n    ",
+        "actualAnswer": "Xin chào! nhiều người bắt đầu cuộc hành trình chữa bệnh với -- giống như của bạn và trải nghiệm biến đổi trong chất lượng cuộc sống của họ. tôi hy vọng bạn có thể tìm thấy một nhà tư vấn bạn cảm thấy thoải mái làm việc với và làm công việc nếu bạn cảm thấy may mắn trên hành trình của bạn!",
+        "bert_score": {
+            "precision": 0.6670386791229248,
+            "recall": 0.6831004619598389,
+            "f1": 0.6749740242958069
+        },
+        "bleu_score": 1.2643465476872795,
+        "rouge_score": {
+            "rouge1": 0.7228915662650602,
+            "rouge2": 0.242914979757085,
+            "rougeL": 0.32128514056224905
+        },
+        "predictedSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "actualSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "questionText": "Tôi bị bệnh ung thư vú và mất ngủ cả đời. tôi có quá nhiều tiền sử trầm cảm và bắt đầu có vấn đề.",
+        "predictedAnswer": "\n    Cảm giác buồn bã và lo lắng khi đối mặt với căn bệnh ung bướu như ung thư là điều tự nhiên. Nỗi sợ hãi, sự không chắc chắn và cảm giác bất lực có thể gây khó khăn cho việc đối phó. Tuy nhiên, quan trọng là phải nhớ rằng bạn không cô đơn trong trải nghiệm này. Có nhiều nguồn lực và sự hỗ trợ có sẵn để giúp bạn đối mặt và vượt qua những thách thức về cảm xúc.\n    \n    ",
+        "actualAnswer": "Có vẻ như bạn đang bị chấn thương nghiêm trọng và nó sẽ tiếp tục tác động đến trạng thái trầm cảm của bạn cho đến khi nó được xử lý. mặc dù có vấn đề, mặc dù có nhiều hơn đau buồn nhưng nó là tốt nhất để chỉ cần bắt đầu một nơi nào đó. tôi sẽ khuyến khích bạn bắt đầu tư vấn và làm việc thông qua một số trong lịch sử của bạn ở tốc độ của riêng bạn để bắt đầu tác động và giảm thiểu các triệu chứng.",
+        "bert_score": {
+            "precision": 0.7027887105941772,
+            "recall": 0.699425458908081,
+            "f1": 0.7011030912399292
+        },
+        "bleu_score": 0.7993520415145206,
+        "rouge_score": {
+            "rouge1": 0.7238805970149254,
+            "rouge2": 0.2406015037593985,
+            "rougeL": 0.32835820895522383
+        },
+        "predictedSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "actualSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    },
+    {
+        "questionText": "Tôi bị bệnh ung thư vú và mất ngủ cả đời. tôi có quá nhiều tiền sử trầm cảm và bắt đầu có vấn đề.",
+        "predictedAnswer": "\n    Đầu tiên, tôi xin lỗi vì những khó khăn bạn đang trải qua với căn bệnh ung bướu và những thách thức liên quan đến nó. Mất ngủ do bệnh ung xương là một vấn đề đáng kể có thể làm trầm trọng thêm cảm giác buồn bã và lo âu của bạn. Dưới đây là một số chiến lược bạn có thể thử để đối phó với mất ngủ và cải thiện sức khỏe tinh thần của bạn:\n    \n    1. Tìm kiếm sự giúp đỡ chuyên nghiệp: Hãy nói chuyện với bác sĩ trị liệu hoặc nhà tâm lý học có chuyên môn về việc xử lý bệnh ung lâm sàng và các tình trạng sức khỏe vật lý. Họ có thể cung cấp cho bạn các chiến lược và kỹ thuật để đối mặt với mất mát và đau đớn về cảm xúc.\n    2. Tham gia các nhóm hỗ trợ: Kết nối với những người có cùng trải nghiệm có thể mang lại sự hỗ trợ và sự hiểu biết vô cùng quý giá. Bạn có thể tìm kiếm các nhóm trực tuyến hoặc tại địa phương dành riêng cho bệnh nhân ung thư và/hoặc những người bị mất ngủ do ung thư.\n    3. Phát triển thói quen ngủ tốt: Thiết lập một lịch trình ngủ đều đặn và tạo ra một thói quen đi ngủ có thể giúp làm dịu tâm trí và cơ thể của bạn trước khi ngủ. Điều này có thể bao gồm các hoạt động như đọc sách, tắm nước nóng, hoặc thực hành các kỹ thuật thư giãn.\n     \n    4. Tập thể dục đều đặn: Hoạt động thể chất đều đặn có thể hỗ trợ sức khỏe tổng thể và có thể giảm bớt một số triệu chứng liên quan, như đau đớn và căng thẳng cảm xúc, có thể gây mất ngủ. Hãy chắc chắn tham khảo ý kiến của bác sĩ trước khi bắt đầu bất kỳ chương trình tập thể dục nào.\n      \n    5. Chế độ ăn lành mạnh: Ăn uống cân đối có thể góp phần vào sức khỏe thể chất và tinh thần tốt hơn, có khả năng giảm bớt triệu chứng mất ngủ của bạn và cải cải thiện tâm trạng của bạn trong quá trình này.\n       \n    6. Quản lý thuốc men: Đảm bảo bạn đang quản lý các loại thuốc có thể ảnh hưởng đến giấc ngủ của mình, như thuốc giảm đau hoặc các chất kích thích, và thảo luận về bất kỳ lo ngại nào với bác sỹ của bạn về việc thay đổi liều lượng hoặc loại thuốc.\n        \n    7. Tự chăm sóc bản thân: Tham gia vào các hoạtđộng tự chăm sóc, như thiền, yoga,",
+        "actualAnswer": "Hầu hết các khách hàng có nhiều vấn đề cần giải quyết. nó là bình thường để có nhiều sự kiện trong cuộc sống của chúng tôi khó khăn chúng tôi và ở lại với chúng tôi mà không cần trợ giúp. loại khuyên bảo đúng sẽ giúp bạn tập trung vào vấn đề chính và vấn đề đầu tiên vấn đề vấn đề bạn có và làm việc theo cách của bạn thông qua tất cả những gì bạn đang phải bước từng bước, mục tiêu bởi mục tiêu. đôi khi làm việc trên một vấn đề giúp mang lại vấn đề khác giúp đưa ra ánh sáng trong vấn đề chính của bạn. Điều này có thể giúp bạn giải quyết một số vấn đề khác liên quan. Hãy tìm kiếm một số khác có liên hệ với một ai đó và đa số kinh nghiệm trong hầu hết các vấn đề của bạn... bạn có ngay cả đối với bạn có ngay cả các vấn đề của bạn có thể tìm thấy vấn đề của bạn, sau đó bạn sẽ tìm thấy vấn đề trước đây là vấn đề về vấn đề của bạn, hoặc vấn đề về vấn đề chính.",
+        "bert_score": {
+            "precision": 0.648134171962738,
+            "recall": 0.70360267162323,
+            "f1": 0.6747303605079651
+        },
+        "bleu_score": 2.9586108770306887,
+        "rouge_score": {
+            "rouge1": 0.5782178217821782,
+            "rouge2": 0.31547619047619047,
+            "rougeL": 0.297029702970297
+        },
+        "predictedSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "actualSentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        }
+    }
+]
