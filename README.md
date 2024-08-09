@@ -31,9 +31,12 @@ Dự án Chatbot-MENTAL-HEALTH nhằm mục đích cung cấp một công cụ h
 Dựa vào bảng xếp hạng VLMU, chúng tôi đã chọn hai mô hình để so sánh:
 - `ura-llama-7b`
 - `vinallama-7b-chat`
-Sau khi fine-tuning, lưu 2 model lên Hugging Face HubL
+Sau khi fine-tuning, lưu 2 model lên Hugging Face Hub
+
 - `ura-llama-7b` : https://huggingface.co/thailevann/ura-llama-7b-mental-health_1
-- `vinallama-7b-chat` : https://huggingface.co/thailevann/vinallama-mental-health_1  
+  
+- `vinallama-7b-chat` : https://huggingface.co/thailevann/vinallama-mental-health_1
+  
 Kết quả so sánh cho thấy `vinallama-7b-chat` hoạt động tốt hơn.
 
 ## Triển khai
