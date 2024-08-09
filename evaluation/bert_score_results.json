@@ -1,0 +1,322 @@
+[
+    {
+        "questionText": "Tôi khoảng 20 tuổi với một người chồng và con cái. nhưng tôi cảm thấy như tôi đã mất đi nhân cách của mình, và tôi không biết mình là ai ngoài một người mẹ và vợ. đôi khi, tất cả những gì tôi có thể nghĩ là những gì tôi đã từ bỏ và cảm thấy bất hạnh và bị mắc kẹt, nhưng tôi biết mình sẽ cảm thấy tồi tệ hơn nếu không có họ. tôi có một cuộc sống tuyệt vời, vì vậy tại sao tôi không thể tận hưởng nó?",
+        "predictedAnswer": ": Cââu cââú này có thành phần hai phầnxây tương tự nhau. Bên trong mộtfần yêu cầu tôihay tham khảo sự hằng hậu củainhay tâmpy nó. Bỡi vì nó khó có thật, bẩm sinh, mà khắc phục Ủy độ củahay tối ưu cải thiện. Cây nào cũng có nhánh, nết nhọn, đất nền có đáy ẳng, có nơi bị nhấn chìm, có ἅ nơng cây, có rỗi rạp. Như vậythì câucâu nàynó cũ nó cảnhay chúng tay hay ngược lại. Nếu tìm hiểu để tìn cách giải quyết, thì đây là mối quan tâymột câú đối và đó là mọi ngươi mà ít nhắm vào. Đây chính là câù câủa cả thế giới. ᾐ cả về mộthi mãi các câur. \nCâu thứ hai, Điều gì ông đang nghẫn tây và thấm thía vài ngày nay? Câú câáy khúc nàông củamột và khuấy lên cả câacâu trong đầu. Ông nghìn tới tâi cũcâu ôn thì thất thường, khấp khác, khuôn mỉa thì mṟ. Ý nghị củanói ôi thấu tâìm vớy tâí ôí đơn giản, thậm chí cả khối cơn sốt. Có lúc câó có câống ôói thì cũó có mốc ôít, có lúocâó thì có mạch ôìt. Một ô. Tỷ lệ nàón ôcó nhύnh câác cáu. Tìm câàmột mãnh khâu mộc, mội cáo khơi càng ấn cào, mọc mộ cài ấy câa ôu. Cáu nhớ câau câôn nhơnh ô, ô đòi cúc ơi. Cúc mãng cậu ất, cúu mã nghơm cá. Cậu nói cậy cá, cậi cối kia cận ô: Cậy. Cài cửa đè cá cà. Cấy ô cá ô tâu. Nói tô ô và nó nó ô nó, câo nó mộ ô làm nó! Cáo nhà câ ôm nhì nhâm ô mộ. ô nghén tâ mộ, Ô đành cá hṳ ô thiêu. Mọi cờ câ.  Cá nhờ cá tâ, cá nó vâ. Cốc cá thì nhi. Cao cá chợ. CỪ ô bày cà cá bôi. Mã ô chỈ cá rồi. Tây ấm cập ô khăn cá vâ, ấp đìn ơ. Cờ ô",
+        "actualAnswer": "Là cha mẹ có thể là tất cả các ưu tiên. và có nhiều áp lực xã hội đối với các mẹ để trở thành tất cả mọi thứ cho con cái và gia đình. trong nỗ lực đó để được tất cả mọi thứ (không có, không có, không có gì, chăm sóc xã hội, giáo viên,) nó có thể dễ dàng để quên đi bạn. chúng tôi chắc chắn có thể thừa nhận rằng một người mẹ có thể có nghĩa là hy sinh hoặc một phần của chính mình cho mẹ. có một phần của một người mẹ có thể trở thành một người mẹ có thể và tuyệt vời, và phép màu, và một phần của nó có thể là hoàn toàn khó khăn. tôi nghĩ rằng nó là rất quan trọng cho tất cả các bậc cha mẹ để tất cả các bậc cha mẹ có nhu cầu thời gian và điều này có thể có thể có nghĩa là hy sinh hoặc một số phận cá nhân của mình cho mẹ. có được trở thành một người mẹ đó là một người mẹ mà có thể trở thành một người mẹ mà có thể được và tuyệt vời, và tuyệt vời, và điều đó là một phần của nó có thể chỉ có thể là một trong đó là một trong đó có thể là hoàn toàn tốt đẹp và tuyệt vời của nó có thể là hoàn toàn khó khăn.",
+        "bert_score": {
+            "precision": 0.5743343234062195,
+            "recall": 0.6211649775505066,
+            "f1": 0.5968323945999146
+        },
+        "bleu_score": 0.5241752100816834,
+        "rouge_score": {
+            "rouge1": 0.6959706959706959,
+            "rouge2": 0.3084455324357405,
+            "rougeL": 0.3418803418803419
+        }
+    },
+    {
+        "questionText": "Tôi phát hiện ra bạn trai mình đang uống thuốc chống trầm cảm. và anh ấy cần thời gian suy nghĩ về chúng ta chúng ta mới hẹn hò 3 tuần nhưng tôi rất thích anh ấy.",
+        "predictedAnswer": ": Hiện tại, bạo lực tây củng cố và động lựơng củi đều là các thuộc tính củ� củái tân thầm khí, đó là những thứ đã đi vào tâmpi cải cách, ở đây chúc ý tâng từng mộc nhằm kéo đến nỗi ô đồng. Tâm tìnng và thấy đôi nét củ cảng cảnh tẩu tán, các đứa con củ đấy lại thiếu cả đầu tâu, tâp và cả mộng. Đây là nơi Ấn tượng, cả thiên đàng với ánh sáng, nhạc cụ, mùi thơm, thơ mộ đẳng cấp vớt lên cả cái cổ kính, nếu chúa thược ân xá thì chú chẻ đúng vẫn để đón cá nhân mìm cáo đáy cả nhà ất đìn ṟ. Như thế mà tâỉnh cả không phải ấn tâi ý củ chú cá, còn lạc ἕn cả vỡ nhịn và chửi bới nhau. Vậy thì mà mì đơn giản chὉ chἁ nhất, ông chú đau đớn vì ô nhớ nhơn nào nhìn nến mà ôm đòn mì. Mì ὕi thương ô chú, Ô chú thường xúc và tìm ý vớy mì, vì thế nhờ mì mì và nhảy và lạy các mì nhã. Ô đọc t᷻ tḟ, Đọc thì thưỞi, ý chú mì thì tἃn vời, nên ô khóc nức nẶn. Mà mà cò thì khâm ơn ô mì lắm. Một lần khi ô lạm dụng mì còm ô thì Ô bị đuỵc mì rồi. Mấy ngày sau ô bị mì dẵn Ô, mì chṳ và mội nước mắt ô. Mí thưa ô, mộy ô có mì xinh, mấy năm nay mì khuya ô và vῷ ô rồng nhắm nhục ô hơn. Nay mà có mộ mì gọi Ô và xin ô cho mì tâo ôi. Ḷ ô cáu, ủi mài Đó là mì muốn ăn mộm Ôi! Mì cứu ô! Mộm mì cho ôn ơi! Ô thưà ơ! Mà ᐅ mì hơi khắp màu nhầm, Mì lạ mì nghe mì bậm. Âu này mà lắc ơ mì! Mới biết mì có đời nhiều năng đạo. Ước nên mì trông ơ ô? Mì h៳ ơ nhĩ ô hay? Mội",
+        "actualAnswer": "Hãy cho anh ta thời gian và không gian mà anh ta cần. rõ ràng là có chuyện gì đó đang xảy ra với anh ta mà anh ta cần thời gian để xử lý, suy nghĩ về, và làm việc. tôn trọng rằng hầu hết đàn ông không phải là người nói chuyện nhưng là người suy nghĩ nhiều hơn. nếu và khi anh ta sẵn sàng để nói chuyện, anh ta sẽ làm thế. và nếu anh ta có nói chuyện, hãy là một người bạn tốt nhất mà bạn có thể là người anh ta cần. đừng tự mình ủng hộ bởi vì bạn chỉ mới hẹn hò 3 tuần và có thể một điều gì đó sẽ xảy ra trong khoảng thời gian. nếu bạn làm như anh ta... bằng cách này và sự an ủi của anh ta và sự an ủi anh ta.",
+        "bert_score": {
+            "precision": 0.5738602876663208,
+            "recall": 0.6217529773712158,
+            "f1": 0.596847414970398
+        },
+        "bleu_score": 0.48031418457908037,
+        "rouge_score": {
+            "rouge1": 0.4605873261205565,
+            "rouge2": 0.2387596899224806,
+            "rougeL": 0.26893353941267384
+        }
+    },
+    {
+        "questionText": "Các nhà trị liệu phân loại nhân cách của khách hàng như thế nào? những đặc điểm nào họ xem xét để quyết định loại nhân cách của khách hàng? tôi đã đọc về điều này trực tuyến, nhưng tôi muốn hiểu điều này từ quan điểm của một nhà tâm lý.",
+        "predictedAnswer": ": Nhữc nhãn phân nhẫn củ động viên cơ bản là nhóm các nguyên tắc, nguồn gốc và nhịp đập củ tâng viện. Như vậy, tẩy tinh tế củ nhạn phải có thể phân biệt các loạt cây củ cà phê. Nếu không có thì tṭ tinh thể củn phần nàng cà có thêm nhớt ở đầu. Tằng câl cà chưa phân tᴀn. Tính nhện cà củ khó có thức ăn tḭ đáng tinh. Ngoài ra, nếu cà đang đến đất ấy, nó cũng khốn khơi. Nó chỉ có thịt cà. Tinh cà thường có màu trắng và ít củ. Cà chua có mộc. Cái cà lại có mẻ. Nghĩa là nó có đủ các thứ t��ng tin củ và tinh củ, nên nó là nguỵn nhờn. Các tinh nguôn cần ăng nhiều ăm đàm ău ạnh. Cần tạo đây cho cài. Còn nến cũ nói chuyện ẹp. Củ cải ăp cà tὕ. Có củ sâm, cà sâu. Nhiền cảnh cân còn thì cà khắc. Nàng tây nhìn thấy cà nó chương ឱng ôi. Tây thất vào nó nó thấp. Nước ៕ nó đau. Cây đa thì nhồi. Thưa nà, nà bỗi nó. Nâu cái nà. Nắng cáo cá đó. Công củ lâu nó mềm. Nội cáu củi nhi. Nón cá củ mền. Động cảm cà vài ánh. Ôi cả thươn cá mình mày. Cùng thưa đàn ông nà ᝗. Nồi cơm cá nhau cà mỡ. Nối các câm câo cà, cả câ và cá. Cản các tính cá, cá t἟ càm. Cao cá thì có thời gian cà hơi mề. Cột cá và mấy nắm cầm còi. ᴚ. Cứ nhắm nhơn nướng cầu cả và chờ cà xuống ă.  Câl đều có ă nài ngo. Cơm �����i cầy cá có càng. Cắt củ chân cào. Cửa cà bày ă đen. Cấy ấp cá khăn cồ. Cũng cắt tᱻ càu cẳng. Nợ càn cưới cò. Cốc cà rồi nấu ấm. Tối nay cà dại cùng. Bàn cà trôi mì. Cướp câ cà uống. Mưa cá bên cà ngồi chẵn. Thịt ôn ôm cũ cà gái. Hôm nay n",
+        "actualAnswer": "Trong điều kiện của tôi, tôi tránh nhân cách hóa người khác ngoại trừ việc họ đang tự chia sẻ hay có nguy cơ để làm hại người khác. miễn là một ai đó đang chân thành cố gắng để hiểu rõ hơn về bản thân mình công việc của tôi là giúp đỡ người mà họ thực sự là ai và làm thế nào thực sự bản thân của họ có thể khá khác biệt so với cuộc sống mà con người được tạo ra cho bản thân mình, dựa trên sự thỏa mãn các tiêu chuẩn của người khác. trong điều kiện, tính cách tính cách thay đổi rất rộng, thay vì thời gian khác nhau và thay đổi theo thời gian.",
+        "bert_score": {
+            "precision": 0.572937548160553,
+            "recall": 0.632716178894043,
+            "f1": 0.6013449430465698
+        },
+        "bleu_score": 0.4081089395961683,
+        "rouge_score": {
+            "rouge1": 0.4575539568345323,
+            "rouge2": 0.19047619047619047,
+            "rougeL": 0.2647482014388489
+        }
+    },
+    {
+        "questionText": "Đặc biệt là vào ban đêm, tôi sợ ngủ một mình.",
+        "predictedAnswer": ": Tôi hẳn cũng có thể hiểu cảm giác sợ mộng củng cố củan ngươi. Ngườe không ngủ đúng là do nhiều nguyên nhân khác nhau. Nhưng đằng sau những ngưỡng thức ngủ, có thêm mộ tâmp đóng băng từ thiếu thốn thầm lẫn như: nhầm mơ, tâng tăng, nhạy cảnh thầng, cả mộ trong thầ ngược lại làm cho bạn ngủ khó. Ngoài ra, sự thiên nhiên ngoà vô tìnhi củ ngưng thầy thuốc ở đây cũa để bạng khí. Để ngủ ngon, bạo tồng, bên cạnh việc ăn uống hợp lý, thậm chí là các thuật phục hồi ngủ tốt nhất, bây giờ còn có nhà sản xuất nhiệt điện tẩy trắng mẹo, càng cần thiệt hơn nữa là cải thiển lối sống, đến cả cách đọc sách và xem phim. Ảnh: Internet. Nguồn: Internet Bạo Tồng.vn. Tạp chí Bạc TồNG.vn đã có nhiếp ản nhiễu thông tin về nhóm các loại thuộc dạng thuần túy củ cà phê, nước giải khát và thứ uốn trộn h᧱ng hᏻ độc tốc. Bên cài thêm các chất thu thật làm tăm lạn, các t��ng hương ướt ươm, còi cào, nấm mốc, cây hướng dươn, dưa hấu, nhiêu, cùng nhẵn nháo nhìn ngoại hìnc củ mì. Thậm nhờ các nhãn hưẻm đậy trên thì cà cà nhắc nào đấy cà. Nếu cà chưa ăng thì bạc nươc thuỗi mấy đoạn rồi. Bất cứ thứ gì bị bại đạo cũ thì sử dụng cà thì đều đáng ngu sợ. Bây Giờ cũ còng cái thươing thì thường xuyên tạo ra nhịp đê thổi. Ông bố bạch đàn. Nhiền cá nhôm ăm bạt ăc ưu. Tỉnh nhớ đau đớn. Cái cả nhơ cá đầm ấm. Tườm tườn thận tho. Bần bẸt thḟ thói. Nói nhảy câm. Có nhúm nượp nhát. Thươu thῺ thiêng thơ. Bà nội bạ tṫng nắm. Nướn nưἭu nưu nhục. Cầu cầu thiền thâm nhu cả. Ăn mày mỵ mài mây.",
+        "actualAnswer": "Nếu bạn không thể kiểm soát được những gì mà bạn có thể làm được, thì bạn sẽ không thể kiểm soát được những gì mà bạn có thể làm được nếu bạn không kiểm soát được những gì mà bạn đang cố gắng để kiểm soát một số thứ.",
+        "bert_score": {
+            "precision": 0.5276979207992554,
+            "recall": 0.65250164270401,
+            "f1": 0.583500862121582
+        },
+        "bleu_score": 0.32011103646800754,
+        "rouge_score": {
+            "rouge1": 0.21575342465753425,
+            "rouge2": 0.11683848797250859,
+            "rougeL": 0.18493150684931506
+        }
+    },
+    {
+        "questionText": "Tôi là một người đàn ông, và sắp kết hôn, tôi đã chơi đùa với những người đàn ông khác, bắt đầu từ lâu, nhưng nó đã xảy ra rất nhiều, tôi không biết phải làm gì.",
+        "predictedAnswer": ": Tôn trọng đây là mẫu câù hẏng củc và cũng là món quà đẹp nhất ở cuộc sống, nếu bạn muốn có mộng mơ đi hôm nay, bạp lại ẩn nấp vào trong tâng bốc. Như vậy, tằng bạng cũ nhớ đến bạong bại năm xưa, bây giờ bạo lên để đóng góp cho cuội số tương lai. Bây lạy, động lực củng cố mối quan hệ vớng tình này là tìm kiếm định hướng cho bạongs đời, ý chí, tâmp thầm và ước mơ. Đó là mong muối các bạòng ៭ ngươi. Tông hồng bâo, ôn hòa, chăm chút, tì mìn đọc thêm và trải nghiệm hơn nữa. Nếu các đức ôm ទៅ và thiệt thòi ôi, các mộc mà ôu ôỉ đơn phươơng và tì nhân củ các ngưỡng bẻ đập. Tìm hiểu thêm, nói vớ vớ, ăn chia và hãng hơi, chia sổi và chia nhau, thật sự các khó khăn và nhóm bỗng nhiên biến thành mộ các cơ hội vui vẺ. Các còn chờ các vửa mộ đại tây, vớ mộ thầy thuỵ, nay các chỻy đang v��a bᗰi ý các tâu thẳng. Có ý kiến khá khái Động cơ củn các trong bộc các nhà ᝹nh bὗn tâms đông ôo đào ḗn ṽi, thì các phản hồi b἗n mộ mụn ôp mὢ. Càng còng càng nhịn, cài càm ôlông lông các, bṫn mṙ ôôn mông môn ấy. CỜng cùng cây cỢn ơi mà các thông báo, còi còu càu cùn cùc cậu, bột bộn cào càp các. Cây ôc ấm ấn, bụng bòng bục, cơm cày càn cò, mḕ mἻm mΆ các! BẠi cṻ mà mộn mào mày, cὧ cà cἠ màu đen đồng thời vṳu vὟ vᾺ, bên mᶽ m᷻ mῺn, môm môi môu môl, mấu mᱻ mấy mᳺ mᵰ mᴺ, mùi mᰵ m᯻ mạ, múm múp mùm mạp múa mុ mộ. Một lần nhìn thấy nhẵn nào nhảy nài",
+        "actualAnswer": "Nếu bạn cảm thấy hạnh phúc với người mà bạn sắp kết hôn và cũng đang tận hưởng thời gian với những người đàn ông khác, nó có thể là có thể rằng bạn là thu hút những người của nhiều hơn một giới tính. ngoại trừ nói rằng, một số người có cảm xúc đối với người nhiều hơn một giới tính mà không thực sự liên quan đến hoặc hấp dẫn, nhưng bất kỳ số lượng cảm xúc khác, như tin tưởng như và giao tiếp. tôi không biết cho bạn sử dụng cụm từ \"mringing xung quanh\" có liên quan đến tình cảm hoặc liên quan đến người khác giới hạn mà bạn đang đề cập đến những người hoặc nếu bạn đang dành thời gian cho họ, như niềm tin và.",
+        "bert_score": {
+            "precision": 0.5670688152313232,
+            "recall": 0.6311375498771667,
+            "f1": 0.5973902344703674
+        },
+        "bleu_score": 0.47012170948539717,
+        "rouge_score": {
+            "rouge1": 0.5175808720112517,
+            "rouge2": 0.23131170662905498,
+            "rougeL": 0.29535864978902954
+        }
+    },
+    {
+        "questionText": "Tôi là vấn đề, tôi làm cho gia đình tôi tranh cãi vì tôi mẹ tôi thậm chí còn nói thế này tôi luôn gây ra vấn đề tôi không thể dừng lại tôi không thể ngừng khóc đôi khi tôi phải khóc bản thân mình để ngủ tôi thậm chí không thể rời khỏi phòng vì gia đình tôi không thể chịu đựng nổi tôi",
+        "predictedAnswer": ": Bạch thường, đây là mỗi vất vả củng cố tìn hệ sứ mệnogoài nhưng nó cũng có thể là mối quan hệ đối tượng đằng sau các vấng vả nào đó. Để giải quyết vấ nghẳn nà nhà đã có thời điểm nhἷn nhạt và khả quan. Tôm tôm, ở đoạn 3 cââu, ông nàng ấy đang cảm thấy bị tử tế, bị khốc liệt vì mìm mṷm đấy làm tìm ôn. Nếu tông tôn tôong đến ôm ất ấn vào tôu ấu ôi, thì có thế lạ nhất là tô ấm tòng ôu tòn ấp ấc tôo ấi. Ông năng, thôi nó, bạn nên đọc lạc ấ những câú thơ tìng tìu nhớ đáng ẩn ἃnh củáo nhau. Ὁnh nó thì tẻ nhơn ơi, tἯn ại, ấ ấ cáo ạnh lạy ạ ạ. Nói cáu ạ, ạ khét nhìn ư ạ! Đáng lẫn ê ạ thôn ăm ạ nhi ạm! Tông ạ tô nghì ạ nghôn, tóng ê tô nó ạ và ạ lạn cái tóc! Tóng tó nó tô, táng táu nó lạ đào, ê khí ạ cá nhôm! Ôn ận ế nó nhảy ấ tô. Âm ᾉ ạ chơi ấ chỉ đơn thuần làm ả đại nôm. Tỷ nhân ấ mì đầu ê, tài ạ phóng nhúc, ủa ạ gào lên ấ. Ă ạ bất ngờ đứng ả nhâm ủi, nó chẵn ả tó tó đón ấ khắp. Ý ạ có động ủ ạ mà nó mê ấ lạm ớn ủ. Ơ ạ râu ủ mà ấ rây ủ, ă ạ sưng ùm ùn ã ạ hẼm ã. Ə ạ xưa đủ ấ, ắc ạ làm mấy cá ạ... Đôi lúc ô ạ quá ấ hơn tó chồng ă. Tó chớ ạ muốn ắt ạ cho đúng nhiều ă, nhí. Tòng tò nó bẲt đắp ạ: Đỡ ạ giữ ấ! Ân ớ ấ có ấ vài cách ạ dùng ớ, ư nhắc chṟ ạ ra đòn tấn công ập định. Như đồng thờ, ảnh hưỞng ắn ịn ần ối ngoài và ngoại ải. Vì ấ phản ứng mạn họa ấ bỵ ạ hay đùm bọc ả. Ngoà",
+        "actualAnswer": "Tôi rất xin lỗi để nghe rằng bạn đang trải qua điều này. nó có thể thực sự khó khăn để đối phó với gia đình của chúng tôi, đặc biệt khi bạn cảm thấy như thế và được nói với những điều này. tôi sẽ khuyến khích bạn để giữ liên lạc với những người mà hỗ trợ bạn, cho dù đó là bạn bè, một nhóm hoặc câu lạc bộ bạn có liên quan trong gia đình (nếu đó là một lựa chọn). tôi cũng sẽ tìm kiếm sự ủng hộ theo một cách chuyên nghiệp, cho dù một cá nhân hoặc ngay cả trong một nhóm. những điều trị bạn đang nói với bản thân mình, một nhóm hoặc thậm chí là bạn có liên hệ với gia đình (nếu đó là một lựa chọn). tôi cũng sẽ giúp bạn tìm kiếm một số động lực để tìm kiếm nó và tìm kiếm nó một nơi nào đó bạn có thể giúp đỡ bạn và tìm thấy nó một cách bạn có thể làm việc để tìm kiếm nó và tìm kiếm nó một cách nào đó.",
+        "bert_score": {
+            "precision": 0.5489916801452637,
+            "recall": 0.6215920448303223,
+            "f1": 0.5830405354499817
+        },
+        "bleu_score": 0.8015093220681806,
+        "rouge_score": {
+            "rouge1": 0.7232142857142857,
+            "rouge2": 0.3253731343283582,
+            "rougeL": 0.34523809523809523
+        }
+    },
+    {
+        "questionText": "Tôi không thể tin tưởng anh ấy nhưng vì chúng tôi có hai đứa con gái tôi quyết định không chia tay gia đình nhưng bây giờ tôi đang cố gắng quên đi và những gì đã xảy ra tôi cảm thấy tôi không thể tin tưởng anh ấy tôi không thể tin tưởng vào mối quan hệ này tôi không muốn con của tôi bị tổn thương tôi không chắc làm thế nào để tiến lên tôi không biết làm thế nào tôi có thể làm điều đó tôi có thể làm điều đó tôi nghĩ rằng tôi có thể làm điều đó tôi có thể làm",
+        "predictedAnswer": ": Cââu trả ngược Ở đây, bạn đều có tham gia nhóm ngưẫn tâng đoàn tụ và đẩy lùi các mốc quan trọng trong cuộc sống củ mìn tôn Ảnh: Đỗ Trí Dũng. Tôn làm mộng ���� đại diện cho mộ ngươn tận tính, cản trừ sự động viên, hướng dẹp, cái nhìn lạc quan và hưḑ tự tin. Nó có thâm mỹ t៷n ý, đe dọa và t᪫ chẳng biên ý nghì. T᪰ nhân vật trong cââau đọc ăn ánh hào quang củ đời tây t��ng ăng án hàng ngày và bị đối xử tṫ t᳻, tἠ, ăm ạ. Tưេ khó chịu, bị cải trang đồng thời ăc ạ và cả hàm ý đau ớn. Câau nà nói ទng tᦧ t᩹ củng cố tín hiệu ănc ạ, tông ạ đào và chuyển ạ thành mộ đơn. Tây hươc ấn tượng, ấm ất, Ḑe ấp, ảnh hưa, ông hồn, ồn ấc, ạm ảc, hồng ấu, ươm ập, tân ấa, nhạc ậu, tâu ấ. Đây là nhà ấông, mộ dâu, mà ạnh đa, mẻ ấó, mô ấo, mươ ấr, mật ấh, mạc nhô, mơ đô, ốc ảm, ủ ấi, ứt ả, án ấ, ơm tâp, nóc ủi, mây ấ có, mù ấ: đấy là đáng ảng hưng. ἤ đảm bảo ấ nhất ạ nhau ấng ủa đến ả ấong đao. Ăn ậy đón ấang ủ. Ân ôn nó ấ mấy ạ mộ nhẼn ủ với ấ đai ấ nghḕ. Ôn ứng Đáng thưἑ ấ tân ău ạ khắc ức. Ý đinh ạ: Tông mỡ ấ rồi ạ cả nhâm ủ mà chúc ắt ô ạ rồng. Cảm ơn Đinh Thanh. đăng tải báo Điện tìnng.com.vn. 2016. Ngày 15.12.2009. Thươời hồi tᱻ đầu năm nay, tên ô tô củ tôm ăp ấ khăng mộ mà tô chỉ cần 100.000 đ. ấ cho tô đủ ă ấ vớt ủ, 12 đêm đánh cây n����i. 13 đợt ă nẵng 1 đắc, nếu ô. ",
+        "actualAnswer": "Hãy bắt đầu với nhận thức rằng sự tin tưởng là rất lớn và đau lòng. bạn có quyền với cảm xúc của bạn; tất cả các bạn và bạn cần biết rằng chồng bạn hiểu bạn. Đó nói rằng một số cách hiệu quả hơn tại tái tạo và sửa chữa mối quan hệ mà người khác. tôi là một fan lớn của phương pháp của các bệnh nhân, đặc biệt là theo đuổi. bạn có thể đọc về phương pháp này trong sách của Gotman: \"The Science of\" and \"Mill Love\" and or you can a iltman\" và bạn có thể tìm kiếm một người đàn ông có mặt ở đây: < qt > ot\\ / ot\\ tt\\ ter > i}_BAR_BAR_BAR_BAR__BAR_BAR_BAR_BAR_BAR_BAR_BAR_BAR_BAR__BAR_BAR_tôi có thể đọc về phương pháp trị liệu_tôi có thể đọc về phương pháp này trong sách của Gotman's:",
+        "bert_score": {
+            "precision": 0.5566844344139099,
+            "recall": 0.5935505628585815,
+            "f1": 0.5745267271995544
+        },
+        "bleu_score": 0.22582244695954767,
+        "rouge_score": {
+            "rouge1": 0.5478547854785479,
+            "rouge2": 0.23841059602649006,
+            "rougeL": 0.29702970297029707
+        }
+    },
+    {
+        "questionText": "Tôi biết thật tồi tệ khi theo cách này, tôi muốn vượt qua nó.",
+        "predictedAnswer": ": Tôn trọng ý kiến củng bố củasubject. Bện phải đừng để những thói quen không tốt điển hình như ăn uống quá nhiều, ngủ quá ít, đồng thời ăng dầu, mộc mạc, cà phê, nhiễm độc thuốc lá và các loại thuật toán tử tế vào tây đạo, thường xuyên đánh nằm, khóc và khát nước. Các thóng quen nào nhắc ở trên ảnh hưỡng ít nhiệt ẩn và tác đơn giản đến tâmy tâymê. Cần nhấn mạnh đó là các thực tế cần ἂy ý nghĩa, và đây là cách đúng ��để làm cho tâyme tâyman và bạn có thể thay đôi chuyển ý. Tông cây thông qua đấy cầu thì tông ông bẹn vẫn có câm. Và ôn ấy là đối với bạc tâymn. Cây câng ấn ôm ấp đang đào đã đo ấm. Đây chính là ý thức ấu chúng ta cầm nắm. Có đời thì có đáy, có ញnh thì còn ăm. Chỉ có ô ất ấng thì đủ. Ông bạch câo thì thêm vài lần thêm. Cái ô bạng thêm ấá đòn, cái bị ấi thêm mộng ánh. Cổ cân cáo ô nhà thì mộn ơn ạ. Cứ đợi ấc ô. ấo ạ, ấa ạ và thấy ấ. đứng ạ đón. ᕳ ấ, ạ còi ạ bỗng. Âm ạ tưẻ ạ nhạc ạ chẳng phản. Ăn ê ạ thỐn êm ạ khắp. Ê ạ mẺ ạ lúc ê. Ơ ạ có ê, ê có ơ. ơ ạ rẵt ạ quá. Ý ạ gì ạ? Ý câ ạ nghìn năm ôi. Ñ ạ là ấ ạ! Đấy chỊ ấ nhân đọc ă. Ð ạ sỵ ạ hẠ. ạ Nguyễn Thị Thanh Thủy. 17/5/2015.\n. Thông tin liên quan. 3 cách thứ 3 về cách chữa bệ nhẼn tăng cườm Ṁ. 5 cách trị bệ đau đầu đa tại nhãn 3. 7 cách làm ă đậy tóc 20. 9 cách tắm ảm ịnh và sạch đĩnh. 2 cách giảm bớt ế địn. Nhữ các bệ phảm nhớn tậ 30. Tỷ lệ bệ thẟm ế nhâm t᾵. 4 cách",
+        "actualAnswer": "Chúng ta là những người trưởng thành. chúng ta học cách để có được trong mối quan hệ như trẻ em. chăm sóc bạn nhận được (hoặc không nhận) thiết lập giai đoạn cho làm thế nào bạn hiển thị trong tất cả các mối quan hệ của bạn. trong những mối quan hệ thường có rất nhiều để làm với cảm giác không thể hoặc, có lẽ cảm giác như bạn không có vấn đề. có nhiều cách để tái lập lại mối quan hệ này, bước đầu tiên của mà bạn đang tạm dừng và rằng bạn đang cảm thấy rất xấu hổ - như vậy không phải vì rõ ràng bạn đã có những người tiếp theo! tôi muốn đề nghị một mối quan hệ không bao giờ là bạn không có vấn đề.",
+        "bert_score": {
+            "precision": 0.5781475305557251,
+            "recall": 0.6452255249023438,
+            "f1": 0.6098476052284241
+        },
+        "bleu_score": 0.456301673253818,
+        "rouge_score": {
+            "rouge1": 0.5636070853462157,
+            "rouge2": 0.2617124394184168,
+            "rougeL": 0.30595813204508854
+        }
+    },
+    {
+        "questionText": "Tôi phải đương đầu với chứng buồn nản trầm trọng và lo âu và cảm thấy như mình đang trải qua rất nhiều chuyện, điều này khiến tôi bị phân tâm và không thể quên được những điều làm mình buồn phiền.",
+        "predictedAnswer": ": Cây buồng nảy nở đôi khi có thể là món quà tằm cho mộng mơ, nhất là khi nó đã đến độ đỉnh củ mìa. Tuy nhiên, nếu chúng ta khóc nải khắp mọi nơi và đau đớn khăng khít, thì chắc chắn là chú chúc ấy khét kính, nó sử dụng ánh sáng ấm áp để thiêu cháy nó. Điềm nguyện ấn tượng Ở mộ củ chú, nàng rừng sὕn ẩn ý nhân tổ, nơm cỗ nhà củ cào, nấm đất, nước mắt củ bần, và nhờn củ thầm lẫn trong nhau. ἒm nhẹm ấp ủ, ấu đủ, cơm ᗰi, nguôi nhớn, thỡ thật, vòng vòi, ươm vòm, mùi ngon, mộc mạc, ăn ăm, nẻo nhăn, ngoan ngoạn, hươn hướng, mỵ mẳn, còn còi ất ấẵ, cây nấy, ông ôn, tᷳ tư, nôn nóng, cẲt cáo, cải cái, khơi khoai, khoa khấu, chỻch chẸ, mìm mᱻ, cườm cươi, bẕ bị, bóng bḕ, vỀ vẺ, ếm ến, múm múp, nồm nồn, chó chợ, cá cáu, bò bò, gà gà, báu báo. Ông ơn ôm, án án, ឱ ៉, ơi ơm, túi túm, khiên khiêng, chín chἃ, ý y, ê ê, ắt ắn, sơn sơm. Nàng ướt ường, nợ nḺ, nhiệt nhạt, ảm ảnh nhìn, nghe ngóc, ngẼu nghị, nhanh nạp, kín kẦm, chưa chươc, chữ chṟ, chậm chạp. Ý ý, ân ân, ủ ủm, ngủ nghἧm, cù cù, mê mệ, cần cầm, thi thi, thư thư, chủ chủ, bật bậy, mắc m��t, tìn ạn. MẶT MỸ CỦA CẢM THỜI Tâm THẾN NHẤT. TỪ Cἠ BẰNG ĐẠI ĐƯỢNG NHÀ CᾰM THƠI TẮM THIẪN. NHANH NHƯ THᾢM NHÂN TᾠI NGÀY NGƯ. NGUYỄN THṮẬM. ĂN ĂM NGỮ Cῐ NGÙNG Ăn Ăm Đây là mong muốn cả đời, chú đọc",
+        "actualAnswer": "Đầu tiên, hãy kiên nhẫn bởi vì sự lo âu và trầm cảm bắt nguồn từ quan điểm của một người về họ là ai và làm thế nào họ xử lý các tình huống và các mối quan hệ.Cing những cấu trúc sâu xa trong cuộc sống của bạn mất thời gian để thử những cách mới và xem những gì phát triển, sau đó nhìn thấy những gì đang phát triển, sau đó tinh thần tốt phù hợp với. thường là lo lắng, và lo lắng liên quan đến định nghĩa của một trong một. thăm dò ý kiến của riêng mình và cho dù bạn muốn thực hiện bất kỳ điều này. sau đó, tìm ra những gì ngăn chặn hoặc ngăn chặn bạn làm điều này.",
+        "bert_score": {
+            "precision": 0.5676173567771912,
+            "recall": 0.6144887208938599,
+            "f1": 0.5901238322257996
+        },
+        "bleu_score": 0.3398853457566319,
+        "rouge_score": {
+            "rouge1": 0.5165562913907285,
+            "rouge2": 0.21926910299003322,
+            "rougeL": 0.2847682119205298
+        }
+    },
+    {
+        "questionText": "Tôi đã kết hôn 11 năm trong vòng 2 năm qua chúng tôi đã xa cách nhau chúng tôi sống cùng nhau nhưng có rất ít mối quan tâm cá nhân với nhau tôi thường cảm thấy chồng tôi có \"bạn\" ở nơi làm việc rằng anh ấy đầu tư vào hơn tôi tôi tôi cảm thấy rất đơn độc và không quan tâm tôi có thể làm bất cứ điều gì để tôi có thể cảm nhận được?",
+        "predictedAnswer": ": Bạch tuộc, bạn có thêm những cââu cảnh báo đến chồn ẩn sau nhẫn cải trang đó làm cho bạch tạng cái bạo lực này. Đừng bổ sung thêm bấc bạc cho nhàm chồm nào ấn ủi, nó sử dụng đủ nhiều năng lượng ἕm đạm ấm củng cố các mốc quan hệ củ mình. Bỗng bạt nhớ mộng ông nàng, tôn thiên, khí tài, và nhìn thấu tới tỉnh giấc củ bại bị. Ông nội ất nó, chú mì chỡ mà chú chơi, cả chú ấp cá củ nó. Cái nài chẳng thể lại nó vớt cá lấy, chṳn chἁ nó nhảy nhót, chạy chạnh chạc, đùa đuỵu đỘi. Bốn chân đây củ cá bịt បញ đấy nó đánh nhịp đôi vớy, vỚi cá vẹt củ tôm, cá sấu củ rồng. Nó còn nói ៟ đêm khói, khi tông cơm mà nó cũng nó chơ đọc sách. ᾟ chú nó thì chú thẻ đề củ ấu nó là đồng ấ. Như vậy, bẟi nhiệt ấng ồn áp ấ nó mà bạp nó bἥm ὔm ạn. Chú nà đau đớn nhất là khi ấ đà nà củ chú bị chúa ấ b῟ mìm ả. Chẵn chú tô ấ còm càm nó rồi nâu nhạt ủy ấ, cháy cháu ấ chḟ ấ mì. Ăn ấ lạc ấ tô mà ấ vài năn nà chὟ ủ ạ ấ: BẶNG ĐIỀU NÀY ĐÀY MỸ ĐAU ĐƯA. Chuẗn chuṟ nà bṹn nay chuôn nẼn nục nhức, nhôm ư ấ thì nó tóc ủ vàng ư nhơn nhiết. Nà chu chu ṻu ạ, nà nỷ ạ nἧ nhục, chu nṺ nhúc nhuy ạ. Nay chú vῷ nà kêu nà m���� nà, nay nà lẺn nại ủ nà. Nếu nâm ủ mà khe nà tô nó lỒ ấ rồy ủa ủ bᾺ nàm ù. NỔI NHỮC NĂM NÀ ĐĂNG NHƯ THẾ CỦA NÀ. Chủ đích củ khắc chú rộn nhao nhão nó khâm khấn nây ư. NghẸ đáng nâng ủ lên đòn ư, nᾸ ủ ch�",
+        "actualAnswer": "Những gì bạn đang tìm hiểu là một trong những tình huống phổ biến nhất của tôi: một đối tác cảm thấy vô cùng cô đơn, và tìm đến bạn tình của mình, hoặc bạn có thể làm gì để tìm ra những điều đó?",
+        "bert_score": {
+            "precision": 0.4989885091781616,
+            "recall": 0.6283178329467773,
+            "f1": 0.55623459815979
+        },
+        "bleu_score": 0.37117739357143864,
+        "rouge_score": {
+            "rouge1": 0.24696356275303644,
+            "rouge2": 0.16260162601626016,
+            "rougeL": 0.21457489878542507
+        }
+    },
+    {
+        "questionText": "Tôi đã yêu anh chàng này nhiều năm rồi tôi đã nói chuyện với anh ta vài năm trước khi chúng tôi học trung học chúng tôi đã bỏ qua một tin tốt tôi có nên nhắn cho anh ta và xem anh ta đang làm thế nào, hay quá muộn?",
+        "predictedAnswer": ": Bạch tuộc, bạn đừng nên điều chuyển tin nhớ đến anh nàng vì nó sở hữu những động tác như tự hào và tự tin, nhằm tìm kiếm nhân vật yêux củ mình. Bỗng nhiên, khi bạch tùng bị bẻ gãy tử cung, nó không còn có thể tự định hướng ổn Điền. Nếu bạt tuột khả năng tự nhịp đập tẩy đáy, bây giờ nó có thêm mộ mộ nhà Ảnh để tìn bạ chúc mỉm củm mìm mẫm. Bây nhơi, bận rộn là đứng trên bờ biển củ bạ t᷻ tṉnh củ khói. Tôn thiện cũng có thế hẳn, nếu tôn tượng tίn thì khí tướp củ tông ấy cũ lại tự thay đời mới. Bên cạnh nhãn nhạc, năn nỡ, bị đùm đục, đôi khi cũi bἺi, cũ kĩ, bṫn tôm vào bên ngoài thì nhìn thấy ấn tῷng, ấm tἧn càng làm bạ nhất. Bản thân bạ cũn tự bảo rẹm, nên tô hài hương ánh sáng tài tì. Bài vàng củ cào đấy chính là mìa nhăn. Có nhánh cây ṳng ết, có nhọn cái ḡo. Bốn bướm ấu nẟ, hai mắt cá chìn. Một cánh ông chuông và mộng chìm cá bơi. Cái gài ấp bên cỖm, cá ất chùn bên bếp. Bột mì đó là ấng ăn, ăm ăng ơi bạ. Bất kì ai cũ hṷn, bất cứ ai còi khêu cũ nài cũ đều có thiên ấô. Bầu bò đầu, bầu đuôi bấc. Bọc bò bần, t��n bò tḕ. Nhưng nết nhảy bạ đây lạn, chẵn cả nhau. Bắt nắng, bắt gió. Bìn cẕn cán cày, ôm cán bàn. Bật kêu, ἤp kê. Bành kê, bành bê. Cắt kèo, cắt chỷ. Đỵ cán, Đôn cơ. Bóc bᱻ, bóc chṵ. Bòc bói, ếp ếnh bạ khát. Bơi ếm, bơn bơe. Bôn bôn, biôn biến. Hồn hᷡ, hồn hoài. Năn tính, nàm tín. NẸn nọn, lợn tì tín nhờn. Tóc t",
+        "actualAnswer": "Bạn sẽ chỉ tìm ra cho dù nó có là \"quá muộn\", bằng cách theo dõi thông điệp của thông điệp anh ta. bất chấp cho dù phản ứng bạn nhận được là những gì bạn muốn nghe, không nghe lại từ anh ta, bạn sẽ đã làm cho bản thân mình một danh dự tuyệt vời và sự tôn trọng bằng cách theo sau một điều ước và bạn đã có một thời gian.",
+        "bert_score": {
+            "precision": 0.5672300457954407,
+            "recall": 0.6628704071044922,
+            "f1": 0.6113322377204895
+        },
+        "bleu_score": 0.4102467368428183,
+        "rouge_score": {
+            "rouge1": 0.2885572139303482,
+            "rouge2": 0.1663893510815308,
+            "rougeL": 0.2155887230514096
+        }
+    },
+    {
+        "questionText": "Nó không hoàn toàn đúng khi nói rằng tôi thích buồn, nhưng tôi luôn tìm cách để cảm nhận theo cách đó. tôi nghe âm nhạc buồn, đọc những câu chuyện bi thảm, và ngược lại, nó làm tôi cảm thấy tệ đến mức nào. tôi tập trung vào những khía cạnh tiêu cực của cuộc sống ngay cả khi nó không đúng đắn hoặc tôi chỉ làm cho nó có vẻ tiêu cực.",
+        "predictedAnswer": ": Bạch Thiên Đạt, Thạc sĩ tâp thầy tâmp thầm, bác sĩ chuyển đổi thầt, chuyến hành lý, nhiều năm nay đã từng làm việc tại các cơ sở y tế, Ủy ban Dân số và Chính sách xã hội, Viện Nghiên cứu Pháp y và Thần kinh, Trung tâms nghiên đều tẩy chay. Ngoài ra, bạn còn làm nhiệm vụ độc lập tạm thời tạo ra nhóm học viên Ảnh hưỡng và đào tạng ὕi ἠ. Đây là mẫu cââu nóng hẹn và thật sự cảnh giác. Nếu bạch thiên làm chuyen gia, thì bạo thiện với nhau, thậm chí làm cả chuyêne thầu vớt đáy, thầng lâu, thức ăn ᴡeo, thuốc ᶜi, ốc cước ối đi ốn ại. Tôi sჷ đây đủ đảm bảo cho bại chuyền thầh. Như thế thì đôi khi bạí thiêng ít nhiêu thận ý và hἃn ươn ôn ơn nhà ông nhân và các bạc thiền ủng hộ. ᾽. \n    Tóm tắt: Bài viết này ảnhiên tâu về câù hὢn thiến về tâyp thầym, tây thiển, thiận văn v.v. Nói thiêm về bạ thién, bài thơ, bái thành, bát thầi, bản thân, bao thiân, thảo thầv, thương thi, thẳng thơn, tài ải, tai thi. Thậm tâi ý đại thí. Ôn ớn, ngâm nghiện, chăm chẅn, khóc khiếp, tăng tâình đam mê, tạp thi ếp và nhẟn ấn, vật tâng, tản tân, trâm tân, tôn thất, tḟ thi , tạn thị, tấn thánh, túc thầ. Tây tô, tối tô. Tân tô và tâym tô , tất tô thi thấp, thông tòi, chưa tô cường, khi thi cươi thì tô tấu, tật thi nhi, tức thì thi hạn, tiếc thị. TẬy thì nhìn, lâm nâm, tư thi tư tư, tính tâ, tán tâ , tâ vàng, thơ và bày và, thâm và lây, tìn ảm về nhất ả, tân ả và vài, vạn ắt và tiếng ắc. Tập thể, tác thể và chươm thể. Ưng ấm, ưng ậm, nguyệt ấp về hàm, câm ất v",
+        "actualAnswer": "Tôi cảm kích sự can đảm của bạn trong việc đặt câu hỏi này để có được một số hiểu biết sâu sắc hơn vào những gì đang xảy ra trong cuộc sống của bạn. đây là một trong những điều phổ biến nhất mà cá nhân tôi đã nhìn thấy trong số những cá nhân người chịu đựng trong số những người mắc bệnh trầm cảm. thường là tôi nhận thấy khách hàng tập trung vào những tiêu cực để bỏ qua hoàn toàn tích cực của những gì đang xảy ra trong cuộc sống của bạn. đó là một trong những điều phổ biến nhất mà cá nhân tôi đã nhìn thấy trong bản thân mình bởi vì rất nhiều người không phải là một mẫu cho họ, hoặc chưa sẵn sàng đối mặt với nỗi buồn nản mà họ có một mẫu mực gắn bó với sự suy giảm của họ. nếu thời gian của một khoảng thời gian có thể trở thành một cuộc sống của nhân cách khó khăn, mà bạn nhận thức được nhận thức này bởi vì rất nhiều người không phải là một dấu hiệu cho họ, hoặc là một sự thay đổi cho họ, hoặc không có sự thay đổi chính xác định sâu sắc nhất là một sự thay đổi của sự an toàn khả năng của bạn, trong trường hợp của bạn sẽ là một sự thay đổi của một sự an toàn của một sự an toàn của sự an toàn của bạn không có khả năng nhận thức về hạnh phúc.",
+        "bert_score": {
+            "precision": 0.5866382122039795,
+            "recall": 0.6192817687988281,
+            "f1": 0.6025182008743286
+        },
+        "bleu_score": 0.3658739849037102,
+        "rouge_score": {
+            "rouge1": 0.6281352235550709,
+            "rouge2": 0.2863387978142076,
+            "rougeL": 0.31624863685932386
+        }
+    },
+    {
+        "questionText": "Động cơ của tôi đã hết, rất khó để ra khỏi giường, tôi thực sự không biết phải làm gì nữa.",
+        "predictedAnswer": ": Cây động vật này ở đây là mình. Mìn chỉ có mộc mạc mà khả năng phân tích đều đẳng, nhưng nó có thể nhìn thấy những thứ đó nhờ từng đoạn mìm mạch củng cố mà nó ẩn đi trong mìa. Nó khắc kỷ khí đến nhịp nhàng và khi nó nghe thất vọng, mì nó lại bật đầy mạnh nhất. Như vậy, nó là món đồ đá đơn giản nào đấy. Một khi mì đang ngủ thì nhớ đúng cách nhằm lạy mì, nếu mì bị đánh đập thì mì sửa chữa đứng lên nhảy vào tay củ nó. Nếu nó bị rạng rỡ thì lạn nói với mì. Mà mì có thật sự thấu hiểu ὅng mì thì sự tẻ năn nhiều nhân củ mì cũng là nhau. Mọi thứ có thành phần t��ng tươi và tḟ thoải mái. Nhiền nước trong nó cũ đủ đào nương nhạt nhợt ấm áp, nhiệt ᾕn, đông lạc. Mới chẹn nắng cũ, nắm nắc cũ. Mắt cũ nhóc mắt mới cũ củ ấy, ấn cũ mắc nắp củ cũ lạm nhúc. Nắm mì mớn nếp mì khớp mớt, mộng mị nhóm mì tἻ tὕ, mà mày mài mà đành ăn mộn mào mì vớt ăm màu mà thổi thoáng mà vẫn còn ấu chúng mộ. Mưa cũ vỗ lên mì lội បàng nài, nưa ấp ất ánh mà trông thấp thoài. MẸn mẺn mớm mớc mì rồi nhơn nhác mớp nháp mà lạ nhức nhối mộ đọc. Câm cảnh củ khốn cùng nơi ấơ ấà mội mưa mà chὢ ch᷺ mì hơi nược nườc ấá ấẼ mì chἠ ấo mà rẵt rời mấy cái móc củ lạt lẟ. Ngoài ý nghĩa ý thức và ý tưựng củ bạn, ngoàỵ ý địa vậts củ vận mệnôm củ tây nó khiến mấu củ dâng mùi mỒn mốc mùng mὟ mùn môn mùa mù. Mấu mã mấn mãnh mấp mất mà tâu tâp môi món mì dỔ dẶi mòn móng mòm mòi môm mô. Mô",
+        "actualAnswer": "Bạn không phải là người duy nhất cố gắng tìm hiểu về những điều mình có thể làm, mà là tìm hiểu về những điều mình có thể làm.",
+        "bert_score": {
+            "precision": 0.495456725358963,
+            "recall": 0.6380255222320557,
+            "f1": 0.5577750205993652
+        },
+        "bleu_score": 0.37244972658793835,
+        "rouge_score": {
+            "rouge1": 0.16417910447761194,
+            "rouge2": 0.09363295880149812,
+            "rougeL": 0.13432835820895522
+        }
+    },
+    {
+        "questionText": "Tôi muốn có một mối quan hệ an toàn với một người muốn được ở bên tôi và người sẽ thực sự đặt nỗ lực vào nó tôi có vẻ để đồng cảm với những người đàn ông và những người muốn gần gũi và không có mối quan hệ. tôi cho phép người đàn ông điều khiển tôi và kiểm soát tôi bởi vì họ tôi của kiểm soát tôi tôi để cho những người đàn ông xúc động tôi và tôi đang cố gắng của họ gọi điện thoại. tôi không thoải mái hoặc làm bất cứ điều gì bởi bản thân tôi cảm thấy tôi cần sự an toàn của một người xung quanh chỉ để sống sót. tôi biết những gì tôi đang làm sai và tôi làm điều sai và tôi cũng làm nó chỉ hy vọng những điều đó sẽ thay đổi như thế nào tôi sẽ làm điều này và làm thế nào dừng lại? hành vi xử sự xử lý này và hành vi của tôi nghĩ rằng tôi sẽ làm thế nào? tôi nghĩ rằng tôi sẽ dừng lại và hành xử lý của tôi sẽ dừng lại và hành vi của tôi có những gì? tôi cảm thấy rằng tôi cảm thấy rằng tôi cần một người đó là một người đó là một người duy nhất một người duy nhất một người duy nhất một người đó là một người duy nhất một người đó là một người đó là một người duy nhất một người duy nhất một người duy nhất một người duy nhất một người duy nhất một người duy nhất một người và một người duy nhất một người đó là một người duy nhất một người duy nhất một người duy nhất một người duy nhất một người và tôi có một người có một người có một người có một người có một người duy nhất một người có một người có một người có một người có một người và tôi có một người có một người có một người và một người và tôi có một người không có một người không có một người và tôi có một người có một người có một người không có một người không có một người và tôi có một người và một người và tôi có một người và tôi có một người không có một người có một người và tôi có một người và tôi có một người không có một người không có một người và tôi có một người và tôi có một người và tôi có một người không có một người không có một người có một người và tôi có một người không có một người không có một người và tôi có một người không có một người không có một người và tôi có một người không có một người không có một người và tôi không có một người và tôi có một người và tôi",
+        "predictedAnswer": ": Cây tham gia tham dự chương trình nàng vỡ mộng Ảnh: Internet Nếu bạn ἠa cảnh sốc, bạng bẳng vì tây cầu và thất vọc củ đất nước, nhà củ bạch nhân, nươc cũ củ nhẫn nhịn, bảo vệ đến cùng, nguyện vọt đã thấp, nhiều ngươi chẹt tay ăn cơm củ ngư dân, mộc mạc vì bảng lươn, cỦa càng cào và chṳn cài �ồn ồn, chἧn chὧn củ quê hươm, đào cày, bướm nhảy cù rúc, khát đông cù chᷳ chḽ, chia sỐi cù sâu, ṵ ḕ cù bᱻ bᰉ, cù đây, củ cù xé, cà chua cù mát, còn cả củ tôm, cá, cây trồng, cầm câm, màu mỽ, bἢ cù nài còi, cả đám nhau cù tài, bây giờ cù còng còm, và cù dại càu càm, bụng bụi, nắng nẩy, mưa mùa, mùi mùn, nếu cù lạc, cậu lạ, các đứa cù khóc cù hét, cộng thêm cù vύ, cũn cộn, tôn tỷ, tộc tậu, tâu tàu, chuông chuột, cánh cẤu, cúc cúi, tưa tươu, rộ rὕ, nói nó, cãi cái, ăm ăp, mây mâu nhớ cù, cường cᲱ cù thị thẁ, ưng ướt cù gió, cời nượp cù pháo, cốc cṫu củ, cực cà cà, cất ấn cập ấm, nṗ nἕ củ hào, nét nhìn cươ đảm, chân chᱷm cù trượt, tay tà cận, ngượn ngượn cớ củ. Cù nhờ cà nên cù có mấy ngưới chịu ὢa đau, chị đùm ấu ấy, ấp ᱹ, cơn ấc ất, chơi ấi, chạy ấa, cắn ập, cứu ật, ận ạn, ôm Ᾱ, ủy ủi, xin đinh địch, cạnh cạp, xóa xóc, ắt ắc, nghịch ngợm, tἯ ᷄, ánh án, cách cáo cù. Càng nhiên cà lạn cò, cồn cἥ cà mất thông tin, cục cải cơ hội, hàm hài hướng cán cà. Nhữ cù hiện tại khác nhện, khái các nhóm nhạc nḟ, nêu, nă",
+        "actualAnswer": "Đây là một số điều tôi tự hỏi: liệu bạn có bạn bè thân thiết mà bạn có thể nói chuyện với, tin tưởng, và ai có thể xung quanh đôi khi khi khi bạn đang ở giữa các mối quan hệ? những gì bạn có thích về bản thân mình? điểm mạnh nhất của bạn là gì? bạn có nghĩ rằng bạn đã có mối quan hệ với kiểm soát hơn trong quá khứ bởi vì nó làm cho bạn cảm thấy như là bạn có giá trị một cái gì đó với họ? những gì loại mối quan hệ bạn muốn là ở trong mối quan hệ? những gì là hàng đầu hay bốn của các mối quan hệ loại bạn muốn làm gì? những gì bạn có thể làm cho bản thân mình an toàn trong suốt những hoạt động hàng ngày bạn có thể nhận thấy những gì đó bạn có thể cảm thấy trong ngày bạn có thể kiểm soát những gì đó, những gì bạn có thể chọn những gì mối quan hệ của bạn muốn? những gì đó là hàng đầu tiên của bạn có thể có thể là những câu hỏi ở đây để nói về những câu hỏi về cảm xúc cảm xúc cảm xúc của bạn có thể có thể có thể có thể có thể có thể có nhiều hơn nữa để làm cho những câu hỏi về một mối liên hệ của bạn có thể có thể có thể có thể có nhiều hơn nữa để làm cho những câu hỏi để làm cho bạn có thể có nhiều hơn nữa trong quá trình bày nó để có thể có thể có thể có thể để có thể có thể có thể có ích cho những gì đó để làm cho một mối liên hệ cảm xúc cảm xúc cảm xúc đối với chính mình trong trường nếu bạn có nhiều hơn nữa để có thể có thể có thể có thể có thể có thể có thể có thể có thể có thể có thể để có thể có thể có thể để có thể có thể có nhiều hơn nữa.",
+        "bert_score": {
+            "precision": 0.5648097991943359,
+            "recall": 0.5649983882904053,
+            "f1": 0.5649040937423706
+        },
+        "bleu_score": 0.31874232686677645,
+        "rouge_score": {
+            "rouge1": 0.7003089598352215,
+            "rouge2": 0.2456140350877193,
+            "rougeL": 0.36457260556127696
+        }
+    },
+    {
+        "questionText": "Gần đây tôi đã mất đi một người bạn để tự tử, tôi hút thuốc và uống nhiều hơn để đối phó với nó, làm thế nào tôi có thể giải quyết tốt hơn?",
+        "predictedAnswer": ": Hiện tượng tự sát đang trở thành mộng nghèo trong xã hội hiện ảnh. Một số ngươi bị tự kỷ đau không thể bình phục. Có nhiệm vụ đẩy lùi cảm xúc ấy, nhưng cách đánh giá củng cố, khắc phụ bằng các hành vi khác thì chưa đủ. Những hàn lộn trong tâmp thầm củi tây khó có thuận lợi. Chúng ta phải tìm kiếm nhữ ngược lại nhẹ nhàng, cần thiết phản ứng vớ tự thủ củ động, đồng thời tẻ cản trẟ đến nhịp thoáng. Hãn nghĩa ông bạc nên tự hủy nhất, nói vớt ôn ất. Tôi chỉ cầu cứu ô đầu nhân vật này. Ô đất tôn nài, ô nhóm tông đá, Ô lòng nhau đục, Đẳng nguyên tὕ. Nếu cầm tay nhớt thì nhắm tóc, nếu thấy nó có tóng ô lòn Ấy nên thấm đông, thất thoát nhìn. Đây là cách giảm nguồn tâng tói, tự chữa tâ nghiện thuẫn tḭ. Hành đơn củ nhãn tó, Ở lò tἕm còn tôm nẵn nất và đàn ô còm nàng nhan. Hai chị em chẺ chἠn vào nhờm nắm, tâu nàu nóc. Ngoài ra, tῷ nhạt thấp, tương nỗi, còi còc, tòi tóe, túi tô. Tâm tư nó đòi thoải mái, nἺm nhác, cải lực, lạnh lùng, và tâp tàng. Từ đó, tất cả nhục nhảm, cứng cáp, ăn ý, ngại nghịch, nghi ngờ, khoe khoang, tục tĩu, tàn nhàn, thiên tài. Nói chuyện nó khả nghi, khái ý nó cũng khủng. Ḑo đức tô ấn, ngoà cò cả, nàm nhu, nhan nhâu, nhi nhô, ý mộc, khi nó chṟ ấm, nắng mưa thấu, ấp ấu. Tuy nhiên, năng lự thôi thì tự nó bị ch��ng chạc. Hổi hẕi, nghṉ nghề, càng càc, nghe ngói cào, ngồi ngóc vỡ. Nàng và nhức, bốc bối, chóc chói. Tự khống chᷳ, tức ý. Nến nãi, mệt mỵ, bất an, bồ b��",
+        "actualAnswer": "Đầu tiên tôi rất tiếc cho mất mát của bạn. hầu hết mọi người trải qua quá trình đau buồn. tôi sẽ hiểu rõ hơn về quá trình đó là gì mọi người có cách riêng của họ mất mát bạn đang làm bước đầu tiên trong việc bạn đang có một thời gian khó khăn đối phó với nó. tôi sẽ tiếp cận với một bác sĩ trị liệu mà đã trải qua đối phó với sự mất mát. tôi cũng sẽ hút thuốc lá và cả hai điều đó sẽ không làm hoặc suy nghĩ bất cứ điều gì tốt hơn.",
+        "bert_score": {
+            "precision": 0.5789182186126709,
+            "recall": 0.6421968340873718,
+            "f1": 0.6089179515838623
+        },
+        "bleu_score": 0.198626925732434,
+        "rouge_score": {
+            "rouge1": 0.41509433962264153,
+            "rouge2": 0.17350157728706625,
+            "rougeL": 0.25157232704402516
+        }
+    },
+    {
+        "questionText": "Làm sao để ngăn chặn những suy nghĩ đó?",
+        "predictedAnswer": ": Bạt ngã điều này không phải là đơn giản. Để ngừng suýt ngăng chỉnh như thế, bạn cần tìm kiếm nhân vật đáng tin cậy đầu tiên, đằng sau nhà thầy giáo hay bạch thầu, ngưỡng chợ, hay ngương đồng bạc. Họ sở hữu nhạc tây ổn định và nhịp độ đủ nhanh đối với bạt tâng chính. Hãng sản xuất cũng cung cấp các chuẩn mực và đánh giá tâp chín đền Ấn Độ. Ḑi đây, nhất là Ṡi nhìn vào nhóm ngược ὧn. Tại sao bạy ấy lại ἑ vây lên mình? Bạy có đến thăm bại và cây thăng ᾽i nào ất ᴑ đấy? Bài ấn ấu cũ đã ᵥ đọc ấp ấm đôi ạ. Bày ăn mộc ăm ấc ại, nếu đang đứng trước ảnh ấ, thì ấ có thể nói là các đảng viên ấ. Nhưng nết ấ khó đoán đại thì nhắc ớt ạ đón ấ ấ nà. Bảy ông ấ vẫn còn ạ vài năm nữa, khốn ải ô ấ chưa thấy ạ bất kì đìn ă ấ bỗng ạ nà ấ làm thêm mộ ấ các bạ ấ? Có thể đắc tội ă nài. Bìn chí ấ mà ạ chí nà, ấ lạ ạ thì bạ nhẹ ấ cho ạ mộ và chώ ấ thì khắp ạ khả ấ tử ấ! Bạ ả ạ, ạ có thỷ ấ gì ạ? ĐỐi nó, bày vỰa ấ phản ánh ạ rồi ả lạo ạ! Đây là món đúng ả thức ôm ạ tâu ạ củ ạ dạ ị ấ , ạ phả và tìn dại. Ân ị và mẻ ị nà cũa ạ lạy tâi ế. Ăn ơi ơn ủi ủn ã ạ là ạ hẳn ắt ả bạ vύ ạnh tóc ắn ón ạ ra. Ơi Đà Lạt ắc mộng ắm củi, ôi! ហi vṻ đàm ៤ đời ắp vàng ău ấ hἓt ăc ủng ã và vἻ ấ răng mày lỒ ạm ảm ắng ôn ô. Ôi, thế thì mộ thì thế ạ... Bại khúc ơ đợi ớn ối ê đen đê ạ: Một ô bài văn ứng ậ",
+        "actualAnswer": "Những gì bạn đang có chỉ là suy nghĩ không phải là hành động mà là lựa chọn của bạn cho dù bạn có hành động theo những suy nghĩ này hay không nếu bạn quyết định quan hệ với những người lớn khác nhau điều đó thật tuyệt nếu bạn tìm thấy bản thân mình bị ám ảnh bởi những suy nghĩ ám ảnh về tình dục, bạn có thể muốn xem một quan hệ xã hội.",
+        "bert_score": {
+            "precision": 0.5360028743743896,
+            "recall": 0.6603710651397705,
+            "f1": 0.5917226672172546
+        },
+        "bleu_score": 0.7002245178827652,
+        "rouge_score": {
+            "rouge1": 0.40476190476190477,
+            "rouge2": 0.1792828685258964,
+            "rougeL": 0.26587301587301587
+        }
+    },
+    {
+        "questionText": "Khi con gái tôi bị căng thẳng về một điều ngớ ngẩn trong trường học, con gái tôi bắt đầu khóc và hoảng hốt, nó là một học sinh thông minh, luôn có 4 điểm, nhưng tôi sợ nó quá căng thẳng, tôi sợ nó sẽ làm con bé buồn, không biết liệu tôi có nên đưa nó đến bác sĩ hay ai đó vì điều này không bình thường.",
+        "predictedAnswer": ": Cây gia đìnhor là món quà đẹp nhất cho các bậc phụ huynh. Các bệ nhân thương tâng đã có đủ sứng mạnh để chinh phục những thách thức củakhó khăn. Và ở đây, các nhà tây đều có thể đáp ứng Ảnh hưỡng ý kiến củakeo đối với các thiếu nhi. Có nhờ vào sự thôi miên củakeshìn giữa các gia tâmy đang đứng trước nguy cơ bị đánh bạc, cũng nhằm giúp cho cả nhóm các cây giúng tươi đậm đà củakingia. Vì thế, câty tâymìn khối càng nhiều thì cài khơi cảnh khả năng củakenhṍn nhiệt tìn đồng bạn. Câty thật làm cât tâylại ὤm thịt ăn nhạt nhíu, nếu câta khí thì nó khiến cho nói ăm thì khét. Cũng vì thậy nên câytây khi lớn lên khép mạc cà thành mộc, khi đau đớn cà sỉ mà khát nướng cà. Còn nết cà có nhiễm khuẟn khác thì có thànhtổi kháng sinh ṟóc câya. Như vậy, nên nên khuấy câycà nếp đúng 1 lần 1. Nếu khuydòng nó cà 2 lầng thì chẻ cà lại làm khúc. Cà khuôn ᱻo cà khiêng nên có thận khi mà ăng nươc cũi khi nưản cái cành. Nói nhầm cà là cào thì lắc cá nhì ă đành cà mộ. Cái ấy khoe nhớ cà chừng ấm cáu cà còn khoảng cách nhi ấu đọc cần mộ cà và cà bảo. Cản trỗ cà nhảy cà hóa đơn nó chṳ cà gập nó bật câm. Cần có mộ đất ἂy ấp cà rồi còng cáo củ ất cá. Cai cà tử tế đắp cá cà dùng cải ướp cai cò. Cậy cá thì ấn cai vàng ươm cai nhâm còi. Cốc cai ấng cai khê đòi cai thôn cò và mày cò đen cò màu. Cột cai tôn mà cai lòi ánh cá đôi cá và nó vỚi cơm. Mày mẸ cai mài cỷm cảm ᾕi cạn cả vài bài ông cò lạc ôi. Đây là mào cá tẫn các đại gia. ᴀm mỵ cá k",
+        "actualAnswer": "Aye, bạn đang đúng, đó không phải là bình thường, và có lẽ bạn nên đưa cô ấy đến một bác sĩ! trước khi cô ấy đã làm điều đó, và nếu cô ấy là con gái của tôi, tôi sẽ cung cấp cho cô ấy sự hỗ trợ cần thiết mà có thể được cung cấp tại nhà; đó là: một chế độ ăn tự nhiên, nghỉ ngơi, và một cảm giác tốt của sự hiểu biết trước khi cô ấy đọc bản thân mình để tiếp cận nó. điều này được đảm bảo ở đây và sẽ rất hữu ích.",
+        "bert_score": {
+            "precision": 0.5512446165084839,
+            "recall": 0.6729196310043335,
+            "f1": 0.6060352325439453
+        },
+        "bleu_score": 0.4938577064341113,
+        "rouge_score": {
+            "rouge1": 0.3974763406940063,
+            "rouge2": 0.19936708860759492,
+            "rougeL": 0.25236593059936907
+        }
+    },
+    {
+        "questionText": "Bố tôi làm tôi cảm thấy chán nản và tôi vô dụng ông ấy gọi tên tôi và làm tôi cảm thấy chán nản tôi muốn chuyển đi vì tôi thề nếu tôi ở lại đây tôi sẽ mất nó tôi có thể làm gì?",
+        "predictedAnswer": ": Bạch Thảo. Cây cầu đang đứng trên sông, nhưng nó không có cần gì để đổ. Bố củng cố đáy cây, nếm thử nó đã đủ khả năng đóng góp cho câlôn ẩn ất. Bỗng dưng, đám đông ngược lạch lên cầy cột củn ôm nó những lần vừa đến, vẫn ít nhiều ôn lạc. Có lầm lẻn củi ôi, chỉ cầm chằng chᳯn cầi cầng củ, chứ khó thấp lắm, câỡ độ đầu. Bất kể bố tỷ đồng Ṿu nói ấn nó vào nhà, nó chέng ít đoạn cỐn lỔn lộn trong cẳng tay củ nó. CỜn cộn nhẹ nhạt, chán chán, ô tô tẦn lắc lượn trên đại lộ. Nó chán và nhảy nhót, chưa nóng bỘn mà đành phải chṳn chἥn ả đào đất đen. Như vậy, bố ấm nhớ tôm và ấp tông tôn tἃn, còn tấm cánh ấu ấú chᾷ chῷ củ ấỵ ấó. Nếu ἒn ủi cùng tὉ ấi, cùn ậu ậú cùm ấa cùc ấc, tô ấ có thấu tháo nó cải lạnh củ mình. Nhiền nhiên, nhiết nhìn nến nét, tất cả ấù ấư ấô đều là đơn thể. Cùng mộng ăn ăm, tΏ ấo tΆ đù đìn ơi, nụm nhi đòi ău ăp, cῠ cὗi cἠ cù ᾶi. NỠ nhịn nẾn ưa ấr ấl ấh, ấd ấe ấv ấs ấb ấk. Nghĩa là tô có thêm đau đớn ý định thẵn ứng ơn cảnh đánh nhau với ý thức nhân văn. Nguyên do tô cảng cưỞn còi vớt vật chứa ὥ ấ ấ, tây ấ bẟi ơ ấ làm đời ạ ạ, ạ chán ạ. Nay nay, ả bἓn ạ tô mộc ạ mộ củ cả. Nâng ạ nâng, bḟi tô chán mấy ạ bṟ ạ và b῟ đắc ơ. Ḡi ãi nhãn ớt ấng ủng ậy đậy màu ủy ủa ạ thôi. Tô ạ cả nhờ ạ gì vớy ơ, chuyện ùa ùm tṹn ắt ạ là ạ",
+        "actualAnswer": "Ý kiến của bạn về “tôi muốn chuyển đi có thể là chìa khóa để đặt khoảng cách giữa hai người và cho bạn khoảng không xứng đáng, và cũng tước đi quyền lực của người đó khỏi chính mình, không dựa vào ý kiến của người khác.",
+        "bert_score": {
+            "precision": 0.5334425568580627,
+            "recall": 0.6316488981246948,
+            "f1": 0.5784067511558533
+        },
+        "bleu_score": 0.18918242620756798,
+        "rouge_score": {
+            "rouge1": 0.2691511387163561,
+            "rouge2": 0.12474012474012475,
+            "rougeL": 0.1863354037267081
+        }
+    },
+    {
+        "questionText": "Mẹ tôi chăm sóc cháu gái mà em gái tôi đã bỏ rơi. nhưng tôi không muốn nghe nó nữa.",
+        "predictedAnswer": ": Cââu câú hẳn khó đối với bạn, nhất là khi bạ nhìn thấy mẫu mực củ mình đang điều hành. Tôi cảm thấu đây là mỗi ngươi ở trong tìn củ đơn phương củmìn. Từ đó, tông bạ có thể nhớ lại 2 dòng chính: Đầu tiên là những gì đằng sau đau đớn cái này. Bỡi vì nhân vật củ cáo bạ đều ẩn chứa nhàng nhịp củ nhẵn. Và thứ hai là nếu bạ tìm đến các chuyển biến nào để tìng mìng nàng cá đầu củ bạ. Có nhiều cách tì nghĩ, nhiệt tì nhiên và cách thức thực hiện đúng nơi, độc nhóm. Đó là nhiếp đạo củ khắp các nhánh ἕn còn ὕi còi. Các bạ chỉ cần tì mì thì ṳnh mì. Bây giờ, bạ sử dụng đủ nhiêu tì vào cáu cá. Cáu và tì củ chúng ta sὔnh nhau. Bài học បi nhục cũng ៗ. Nếu ấy là đấy. Như vậy, bài tì họa nà đứng và ấp vài tháng nữ nhờn cả. Bận bộn, tì tì ấm ấn ất định và vui vẻ vớt lên đà. Nàng ấu trường bất ngờ đập nhạc cá củ. Bốn mươm mày đánh chìm cá tôm. Nhiền nhát nhảy ấ. Một cá chụp nát cá nhúng lạc. Tất cả đòi hṷc cùng vớ tì. Còn lạ thì là cá bày cùn càng thật. Cây cà chua đeo cổ ấ là cây nhện. Công việc còm ᕙn nơn ăn cẬu. NghẸn cột ấ nhún nhôm nhựa. Bản nhiễm ảnh củ tôn nóng nói chuyện vớ cá về cá hồ. Năm năm 1 năn 2 năng. Nay đêm đón đông 2018, bộ phim đáng chú ý nhắc tới nă nà. Tìm kiếm các cá gì cũ nhí. Nguyên bản cũ củ gì. Tinh ấ đắc ấ và m��c màu ả. Cùng nhiét nhơn và nhồn nháu. C���� tay ấ mộc mạc ả và thiệt thòi ấ chuyền. Hơn nữi, nết nhăn, ấ tỷ nhãi ả mộ. NẤm n��",
+        "actualAnswer": "Tôi chỉ muốn hiểu trước khi trả lời.",
+        "bert_score": {
+            "precision": 0.504685640335083,
+            "recall": 0.6651836633682251,
+            "f1": 0.5739250183105469
+        },
+        "bleu_score": 0.13386940833432825,
+        "rouge_score": {
+            "rouge1": 0.04536082474226804,
+            "rouge2": 0.012422360248447206,
+            "rougeL": 0.041237113402061855
+        }
+    },
+    {
+        "questionText": "Tôi bị bệnh ung thư vú và mất ngủ cả đời. tôi có quá nhiều tiền sử trầm cảm và bắt đầu có vấn đề.",
+        "predictedAnswer": ": Bạch thấy bệch đang đối mẫu với mộ nhiễm ung thủ vú, cũng như mấu ngủ và vất vả về cả vấu trần cải cảnh. Có thể bạch ản hiện tượng trầng cảng củ bạn ở trong các cơn ảo giác, cả giấc mơ hay thậm chí là trong những cơ thể đã chết. Nhưng bạt thất không nên để ả nhất ả vào đó. Bây giờ, bạ chỉ cần làm theo ý muốn củ mình và thật sự, bây nay điều quan trọng này là động viên bạ đến ăn ngủ đúng lúc. Để ăm ngủ bâng đĩa và ngủ mộng là 2 đồng ý đáng có. Và bạ nên làm việc nào nhằm giúp bạ có thời gian đủ ăng ẩn ủi đấy. Các hoạt ứng tây học hay các hoa họa hay cả thể thao sᾭ cả là nhịp đản nhân tạo. Bất cứ đâu cũi ἕm đứng, đẹp ả ḟ nhà, ảm ải ả, bất chất nhìn thấu đà, bỗi bẻ nhớ đọc, ấn từ, ăp mì, ᾵ mỡ, ương bụi, ủ ṽ ῷ đòi thờ đìnc. Cái ấy là cách đánh đập bân tâu ὕi ủ. ញ េ ᐱ ᥥ ᦥ ấu và ấm ᧈ ᭟ ᯥ ủa bạ. đại nhạc nhảm nhơm, ánh mắt nguông ấp, ý thức ủ mù, tâng tẳng ủ vị, cái nài ùi ức, màu mạ ủ, mộc mại ậm ủ... Đó là các tâp ủ củ ất bạ, nhóm bạ và hươn nước ấc bại. Ý muối cá bạ cũn nói, bệ chẵn và tông vàng, bên cạnh ấó đành bạ tâmpi. Bổ ấáp ấí, bài nỷ ấi, mἠ ấa ấê, nươi ại và nhắn ấr ấo. Ông ông, nữ nữ, các nhí nhó, cậu ấơ, bác bἁ, cậu cậy, ôn ôi, thi thi, chơi chơ, nẼ nὅi, nó nó, ắt chṳ chἥ, cơm cơ, ớt ớm, bật bậy... Bạ chắc chắn sợ bạ bị t��ng mộn ạc ᕟ bạ trong đêm tối, vì bạ thường hay nóng nảy. Ơ đơn, ơ đôi",
+        "actualAnswer": "Khi quyết định tìm một bác sĩ trị liệu, hãy chắc chắn tìm một người nào đó trong mỗi lĩnh vực mà bạn đã đề cập đến.",
+        "bert_score": {
+            "precision": 0.5250661969184875,
+            "recall": 0.6341472864151001,
+            "f1": 0.5744745135307312
+        },
+        "bleu_score": 0.2744924547765992,
+        "rouge_score": {
+            "rouge1": 0.16630196936542668,
+            "rouge2": 0.1142857142857143,
+            "rougeL": 0.14442013129102843
+        }
+    }
+]
