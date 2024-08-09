@@ -42,5 +42,9 @@ Kết quả so sánh cho thấy `vinallama-7b-chat` hoạt động tốt hơn.
 ## Triển khai
 
 Chúng tôi đã triển khai chatbot sử dụng Streamlit và vinallama-7b-chat sau khi fine-tuning. Xem demo tại liên kết sau:
+https://www.loom.com/share/83057b5b7d664be1adaa1c9ad9f28426?sid=d520605d-85b5-495b-8ee1-7fafe49d9d72 
+Hình ảnh demo:
+![image](https://github.com/user-attachments/assets/15cf9035-1429-40da-afa2-760e3baef708)
 
+![image](https://github.com/user-attachments/assets/c12e8106-16b8-48b4-9c79-4c865cda301a)
 
