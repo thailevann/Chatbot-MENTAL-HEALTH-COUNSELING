@@ -28,7 +28,7 @@ Tổng hợp toàn bộ dữ liệu được lưu trên Hugging Face Hub: [thail
 
 ## So sánh Mô Hình
 
-Dựa vào bảng xếp hạng VLMU, chúng tôi đã chọn hai mô hình để so sánh:
+Dựa vào bảng xếp hạng VLMU, chọn hai mô hình đứng thứ 14 và 15 để so sánh:
 - `ura-llama-7b`
 - `vinallama-7b-chat`
 Sau khi fine-tuning, lưu 2 model lên Hugging Face Hub
