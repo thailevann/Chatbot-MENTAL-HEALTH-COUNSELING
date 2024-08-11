@@ -24,7 +24,7 @@ Dự án Chatbot-MENTAL-HEALTH nhằm mục đích cung cấp một công cụ h
 
 3. **Dịch data từ tiếng Anh sang tiếng Việt:**
    - Dữ liệu được lấy từ [Amod/mental_health_counseling_conversations](https://huggingface.co/datasets/Amod/mental_health_counseling_conversations)
-   - Tổng hợp dữ liệu được lưu trên Hugging Face Hub: [thailevann/mental_health_vi_1](https://huggingface.co/datasets/thailevann/mental_health_vi_1)
+Tổng hợp toàn bộ dữ liệu được lưu trên Hugging Face Hub: [thailevann/mental_health_vi_1](https://huggingface.co/datasets/thailevann/mental_health_vi_1)
 
 ## So sánh Mô Hình
 
