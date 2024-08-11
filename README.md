@@ -1,6 +1,6 @@
 # Chatbot-MENTAL-HEALTH
 
-Dự án Chatbot-MENTAL-HEALTH nhằm mục đích cung cấp một công cụ hỗ trợ tâm lý qua chatbot, với dữ liệu được thu thập từ nhiều nguồn khác nhau để tăng cường chất lượng và độ chính xác của các phản hồi. Dưới đây là chi tiết về cách chúng tôi thu thập và xử lý dữ liệu, cũng như các kết quả so sánh mô hình và triển khai.
+Dự án Chatbot-MENTAL-HEALTH nhằm mục đích cung cấp một công cụ hỗ trợ tâm lý qua chatbot, với dữ liệu được thu thập từ nhiều nguồn khác nhau để tăng cường chất lượng và độ chính xác của các phản hồi. Dưới đây là chi tiết về cách thu thập và xử lý dữ liệu, cũng như các kết quả so sánh mô hình và triển khai.
 
 ## Thu thập dữ liệu
 
